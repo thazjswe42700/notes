@@ -1,0 +1,9 @@
+title: NAS 实操笔记
+description: NAS / Docker / 内网穿透的可复现部署文档
+theme: jekyll-theme-cayman
+lang: zh-CN
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: false
