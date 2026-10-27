@@ -102,3 +102,12 @@ http://您的NAS地址:8787
 ---
 
 原文：<https://www.passnat.com/posts/rocker-r-language-container-image-deployment-rstudio-remote-development-docker-version-management>
+
+
+## 相关文章
+
+- [RStudio 数据分析：NAS Docker 部署 + 内网穿透](rstudio-nas-docker-r-data-analysis-intranet-penetration.md)
+- [code-server 自建网页版 VS Code：飞牛 NAS Docker 部署远程开发环境，内网穿透出门也能写代码](codeserver.md)
+- [跨平台音乐服务器Lyrion Music Server部署指南，NAS音乐流媒体服务器快速安装教程](lyrion-music-server-nas-deployment-guide.md)
+- [自建私密文件转换服务器Morphos，支持图片文档电子书格式互转，Docker一键部署NAS](private-file-conversion-server-morphos-image-document-ebook-docker-nas.md)
+- [私有社区服务器Circled.me极简部署指南，NAS一键启动无需公网穿透](circled-me-private-community-server-simple-deployment-guide-nas-one-click-startup-no-public-network-penetration.md)

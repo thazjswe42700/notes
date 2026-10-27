@@ -72,3 +72,12 @@ Lyrion Music Server 需要以下端口映射：
 ---
 
 原文：<https://www.passnat.com/posts/lyrion-music-server-nas-deployment-guide>
+
+
+## 相关文章
+
+- [自建私人音乐库服务器，Auddly Music Server 极简部署，内网穿透远程访问享受高品质音乐](self-hosted-private-music-server-auddly-music-server-minimal-deployment-internal-network-penetration-remote-access-high-quality-music.md)
+- [自建私密文件转换服务器Morphos，支持图片文档电子书格式互转，Docker一键部署NAS](private-file-conversion-server-morphos-image-document-ebook-docker-nas.md)
+- [Alger Music Player NAS部署指南，本地音乐服务器搭建，网易云账号同步下载高品质音乐](alger-music-player-nas-deployment-guide-local-music-server-netease-cloud-sync-hq-audio.md)
+- [私有社区服务器Circled.me极简部署指南，NAS一键启动无需公网穿透](circled-me-private-community-server-simple-deployment-guide-nas-one-click-startup-no-public-network-penetration.md)
+- [自建私人音乐库随处畅享，轻量级LMS服务器无公网也能远程访问音乐](private-music-library-lms-server-remote-access.md)

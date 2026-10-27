@@ -156,3 +156,12 @@ volumes:
 ---
 
 原文：<https://www.passnat.com/posts/seafile-nas-docker-private-file-library-intranet-penetration>
+
+
+## 相关文章
+
+- [Gokapi 文件分享：NAS Docker 部署 + 内网穿透](gokapi-nas-docker-file-sharing-expiry-auto-cleanup-intranet-penetration.md)
+- [PicoShare 文件分享：NAS Docker 部署 + 内网穿透](picoshare-nas-docker-file-sharing-upload-link-intranet-penetration.md)
+- [开源文件预览服务kkFileView Docker部署完整指南，支持百余种格式在线查看](open-source-file-preview-kkfileview-docker-deployment-guide.md)
+- [Chibisafe 文件上传站：NAS Docker 部署 + 内网穿透](chibisafe-nas-docker-file-upload-share-link-intranet-penetration.md)
+- [私密文件分享平台 ProjectSend Docker 部署指南，NAS 内网穿透安全共享文件](private-file-sharing-projectsend-docker-deployment-nas-intranet-penetration-secure-file-sharing.md)

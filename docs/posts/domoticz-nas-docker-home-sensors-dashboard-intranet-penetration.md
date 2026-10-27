@@ -100,3 +100,11 @@ Dashboard 按类型分组：Lights/Switches 是开关卡片，Temperature 显示
 ---
 
 原文：<https://www.passnat.com/posts/domoticz-nas-docker-home-sensors-dashboard-intranet-penetration>
+
+
+## 相关文章
+
+- [RomM 老游戏库：NAS Docker 部署 + 内网穿透](romm-nas-docker-retro-game-library-browser-play-intranet-penetration.md)
+- [Metabase 数据看板：NAS Docker 部署 + 内网穿透](metabase-nas-docker-data-dashboard-intranet-penetration.md)
+- [NetAlertX家庭网络看守NAS部署教程，Docker搭建WiFi设备清单，新设备接入早知道](netalertx-nas-wifi-device-scanner-deploy.md)
+- [Docmost 共享文档库：NAS Docker 部署 + 内网穿透](docmost-nas-docker-family-shared-wiki-intranet-penetration.md)

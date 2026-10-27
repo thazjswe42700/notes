@@ -159,3 +159,12 @@ docker restart jmalcloud_server
 ---
 
 原文：<https://www.passnat.com/posts/jmalcloud-private-cloud-storage-docker-deployment>
+
+
+## 相关文章
+
+- [开箱即用网络文学聚合阅读平台 Reader，多源搜索云端同步，NAS部署无需公网远程阅读](reader-network-literature-aggregation-platform-multi-source-search-cloud-sync-nas-deployment.md)
+- [轻量级文件服务器 DUFS 快速部署指南 NAS Docker 一键启用文件共享搜索上传](lightweight-file-server-dufs-quick-deployment-guide-nas-docker-one-click-enable-file-sharing-search-upload.md)
+- [无需公网IP搭建私人网盘，AList聚合多云存储，Docker极速部署NAS文件管理系统](alist-docker-nas-private-cloud-storage.md)
+- [统一网盘聚合管理工具PanIndex，多云存储跨平台部署，内网穿透远程访问无限资源](panindex-unified-cloud-storage-aggregation-tool-multi-cloud-cross-platform-deployment.md)
+- [私人云相册PhotoPrism完整部署指南，AI智能分类照片无限存储隐私保护](private-cloud-photo-album-photoprism-complete-deployment-guide-ai-intelligent-photo-classification-unlimited-storage-privacy-protection.md)

@@ -85,3 +85,12 @@ volumes 里第一行 /var/run/docker.sock 是关键：把 Docker 的接口交给
 ---
 
 原文：<https://www.passnat.com/posts/dockge-docker-compose-manager-nas-deployment-intranet-penetration>
+
+
+## 相关文章
+
+- [Chibisafe 文件上传站：NAS Docker 部署 + 内网穿透](chibisafe-nas-docker-file-upload-share-link-intranet-penetration.md)
+- [自建 Dockhand 容器面板：飞牛 NAS Docker 部署 + 内网穿透](dockhand-docker-management-panel-nas-deployment-intranet-penetration.md)
+- [Portainer容器管理面板部署指南，飞牛NAS用Docker搭建可视化面板，配内网穿透在外面也能管容器](portainer-nas-docker-container-management-panel-deployment-guide.md)
+- [DPanel Docker可视化管理面板一键部署，内网穿透远程访问容器，极简操作无需命令行](dpanel-docker-visual-management-panel-one-click-deployment-intranet-penetration-remote-access-containers-simple-operation-no-command-line.md)
+- [DweebUI容器管理面板轻松上手，Docker Podman全能卫士一键部署运维](dweebui-container-management-panel-docker-podman-deployment.md)

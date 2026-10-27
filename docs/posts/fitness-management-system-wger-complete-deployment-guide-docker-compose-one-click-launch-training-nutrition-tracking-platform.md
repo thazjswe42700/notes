@@ -126,3 +126,12 @@ media - 用户上传的文件（如进度照片）
 ---
 
 原文：<https://www.passnat.com/posts/fitness-management-system-wger-complete-deployment-guide-docker-compose-one-click-launch-training-nutrition-tracking-platform>
+
+
+## 相关文章
+
+- [家庭私人照片管理系统PhotoStructure，NAS一键部署，内网穿透远程访问你的回忆](photostructure-nas-private-photo-management-remote-access.md)
+- [WPS Office 浏览器在线办公：NAS Docker 部署 + 内网穿透](wps-office-nas-docker-browser-online-office-intranet-penetration.md)
+- [Webtop：NAS 上的网页桌面，Docker 部署 + 内网穿透](webtop-nas-browser-linux-desktop-docker.md)
+- [企业级协作服务开箱即用，私有部署支持Docker与Kubernetes，内网穿透远程访问](enterprise-collaboration-service-docker-kubernetes-intranet-penetration.md)
+- [阿里云盘CLI命令行工具NAS部署指南，本地文件云端备份同步方案详解](aliyun-pan-cli-nas-deployment-guide-local-cloud-backup-sync-solution.md)

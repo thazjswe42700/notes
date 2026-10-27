@@ -100,3 +100,12 @@ UPSNAP\_WEBSITE\_TITLE：自定义网站标题
 ---
 
 原文：<https://www.passnat.com/posts/remote-wake-device-management-upsnap-self-hosted-deployment-scheduling-network-discovery>
+
+
+## 相关文章
+
+- [自建私有图片视频分享平台Share Me,Next.js开源替代Imgur,NAS一键部署](self-hosted-private-image-video-sharing-platform-share-me-nextjs-open-source-imgur-alternative-nas-one-click-deploy.md)
+- [本地私有AI聊天助手 Serge 离线运行LLM 无需API密钥 NAS极简部署内网穿透远程访问](serge-offline-llm-chat-assistant-nas-deployment.md)
+- [开源自托管项目管理工具Focalboard部署指南，NAS内网穿透远程访问完整教程](focalboard-open-source-self-hosted-project-management-deployment-guide-nas-internal-penetration-remote-access-tutorial.md)
+- [BGmi番剧自动追踪管理工具Docker部署指南，NAS内网穿透远程追番解决方案](bgmi-anime-tracker-docker-nas-remote-access.md)
+- [无需命令行Docker可视化管理工具，DockerUI网页界面轻松管理容器与镜像，支持NAS内网穿透部署](docker-ui-web-management-container-image-nas-intranet-penetration.md)

@@ -52,3 +52,12 @@ wikmd 是一个轻量级、开箱即用的文件型知识库系统。与传统�
 ---
 
 原文：<https://www.passnat.com/posts/open-source-private-knowledge-base-wikmd-docker-deployment>
+
+
+## 相关文章
+
+- [Xnote个人笔记系统Docker部署指南，自建私密知识库随处可得内网穿透远程访问](xnote-docker-deployment-guide-personal-note-system-private-knowledge-base-intranet-penetration-remote-access.md)
+- [写公众号不用再手动排版：飞牛 NAS 用一个容器装 doocs/md，Markdown 实时出公众号样式，配内网穿透在公司也能写](professional-wechat-markdown-editor-nas-simple-deployment-doocs-md-ai-intelligent-layout-beautiful-graphic-content.md)
+- [自托管笔记书签管理Benotes Docker部署指南，NAS轻松搭建私有知识库](self-hosted-notes-bookmarks-benotes-docker-nas-private-knowledge-base.md)
+- [DailyTxT 加密日记：飞牛 NAS Docker 部署 + 内网穿透外网访问](private-diary-encryption-nas-local-deployment-dailytxt-intranet-penetration-remote-access.md)
+- [开源评论引擎Comentario一键部署指南，NAS轻松搭建私人讨论系统，Docker快速启动](open-source-comment-engine-comentario-deployment-guide-nas-private-discussion-system-docker-quick-start.md)

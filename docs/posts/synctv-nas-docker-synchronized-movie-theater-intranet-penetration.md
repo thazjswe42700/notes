@@ -138,3 +138,12 @@ docker exec -it synctv synctv user create 用户名 --password 密码
 ---
 
 原文：<https://www.passnat.com/posts/synctv-nas-docker-synchronized-movie-theater-intranet-penetration>
+
+
+## 相关文章
+
+- [Mattermost 团队聊天：NAS Docker 部署 + 内网穿透](mattermost-team-chat-nas-docker-intranet-penetration.md)
+- [Mathesar 数据库变网页：NAS Docker 部署 + 内网穿透](mathesar-nas-docker-database-web-table-family-inventory-intranet-penetration.md)
+- [Wiki.js 知识库：NAS Docker 部署 + 内网穿透](wikijs-nas-docker-team-knowledge-base-intranet-penetration.md)
+- [开源评论引擎Comentario一键部署指南，NAS轻松搭建私人讨论系统，Docker快速启动](open-source-comment-engine-comentario-deployment-guide-nas-private-discussion-system-docker-quick-start.md)
+- [远程同步观影神器SyncTV，NAS一键部署，与全球好友实时同步看电影直播](sync-tv-remote-synchronized-movie-watching-nas-one-click-deployment-real-time-global-friends.md)

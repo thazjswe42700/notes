@@ -88,3 +88,12 @@ http://你的NAS_IP:4827
 ---
 
 原文：<https://www.passnat.com/posts/playlist-dl-spotify-youtube-mp3-download>
+
+
+## 相关文章
+
+- [自建私人音乐统计库 Maloja Docker 一键部署 NAS 内网穿透远程访问](self-hosted-music-stats-maloja-docker-nas-remote-access.md)
+- [个人应用书签仪表板DashMachine Docker部署教程 自托管NAS远程访问内网穿透配置方案](personal-bookmark-dashboard-dashmachine-docker-deploy-nas-self-hosting-remote-access-intranet-penetration.md)
+- [NextBeats复古Lofi音乐播放器部署指南，Docker一键启动，YouTube集成播放，音效混合定制，NAS内网穿透远程访问](nextbeats-retro-lofi-music-player-docker-deployment-guide-youtube-integration-sound-mixing-nas-remote-access.md)
+- [自建私人音乐库随时随地听，Go轻量级音乐服务器Euterpe，NAS一键部署内网穿透](go-lightweight-music-server-euterpe-nas-one-click-deployment-intranet-penetration.md)
+- [网页广播播放器PawTunes部署教程 Docker一键启动NAS内网穿透远程访问](pawtubes-docker-nas-remote-access-setup.md)

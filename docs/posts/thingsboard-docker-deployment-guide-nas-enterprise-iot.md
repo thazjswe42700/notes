@@ -163,3 +163,12 @@ http://你的NAS_IP:8080
 ---
 
 原文：<https://www.passnat.com/posts/thingsboard-docker-deployment-guide-nas-enterprise-iot>
+
+
+## 相关文章
+
+- [私有ntfy推送服务NAS极简部署，内网穿透外网实时通知接收方案](private-ntfy-push-service-nas-minimal-deployment-intranet-penetration-external-network-real-time-notification-solution.md)
+- [MicroBin 临时分享：NAS Docker 部署 + 内网穿透](microbin-lightweight-self-hosted-clipboard-docker-deployment-intranet-penetration.md)
+- [HivisionIDPhotos 手机拍一张就出证件照：飞牛 NAS Docker 部署 + 内网穿透](hivision-id-photos-professional-certificate-photo-generator.md)
+- [PairDrop 自建隔空投送：飞牛 NAS Docker 部署 + 内网穿透跨设备传文件](pairdrop-cross-device-file-transfer-nas-docker-deployment-intranet-penetration.md)
+- [DopplerTask开源自动化平台Docker快速部署指南，NAS轻松搭建工作流自动化系统](doppler-task-docker-nas-workflow-automation-guide.md)

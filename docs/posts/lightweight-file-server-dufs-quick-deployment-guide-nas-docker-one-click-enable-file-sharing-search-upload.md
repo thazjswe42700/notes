@@ -82,3 +82,12 @@ DUFS 是一个轻量级但功能完整的文件服务器解决方案。通过简
 ---
 
 原文：<https://www.passnat.com/posts/lightweight-file-server-dufs-quick-deployment-guide-nas-docker-one-click-enable-file-sharing-search-upload>
+
+
+## 相关文章
+
+- [自建私有云盘系统JmalCloud，Docker极简部署，文件安全掌控在手](jmalcloud-private-cloud-storage-docker-deployment.md)
+- [开源Rust音乐服务器Diosic极简部署，NAS轻量级流媒体解决方案](diosic-rust-music-server-nas-deployment.md)
+- [MeiliSearch闪电搜索引擎Docker极速部署，内网穿透远程访问一键搭建](meilisearch-docker-deployment-intranet-penetration-remote-access.md)
+- [Oxker Docker容器管理工具TUI界面轻量级终端控制，Rust开发支持实时监控日志查看](oxker-docker-container-management-tui-lightweight-terminal-rust-realtime-monitoring.md)
+- [开箱即用网络文学聚合阅读平台 Reader，多源搜索云端同步，NAS部署无需公网远程阅读](reader-network-literature-aggregation-platform-multi-source-search-cloud-sync-nas-deployment.md)

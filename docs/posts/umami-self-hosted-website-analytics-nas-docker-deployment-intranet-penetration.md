@@ -124,3 +124,12 @@ APP\_SECRET 和 TWO\_FACTOR\_ENCRYPTION\_KEY 这两串自己随便生成，别�
 ---
 
 原文：<https://www.passnat.com/posts/umami-self-hosted-website-analytics-nas-docker-deployment-intranet-penetration>
+
+
+## 相关文章
+
+- [Homarr 自建服务导航页：飞牛 NAS Docker 部署 + 内网穿透外网访问](homarr-self-hosted-dashboard-nas-docker-deployment-intranet-penetration.md)
+- [自建 Smart Mermaid：飞牛 NAS Docker 部署 + 内网穿透外网访问](smart-mermaid-ai-text-to-diagram-nas-docker-deployment-intranet-penetration.md)
+- [自托管监控工具Uptime Kuma极简部署指南，NAS一键启动Docker容器实时监控服务可用性](uptime-kuma-nas-docker-deployment-guide.md)
+- [本地部署AI大模型Ollama，离线运行Gemma Llama DeepSeek，支持内网穿透远程访问](local-deploy-ai-ollama-offline-gemma-llama-deepseek-intranet-tunneling.md)
+- [自建 Netdata 实时监控：飞牛 NAS Docker 部署 + 内网穿透](netdata-realtime-server-monitoring-nas-docker-deployment-intranet-penetration.md)

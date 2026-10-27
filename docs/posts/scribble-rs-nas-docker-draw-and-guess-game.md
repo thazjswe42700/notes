@@ -90,3 +90,12 @@ services:
 ---
 
 原文：<https://www.passnat.com/posts/scribble-rs-nas-docker-draw-and-guess-game>
+
+
+## 相关文章
+
+- [DocuSeal 自建电子签署：NAS Docker 部署 + 签署链接怎么发](docuseal-nas-docker-e-signature-contract.md)
+- [Lute 自建外语阅读工具：NAS Docker 部署 + 生词状态怎么用](lute-nas-docker-foreign-language-reading-vocabulary.md)
+- [OpenGist 自建代码片段库：NAS Docker 部署 + 修订差异怎么看](opengist-nas-docker-snippet-share-revision-history.md)
+- [LinkStack 自建个人名片页：NAS Docker 部署 + 公网访问完整步骤](linkstack-nas-docker-personal-link-page.md)
+- [Koillection 自建收藏品目录：NAS Docker 部署 + 照片标签 + 借出记录](koillection-nas-docker-collection-catalog-loans.md)

@@ -180,3 +180,12 @@ environment:
 ---
 
 原文：<https://www.passnat.com/posts/mindoc-docker-deployment-golang-intranet-penetration>
+
+
+## 相关文章
+
+- [私有Beancount记账系统Docker快速部署指南，NAS轻松搭建个人财务管理平台](private-beancount-accounting-docker-deployment-guide-nas-personal-finance-management.md)
+- [Markopolis自托管Markdown笔记发布平台，完全开源无限制，NAS极简部署即可用，支持内网穿透远程访问](markopolis-self-hosted-markdown-notes-publishing-platform-open-source-nas-deployment.md)
+- [开源低代码平台Appsmith本地部署指南，NAS极简安装Docker Compose，无公网内网穿透远程访问](appsmith-nas-docker-compose-local-deployment-guide.md)
+- [写公众号不用再手动排版：飞牛 NAS 用一个容器装 doocs/md，Markdown 实时出公众号样式，配内网穿透在公司也能写](professional-wechat-markdown-editor-nas-simple-deployment-doocs-md-ai-intelligent-layout-beautiful-graphic-content.md)
+- [轻量级Markdown笔记应用NoteFlow，本地部署无需数据库，支持内网穿透远程访问笔记管理系统](noteflow-lightweight-markdown-note-app-local-deployment-no-database-intranet-penetration-remote-access.md)

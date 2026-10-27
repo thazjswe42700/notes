@@ -139,3 +139,12 @@ Many Notes 提供了一系列强大的功能：
 ---
 
 原文：<https://www.passnat.com/posts/many-notes-markdown-notebook-collaborative-editing-nas-deployment>
+
+
+## 相关文章
+
+- [自托管笔记书签管理Benotes Docker部署指南，NAS轻松搭建私有知识库](self-hosted-notes-bookmarks-benotes-docker-nas-private-knowledge-base.md)
+- [私人知识库无限制 Logseq 开源笔记 NAS 部署 内网穿透远程访问管理](private-knowledge-base-unlimited-logseq-opensource-notes-nas-deployment-intranet-penetration-remote-access-management.md)
+- [轻量级Markdown笔记应用NoteFlow，本地部署无需数据库，支持内网穿透远程访问笔记管理系统](noteflow-lightweight-markdown-note-app-local-deployment-no-database-intranet-penetration-remote-access.md)
+- [Slidev开发者演示文稿工具，Markdown轻松创建专业幻灯片，代码高亮实时演示编辑](slidev-markdown-presentation-tool-code-highlight.md)
+- [思绪思维导图：NAS Docker 部署 + 内网穿透](mindmap-web-app-lightweight-opensource-tool-multiple-structure-types-export-formats-nas-docker-deployment.md)

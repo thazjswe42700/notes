@@ -127,3 +127,12 @@ localhost 指的是「打开这个链接的那台机器自己」，所以这条�
 ---
 
 原文：<https://www.passnat.com/posts/nas-self-hosted-cloud-storage-docker-cloudreve-intranet-penetration-remote-file-share>
+
+
+## 相关文章
+
+- [宽带有没有缩水：飞牛 NAS 用一个容器装 MySpeed，它自己按点测速记账，配内网穿透在外面也能看](nas-broadband-speed-test-logger-docker-myspeed-intranet-penetration-remote-monitor.md)
+- [自建开源协作编辑平台Etherpad，NAS极简部署，数据完全掌控，内网穿透远程访问](etherpad-nas-deployment-guide.md)
+- [AdventureLog 自建旅行地图：NAS Docker 部署 + 行程分享](open-source-travel-log-adventurelog-docker-deploy-nas-personal-map.md)
+- [Navidrome 飞牛 NAS 部署与公网听歌](navidrome-docker-private-music-server.md)
+- [qBittorrent 飞牛 NAS 部署与远程下载](qbittorrent-nas-remote-bt-downloader-deploy-intranet-penetration.md)

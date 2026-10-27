@@ -70,3 +70,12 @@ Team IDE 的 Docker 版本基本无需额外的环境变量配置，所有配置
 ---
 
 原文：<https://www.passnat.com/posts/open-source-team-ide-one-click-docker-deployment-guide-multi-database-middleware-management-integration>
+
+
+## 相关文章
+
+- [WhoDB轻量级数据库管理工具，自然语言对话查询，NAS极简部署，无公网内网穿透远程访问。](whodb-lightweight-database-management-natural-language-query-nas-simple-deployment-private-network-remote-access.md)
+- [单文件PHP数据库管理工具Adminer，支持MySQL、PostgreSQL等多种数据库，NAS极简部署内网穿透远程管理](adminer-php-database-management-tool-mysql-postgresql-nas-deployment-internal-penetration-remote-management.md)
+- [自然语言SQL对话工具，AI驱动数据库客户端，支持多数据库NAS快速部署](natural-language-sql-chat-ai-database-client-multi-database-nas-deployment.md)
+- [轻量级网页IDE Atheos极简部署指南，Docker一键启动NAS开发环境无需本地配置](atheos-lightweight-web-ide-docker-nas-deployment-guide.md)
+- [开源低代码平台Budibase快速部署指南，Docker极简搭建应用，内网穿透远程访问](open-source-low-code-platform-budibase-quick-deployment-guide-docker-simple-setup-internal-network-penetration-remote-access.md)

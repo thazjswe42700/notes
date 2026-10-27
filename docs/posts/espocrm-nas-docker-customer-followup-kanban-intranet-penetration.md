@@ -105,3 +105,12 @@ volumes:
 ---
 
 原文：<https://www.passnat.com/posts/espocrm-nas-docker-customer-followup-kanban-intranet-penetration>
+
+
+## 相关文章
+
+- [Dolibarr 小店管理：NAS Docker 部署 + 内网穿透](dolibarr-nas-docker-crm-quotes-inventory-intranet-penetration.md)
+- [Paperless-ngx 自建家庭电子档案馆：飞牛 NAS Docker 部署中文 OCR 文档管理，内网穿透在外面拍张账单就归档](paperless-ngx-nas-document-management-ocr-docker-deployment-intranet-penetration.md)
+- [Mathesar 数据库变网页：NAS Docker 部署 + 内网穿透](mathesar-nas-docker-database-web-table-family-inventory-intranet-penetration.md)
+- [Spug 运维平台：NAS Docker 部署 + 内网穿透](spug-nas-docker-ops-panel-intranet-penetration.md)
+- [Beszel 主机监控：NAS Docker 部署 + 内网穿透](beszel-nas-docker-host-monitoring-dashboard-intranet-penetration.md)

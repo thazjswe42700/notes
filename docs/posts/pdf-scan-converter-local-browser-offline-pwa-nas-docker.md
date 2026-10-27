@@ -48,3 +48,12 @@ rwv/lookscanned.io:latest
 ---
 
 原文：<https://www.passnat.com/posts/pdf-scan-converter-local-browser-offline-pwa-nas-docker>
+
+
+## 相关文章
+
+- [开箱即用 Markdown 笔记应用，多库协作实时编辑，NAS 极简部署 Many Notes 内网穿透远程访问](many-notes-markdown-notebook-collaborative-editing-nas-deployment.md)
+- [自托管日常任务笔记管理器DailyNotes，Markdown编辑加密存储，Docker一键部署](daily-notes-self-hosted-markdown-encrypted-storage-docker.md)
+- [Lookscanned：NAS Docker 部署，电子 PDF 一键变扫描件](lookscanned-nas-docker-pdf-to-scanned-image-intranet-penetration.md)
+- [家常菜谱聚合平台来做菜，材料有限也能做美食，支持离线PWA，NAS一键Docker部署](home-cooking-recipes-pwa-nas-docker-deployment.md)
+- [本地密码生成器PSWD，隐私优先TypeScript构建，支持Docker和NAS快速部署，内网穿透远程访问](local-password-generator-pswd-privacy-first-typescript-docker-nas-deployment-intranet-penetration-remote-access.md)

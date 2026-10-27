@@ -106,3 +106,11 @@ pid: host 和那两个 cap\_add 也是采集需要的：没有它们，容器内
 ---
 
 原文：<https://www.passnat.com/posts/netdata-realtime-server-monitoring-nas-docker-deployment-intranet-penetration>
+
+
+## 相关文章
+
+- [自建 cAdvisor 容器监控：飞牛 NAS Docker 部署 + 内网穿透](cadvisor-docker-container-resource-monitoring-nas-deployment-intranet-penetration.md)
+- [自建 Umami 网站统计：飞牛 NAS Docker 部署 + 内网穿透](umami-self-hosted-website-analytics-nas-docker-deployment-intranet-penetration.md)
+- [自托管联邦即时通讯Databag部署指南，树莓派轻量级私密通讯解决方案教程](self-hosted-databag-federated-messaging-deployment-guide-raspberry-pi-lightweight-private-communication.md)
+- [浏览器里直接 SSH 到 NAS：飞牛 Docker 自建 Next Terminal + 内网穿透远程运维](next-terminal-fnos-docker-passnat.md)

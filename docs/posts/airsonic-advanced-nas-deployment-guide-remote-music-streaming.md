@@ -73,3 +73,12 @@ Airsonic-Advanced 以其卓越的性能和丰富的功能，为音乐爱好者�
 ---
 
 原文：<https://www.passnat.com/posts/airsonic-advanced-nas-deployment-guide-remote-music-streaming>
+
+
+## 相关文章
+
+- [自建私人有声书库，无限音频随处听，Booksonic Air 极简部署流媒体服务](booksonic-air-private-audiobook-library-streaming-service.md)
+- [自建私人音乐库随时随地听，Go轻量级音乐服务器Euterpe，NAS一键部署内网穿透](go-lightweight-music-server-euterpe-nas-one-click-deployment-intranet-penetration.md)
+- [Novel-Plus 开源小说CMS系统 Docker一键部署 AI写作助手 内网穿透远程访问](novel-plus-open-source-cms-docker-deployment-ai-writing-assistant-intranet-penetration.md)
+- [在线音乐标签编辑器 Web版 支持FLAC MP3 M4A 远程NAS音乐管理 内网穿透](online-music-tag-editor-web-flac-mp3-m4a-nas-intranet-penetration.md)
+- [RuoYi-Flowable开源工作流管理平台Docker快速部署指南，企业级流程引擎解决方案](ruoyi-flowable-docker-deployment-guide-enterprise-workflow-engine.md)

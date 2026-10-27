@@ -61,3 +61,12 @@ services:
 ---
 
 原文：<https://www.passnat.com/posts/jellyfin-nas-media-server-private-cinema>
+
+
+## 相关文章
+
+- [Mealie 飞牛 NAS 部署与手机采购清单](mealie-private-recipe-library-nas-deployment-35-languages-remote-access.md)
+- [Homebox 飞牛 NAS 部署与公网查物品档案](home-asset-management-system-nas-deployment.md)
+- [Navidrome 飞牛 NAS 部署与公网听歌](navidrome-docker-private-music-server.md)
+- [Grocy 飞牛 NAS 部署与公网查库存](grocy-self-hosted-nas-deployment-internal-network-penetration-remote-access-food-inventory.md)
+- [AdventureLog 自建旅行地图：NAS Docker 部署 + 行程分享](open-source-travel-log-adventurelog-docker-deploy-nas-personal-map.md)

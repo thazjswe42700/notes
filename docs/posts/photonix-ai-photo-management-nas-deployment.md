@@ -150,3 +150,12 @@ docker-compose up -d
 ---
 
 原文：<https://www.passnat.com/posts/photonix-ai-photo-management-nas-deployment>
+
+
+## 相关文章
+
+- [家庭私人照片管理系统PhotoStructure，NAS一键部署，内网穿透远程访问你的回忆](photostructure-nas-private-photo-management-remote-access.md)
+- [私人云相册PhotoPrism完整部署指南，AI智能分类照片无限存储隐私保护](private-cloud-photo-album-photoprism-complete-deployment-guide-ai-intelligent-photo-classification-unlimited-storage-privacy-protection.md)
+- [Ralbum个人相册管理系统，NAS极简部署，内网穿透外网访问，照片库智能管理](ralbum-personal-photo-album-nas-deployment-intranet-access.md)
+- [自托管私人相册HomeGallery，AI智能识别，NAS极简部署，内网穿透远程访问](home-gallery-private-photos-ai-recognition-nas-deployment-remote-access.md)
+- [自托管照片管理系统 Immich 部署指南，NAS 快速搭建私人相册库，支持人脸识别和智能备份](immich-nas-self-hosted-photo-management-deployment-guide.md)

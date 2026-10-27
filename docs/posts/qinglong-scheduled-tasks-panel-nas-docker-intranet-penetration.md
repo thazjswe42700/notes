@@ -109,3 +109,10 @@ NAS= 那一行换成你自己 NAS 的局域网 IP，下面三行 check 换成你
 ---
 
 原文：<https://www.passnat.com/posts/qinglong-scheduled-tasks-panel-nas-docker-intranet-penetration>
+
+
+## 相关文章
+
+- [Cronicle Edge 定时任务：NAS Docker 部署 + 内网穿透](cronicle-edge-nas-docker-scheduled-tasks-web-ui-job-logs-intranet-penetration.md)
+- [Portainer容器管理面板部署指南，飞牛NAS用Docker搭建可视化面板，配内网穿透在外面也能管容器](portainer-nas-docker-container-management-panel-deployment-guide.md)
+- [自建推送通知 Gotify：飞牛 NAS Docker 部署，家里的脚本有事就发一条，配内网穿透在外面也能收](gotify-self-hosted-push-notification-deployment-guide.md)

@@ -78,3 +78,12 @@ http://你的NAS地址:3000
 ---
 
 原文：<https://www.passnat.com/posts/music-card-docker-deployment-nextjs-music-poster-generator-intranet-penetration>
+
+
+## 相关文章
+
+- [AI盘网盘搜索聚合平台，Next.js打造智能资源管理，NAS一键部署无需复杂配置，内网穿透远程访问。](ai-pan-wangpan-search-aggregation-platform-nextjs-intelligent-resource-management-nas-one-click-deployment-no-complex-configuration-intranet-penetration-remote-access.md)
+- [NotNav导航网站Notion数据库驱动，Next.js打造响应式设计支持内外网切换](notnav-notion-database-nextjs-responsive-design.md)
+- [NextBeats复古Lofi音乐播放器部署指南，Docker一键启动，YouTube集成播放，音效混合定制，NAS内网穿透远程访问](nextbeats-retro-lofi-music-player-docker-deployment-guide-youtube-integration-sound-mixing-nas-remote-access.md)
+- [自建私有图片视频分享平台Share Me,Next.js开源替代Imgur,NAS一键部署](self-hosted-private-image-video-sharing-platform-share-me-nextjs-open-source-imgur-alternative-nas-one-click-deploy.md)
+- [开源日程管理系统Cal.com自建部署，完全控制数据NAS本地托管，支持内网穿透远程访问](open-source-calendar-management-cal-com-self-hosted-deployment-local-nas-storage-intranet-penetration-remote-access.md)

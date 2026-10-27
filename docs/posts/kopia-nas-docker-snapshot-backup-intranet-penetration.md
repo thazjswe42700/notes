@@ -103,3 +103,9 @@ services:
 ---
 
 原文：<https://www.passnat.com/posts/kopia-nas-docker-snapshot-backup-intranet-penetration>
+
+
+## 相关文章
+
+- [ReDoc 接口文档：NAS Docker 部署 + 内网穿透](redoc-api-docs-nas-docker-openapi-intranet-penetration.md)
+- [Hoppscotch 接口测试台：NAS Docker 部署 + 内网穿透](hoppscotch-nas-docker-api-testing-workbench-intranet-penetration.md)

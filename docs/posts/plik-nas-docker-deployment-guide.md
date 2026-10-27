@@ -106,3 +106,12 @@ Plik 是一个功能完整、部署简便的文件分享解决方案。通过 Do
 ---
 
 原文：<https://www.passnat.com/posts/plik-nas-docker-deployment-guide>
+
+
+## 相关文章
+
+- [私有Beancount记账系统Docker快速部署指南，NAS轻松搭建个人财务管理平台](private-beancount-accounting-docker-deployment-guide-nas-personal-finance-management.md)
+- [MinDoc轻量级文档管理系统Docker极简部署，Golang高性能跨平台支持，内网穿透远程安全访问](mindoc-docker-deployment-golang-intranet-penetration.md)
+- [魔豆文库MOREDOC开源部署指南，Golang企业级文档管理系统，支持多格式文件预览，NAS内网穿透轻松搭建](moredoc-golang-enterprise-document-management-system-multi-format-preview-nas-intranet.md)
+- [WhoDB轻量级数据库管理工具，自然语言对话查询，NAS极简部署，无公网内网穿透远程访问。](whodb-lightweight-database-management-natural-language-query-nas-simple-deployment-private-network-remote-access.md)
+- [高效WebP图片服务器Go版，自动格式转换降低带宽，Docker一键部署加速网站，内网穿透远程访问优化方案](efficient-webp-image-server-go-auto-format-conversion-bandwidth-reduction-docker-one-click-deployment-website-acceleration-intranet-penetration-remote-access-optimization.md)

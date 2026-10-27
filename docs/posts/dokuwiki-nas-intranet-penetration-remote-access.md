@@ -91,3 +91,12 @@ volumes:
 ---
 
 原文：<https://www.passnat.com/posts/dokuwiki-nas-intranet-penetration-remote-access>
+
+
+## 相关文章
+
+- [Wiki.js 知识库：NAS Docker 部署 + 内网穿透](wikijs-nas-docker-team-knowledge-base-intranet-penetration.md)
+- [个人知识库TiddlyWiki5 Docker极简部署NAS无公网内网穿透远程访问](personal-knowledge-base-tiddlywiki5-docker-deployment-nas-intranet-tunneling-remote-access.md)
+- [Redmine开源项目管理系统Docker部署指南，NAS快速安装配置，内网穿透远程访问完整教程](redmine-docker-deployment-nas-installation-intranet-penetration-remote-access.md)
+- [开源MediaWiki本地部署教程，Docker快速搭建个人维基百科系统，内网穿透远程访问](open-source-mediawiki-local-deployment-docker-personal-wiki-intranet-penetration.md)
+- [开源私密知识库系统wikmd轻松部署 Docker容器化文件存储随处访问](open-source-private-knowledge-base-wikmd-docker-deployment.md)

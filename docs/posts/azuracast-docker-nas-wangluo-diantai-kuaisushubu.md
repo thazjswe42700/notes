@@ -78,3 +78,12 @@ AZURACAST\_SFTP\_PORT - SFTP 端口（默认：2022）
 ---
 
 原文：<https://www.passnat.com/posts/azuracast-docker-nas-wangluo-diantai-kuaisushubu>
+
+
+## 相关文章
+
+- [家庭鸡尾酒管理系统Bar Assistant部署教程，Docker快速安装配置指南](home-cocktail-management-bar-assistant-docker-deployment-guide.md)
+- [自建独立直播平台Owncast，Docker极简部署NAS，内网穿透远程直播间](owncast-docker-nas-deployment-remote-streaming.md)
+- [开源Rust音乐服务器Diosic极简部署，NAS轻量级流媒体解决方案](diosic-rust-music-server-nas-deployment.md)
+- [Yacht容器管理系统一键部署指南，Docker应用模板快速启动，NAS自建服务完整教程](yacht-container-management-one-click-deployment-guide-docker-application-templates-quick-start-nas-self-built-services-complete-tutorial.md)
+- [高效文本分享平台Hasty Paste II，Docker快速部署NAS私有服务，支持内网穿透远程访问](hasty-paste-ii-docker-nas-private-service-intranet-penetration.md)

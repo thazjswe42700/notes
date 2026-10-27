@@ -99,3 +99,12 @@ services:
 ---
 
 原文：<https://www.passnat.com/posts/lubelogger-nas-docker-car-maintenance-fuel-records-intranet-penetration>
+
+
+## 相关文章
+
+- [自托管车辆保养追踪系统，本地部署LubeLogger，维护记录油耗管理随时查看](self-hosted-vehicle-maintenance-tracker-lubelogger-local-deployment.md)
+- [Swagger Editor：NAS Docker 部署 + 内网穿透](swagger-editor-nas-docker-openapi-api-docs-intranet-penetration.md)
+- [Beszel 主机监控：NAS Docker 部署 + 内网穿透](beszel-nas-docker-host-monitoring-dashboard-intranet-penetration.md)
+- [LibrisLog 读书清单：NAS Docker 部署 + 内网穿透](librislog-nas-docker-reading-list-progress-reviews-intranet-penetration.md)
+- [MeTube：NAS Docker 部署 + 内网穿透，远程把视频存回家](metube-nas-docker-save-videos-to-nas-intranet-penetration.md)

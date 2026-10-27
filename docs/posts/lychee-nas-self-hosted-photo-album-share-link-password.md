@@ -146,3 +146,12 @@ services:
 ---
 
 原文：<https://www.passnat.com/posts/lychee-nas-self-hosted-photo-album-share-link-password>
+
+
+## 相关文章
+
+- [台下扫码就能提问、投票：飞牛NAS 用 Docker 部署 Claper，内网穿透开放到公网](claper-interactive-presentation-docker-deployment-nas-reverse-proxy-remote-access.md)
+- [开会讲课现场互动：飞牛NAS 部署开源 Claper，台下提问投票、结果实时上大屏](claper-nas-deployment-interactive-audience-feedback-remote-access.md)
+- [PairDrop 自建隔空投送：飞牛 NAS Docker 部署 + 内网穿透跨设备传文件](pairdrop-cross-device-file-transfer-nas-docker-deployment-intranet-penetration.md)
+- [BookStack：NAS 上的家庭知识库，Docker 部署 + 内网穿透](bookstack-nas-docker-home-manual-knowledge-base-intranet-penetration.md)
+- [自建网盘 Cloudreve：飞牛 NAS 一个容器就能装，文件传上去右键甩个链接，配内网穿透在外面也能收发](nas-self-hosted-cloud-storage-docker-cloudreve-intranet-penetration-remote-file-share.md)

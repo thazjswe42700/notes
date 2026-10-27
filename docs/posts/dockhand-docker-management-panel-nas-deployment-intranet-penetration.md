@@ -112,3 +112,12 @@ Templates 里是它自带的应用模板目录，想装新东西可以从这里�
 ---
 
 原文：<https://www.passnat.com/posts/dockhand-docker-management-panel-nas-deployment-intranet-penetration>
+
+
+## 相关文章
+
+- [自建 Dockge 管理面板：飞牛 NAS Docker 部署，容器开关、日志、编排一页全管，内网穿透出门也能看](dockge-docker-compose-manager-nas-deployment-intranet-penetration.md)
+- [Portainer容器管理面板部署指南，飞牛NAS用Docker搭建可视化面板，配内网穿透在外面也能管容器](portainer-nas-docker-container-management-panel-deployment-guide.md)
+- [自建 cAdvisor 容器监控：飞牛 NAS Docker 部署 + 内网穿透](cadvisor-docker-container-resource-monitoring-nas-deployment-intranet-penetration.md)
+- [自建网盘 Cloudreve：飞牛 NAS 一个容器就能装，文件传上去右键甩个链接，配内网穿透在外面也能收发](nas-self-hosted-cloud-storage-docker-cloudreve-intranet-penetration-remote-file-share.md)
+- [DPanel Docker可视化管理面板一键部署，内网穿透远程访问容器，极简操作无需命令行](dpanel-docker-visual-management-panel-one-click-deployment-intranet-penetration-remote-access-containers-simple-operation-no-command-line.md)

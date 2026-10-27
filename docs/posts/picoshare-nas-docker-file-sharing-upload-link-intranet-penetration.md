@@ -81,3 +81,12 @@ volumes:
 ---
 
 原文：<https://www.passnat.com/posts/picoshare-nas-docker-file-sharing-upload-link-intranet-penetration>
+
+
+## 相关文章
+
+- [Gokapi 文件分享：NAS Docker 部署 + 内网穿透](gokapi-nas-docker-file-sharing-expiry-auto-cleanup-intranet-penetration.md)
+- [Seafile 私有文件库：NAS Docker 部署 + 内网穿透](seafile-nas-docker-private-file-library-intranet-penetration.md)
+- [copyparty 自建文件服务器：飞牛 NAS Docker 部署 + 内网穿透外网访问](copyparty-self-hosted-file-server-nas-docker-deployment-intranet-penetration.md)
+- [自托管视频分享平台 Fireshare 部署指南，NAS Docker 一键启动分享游戏录屏](self-hosted-video-sharing-fireshare-deployment-guide-nas-docker-one-click-start-share-game-recordings.md)
+- [私密文件分享平台 ProjectSend Docker 部署指南，NAS 内网穿透安全共享文件](private-file-sharing-projectsend-docker-deployment-nas-intranet-penetration-secure-file-sharing.md)

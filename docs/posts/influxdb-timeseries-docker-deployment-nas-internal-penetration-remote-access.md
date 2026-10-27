@@ -69,3 +69,12 @@ InfluxDB 需要持久化存储数据。建议在 NAS 上创建一个专用文件
 ---
 
 原文：<https://www.passnat.com/posts/influxdb-timeseries-docker-deployment-nas-internal-penetration-remote-access>
+
+
+## 相关文章
+
+- [开源个人数据管理框架Eidos本地部署指南，SQLite私密数据库离线使用，NAS内网穿透远程访问完整教程](eidos-open-source-personal-data-management-local-deployment-guide-sqlite-private-database-offline-usage-nas-intranet-penetration-remote-access-complete-tutorial.md)
+- [Nextflux现代RSS阅读器，React+Vite快速响应，Docker极简部署Miniflux服务，内网穿透远程访问订阅源](nextflux-modern-rss-reader-react-vite-docker-miniflux.md)
+- [开源数据应用框架DB-GPT Docker部署指南 NAS私有化部署与内网穿透配置](db-gpt-docker-deployment-nas-private-deployment-intranet-penetration.md)
+- [OpenClinica开源临床数据管理系统Docker部署指南，NAS内网穿透远程访问完整教程](openclinica-docker-deployment-nas-intranet-penetration-remote-access-guide.md)
+- [自托管笔记应用Flatnotes极简部署，无数据库Markdown笔记库远程访问方案](flatnotes-self-hosted-markdown-notes-deployment.md)

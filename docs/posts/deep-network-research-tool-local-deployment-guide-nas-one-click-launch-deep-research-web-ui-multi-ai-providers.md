@@ -86,3 +86,12 @@ NUXT\_PUBLIC\_TAVILY\_SEARCH\_TOPIC | Tavily 搜索主题 | general
 ---
 
 原文：<https://www.passnat.com/posts/deep-network-research-tool-local-deployment-guide-nas-one-click-launch-deep-research-web-ui-multi-ai-providers>
+
+
+## 相关文章
+
+- [免费DeepSeek API接口一键部署，OpenAI兼容格式，NAS本地化私有部署方案](free-deepseek-api-deployment-openai-compatible-nas-local-private.md)
+- [在线AI智能抠图工具，支持Web和API接口，NAS一键部署，内网穿透远程访问使用](ai-intelligent-image-matting-web-api-nas-deployment.md)
+- [轻量级全文搜索引擎ZincSearch快速部署指南，NAS极简配置Docker一键启动](zinc-search-nas-docker-deployment-guide.md)
+- [Open WebUI 自建 AI 对话站：飞牛 NAS Docker 部署接云端模型不用显卡，内网穿透出门手机也能聊](open-webui-self-hosted-private-ai-chat-platform-docker-simple-deployment-offline-privacy.md)
+- [本地部署AI大模型Ollama，离线运行Gemma Llama DeepSeek，支持内网穿透远程访问](local-deploy-ai-ollama-offline-gemma-llama-deepseek-intranet-tunneling.md)

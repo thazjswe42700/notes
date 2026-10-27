@@ -121,3 +121,12 @@ services:
 ---
 
 原文：<https://www.passnat.com/posts/self-hosted-private-music-server-auddly-music-server-minimal-deployment-internal-network-penetration-remote-access-high-quality-music>
+
+
+## 相关文章
+
+- [跨平台音乐服务器Lyrion Music Server部署指南，NAS音乐流媒体服务器快速安装教程](lyrion-music-server-nas-deployment-guide.md)
+- [自建私人音乐统计库 Maloja Docker 一键部署 NAS 内网穿透远程访问](self-hosted-music-stats-maloja-docker-nas-remote-access.md)
+- [Alger Music Player NAS部署指南，本地音乐服务器搭建，网易云账号同步下载高品质音乐](alger-music-player-nas-deployment-guide-local-music-server-netease-cloud-sync-hq-audio.md)
+- [轻量级音乐流媒体服务器Gonic，内网穿透远程听歌，树莓派NAS极简部署指南](gonic-lightweight-music-streaming-server-internal-network-penetration-remote-listening-raspberry-pi-nas-simple-deployment-guide.md)
+- [自建私密文件转换服务器Morphos，支持图片文档电子书格式互转，Docker一键部署NAS](private-file-conversion-server-morphos-image-document-ebook-docker-nas.md)

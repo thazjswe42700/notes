@@ -78,3 +78,12 @@ http://你的NAS地址:3000
 ---
 
 原文：<https://www.passnat.com/posts/hamsterbase-docker-deployment-nas-private-knowledge-management-remote-access>
+
+
+## 相关文章
+
+- [开源个人数据管理框架Eidos本地部署指南，SQLite私密数据库离线使用，NAS内网穿透远程访问完整教程](eidos-open-source-personal-data-management-local-deployment-guide-sqlite-private-database-offline-usage-nas-intranet-penetration-remote-access-complete-tutorial.md)
+- [开源隐私优先工作平台AFFiNE，本地部署NAS无公网内网穿透远程协作文档白板一体化方案](affine-open-source-privacy-first-workspace-nas-local-deployment-intranet-remote-collaboration-docs-whiteboard.md)
+- [私人知识库无限制 Logseq 开源笔记 NAS 部署 内网穿透远程访问管理](private-knowledge-base-unlimited-logseq-opensource-notes-nas-deployment-intranet-penetration-remote-access-management.md)
+- [NotNav导航网站Notion数据库驱动，Next.js打造响应式设计支持内外网切换](notnav-notion-database-nextjs-responsive-design.md)
+- [自托管私密笔记应用Notea，Docker极简部署，云存储灵活配置，内网穿透远程访问](self-hosted-private-notes-notea-docker-deployment-cloud-storage-remote-access.md)

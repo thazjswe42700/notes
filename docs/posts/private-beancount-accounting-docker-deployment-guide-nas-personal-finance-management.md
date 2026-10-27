@@ -141,3 +141,12 @@ Beancount-GS 为你提供了一个完整的私有财务管理解决方案，结�
 ---
 
 原文：<https://www.passnat.com/posts/private-beancount-accounting-docker-deployment-guide-nas-personal-finance-management>
+
+
+## 相关文章
+
+- [MinDoc轻量级文档管理系统Docker极简部署，Golang高性能跨平台支持，内网穿透远程安全访问](mindoc-docker-deployment-golang-intranet-penetration.md)
+- [开源低代码平台Appsmith本地部署指南，NAS极简安装Docker Compose，无公网内网穿透远程访问](appsmith-nas-docker-compose-local-deployment-guide.md)
+- [NodeBB现代论坛社区系统Docker部署指南，NAS一键安装配置实时互动讨论社区平台](nodebb-docker-nas-deployment-guide.md)
+- [在线AI智能抠图工具，支持Web和API接口，NAS一键部署，内网穿透远程访问使用](ai-intelligent-image-matting-web-api-nas-deployment.md)
+- [Plik私有文件分享系统NAS部署指南，Docker快速搭建临时上传平台](plik-nas-docker-deployment-guide.md)

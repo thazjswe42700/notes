@@ -72,3 +72,12 @@ Serge 需要两个持久化存储位置：
 ---
 
 原文：<https://www.passnat.com/posts/serge-offline-llm-chat-assistant-nas-deployment>
+
+
+## 相关文章
+
+- [免费私密本地AI搜索引擎，无需API密钥NAS一键部署，多LLM模型聚合智能问答](free-private-local-ai-search-engine-no-api-key-nas-one-click-deploy-multi-llm-aggregation-qa.md)
+- [本地部署AI大模型Ollama，离线运行Gemma Llama DeepSeek，支持内网穿透远程访问](local-deploy-ai-ollama-offline-gemma-llama-deepseek-intranet-tunneling.md)
+- [开源低代码平台Appsmith本地部署指南，NAS极简安装Docker Compose，无公网内网穿透远程访问](appsmith-nas-docker-compose-local-deployment-guide.md)
+- [在线AI智能抠图工具，支持Web和API接口，NAS一键部署，内网穿透远程访问使用](ai-intelligent-image-matting-web-api-nas-deployment.md)
+- [本地AI交互平台SillyTavern Docker部署指南，NAS快速安装配置教程](silly-tavern-docker-deployment-guide-nas-quick-install-setup.md)

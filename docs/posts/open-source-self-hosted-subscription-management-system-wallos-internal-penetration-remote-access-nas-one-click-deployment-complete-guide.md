@@ -91,3 +91,12 @@ services:
 ---
 
 原文：<https://www.passnat.com/posts/open-source-self-hosted-subscription-management-system-wallos-internal-penetration-remote-access-nas-one-click-deployment-complete-guide>
+
+
+## 相关文章
+
+- [开源自托管项目管理工具Focalboard部署指南，NAS内网穿透远程访问完整教程](focalboard-open-source-self-hosted-project-management-deployment-guide-nas-internal-penetration-remote-access-tutorial.md)
+- [自建书签管理器Linkding极简部署指南，NAS内网穿透远程访问书签收藏库](linkding-bookmark-manager-nas-remote-access-guide.md)
+- [自托管监控工具Uptime Kuma极简部署指南，NAS一键启动Docker容器实时监控服务可用性](uptime-kuma-nas-docker-deployment-guide.md)
+- [自托管照片管理系统 Immich 部署指南，NAS 快速搭建私人相册库，支持人脸识别和智能备份](immich-nas-self-hosted-photo-management-deployment-guide.md)
+- [自托管习惯追踪应用Beaver Habit Tracker，NAS极简部署内网穿透远程打卡](beaver-habit-tracker-nas-self-hosted-remote-check-in.md)

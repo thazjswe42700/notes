@@ -102,3 +102,12 @@ volumes:
 ---
 
 原文：<https://www.passnat.com/posts/openbudgeteer-nas-docker-household-bucket-budget>
+
+
+## 相关文章
+
+- [OpenGist 自建代码片段库：NAS Docker 部署 + 修订差异怎么看](opengist-nas-docker-snippet-share-revision-history.md)
+- [Lute 自建外语阅读工具：NAS Docker 部署 + 生词状态怎么用](lute-nas-docker-foreign-language-reading-vocabulary.md)
+- [个人财务管理系统BudgetBee，Docker一键部署，NAS极简配置，多账户记账工具](budget-bee-docker-deployment-nas-multi-account-accounting.md)
+- [Donetick 自建家务清单：NAS Docker 部署 + 全家分工 + 积分](donetick-nas-docker-family-chore-list-points.md)
+- [DocuSeal 自建电子签署：NAS Docker 部署 + 签署链接怎么发](docuseal-nas-docker-e-signature-contract.md)

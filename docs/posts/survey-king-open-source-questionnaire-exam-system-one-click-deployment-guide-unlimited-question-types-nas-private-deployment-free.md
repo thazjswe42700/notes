@@ -94,3 +94,12 @@ http://你的IP地址:1991
 ---
 
 原文：<https://www.passnat.com/posts/survey-king-open-source-questionnaire-exam-system-one-click-deployment-guide-unlimited-question-types-nas-private-deployment-free>
+
+
+## 相关文章
+
+- [开源问卷考试系统卷王Docker部署指南，NAS一键安装私有问卷平台，支持内网穿透远程访问](open-source-questionnaire-exam-system-docker-deployment-nas-intranet-penetration.md)
+- [开源问卷调查系统LimeSurvey，NAS一键部署，内网穿透远程访问，无限问卷模板](open-source-survey-system-limesurvey-nas-one-click-deployment-intranet-penetration-remote-access-unlimited-questionnaire-templates.md)
+- [LimeSurvey 自建问卷：NAS Docker 部署 + 内网穿透](limesurvey-nas-docker-survey-form-intranet-penetration.md)
+- [独角数卡开源数字商品售货系统Docker部署指南，支持多种支付方式NAS快速安装](unicorn-shuaka-open-source-digital-goods-vending-system-docker-deployment-guide-supports-multiple-payment-methods-nas-quick-installation.md)
+- [开源私有视频会议系统Nettu Meet，Docker一键部署，支持屏幕共享和内网穿透远程访问](open-source-nettu-meet-video-conference-docker-deployment.md)

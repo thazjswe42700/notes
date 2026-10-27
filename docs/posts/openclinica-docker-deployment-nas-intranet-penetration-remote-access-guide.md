@@ -78,3 +78,12 @@ OC\_ADMIN\_PASSWORD：管理员初始密码
 ---
 
 原文：<https://www.passnat.com/posts/openclinica-docker-deployment-nas-intranet-penetration-remote-access-guide>
+
+
+## 相关文章
+
+- [开源个人数据管理框架Eidos本地部署指南，SQLite私密数据库离线使用，NAS内网穿透远程访问完整教程](eidos-open-source-personal-data-management-local-deployment-guide-sqlite-private-database-offline-usage-nas-intranet-penetration-remote-access-complete-tutorial.md)
+- [Directus 开源数据管理平台 Docker 快速部署，NAS 自建内容管理系统无公网穿透远程访问！](directus-docker-nas-cms-remote-access.md)
+- [开源日程管理系统Cal.com自建部署，完全控制数据NAS本地托管，支持内网穿透远程访问](open-source-calendar-management-cal-com-self-hosted-deployment-local-nas-storage-intranet-penetration-remote-access.md)
+- [Redmine开源项目管理系统Docker部署指南，NAS快速安装配置，内网穿透远程访问完整教程](redmine-docker-deployment-nas-installation-intranet-penetration-remote-access.md)
+- [NAS部署Waline评论系统，Docker极简安装，内网穿透远程访问博客评论管理](nas-deploy-waline-docker-simple-install-intranet-penetration-remote-access-blog-comment-management.md)

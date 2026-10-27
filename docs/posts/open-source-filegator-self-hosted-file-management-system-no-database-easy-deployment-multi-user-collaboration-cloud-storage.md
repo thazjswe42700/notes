@@ -70,3 +70,12 @@ FileGator 无需额外配置环境变量，保持默认设置即可。
 ---
 
 原文：<https://www.passnat.com/posts/open-source-filegator-self-hosted-file-management-system-no-database-easy-deployment-multi-user-collaboration-cloud-storage>
+
+
+## 相关文章
+
+- [自建私有云存储FileRun完整部署指南，Docker快速安装配置教程](filerun-private-cloud-storage-docker-deployment-guide.md)
+- [免费开源简历生成器OpenResume Docker部署教程，ATS兼容专业简历制作工具](free-open-source-resume-generator-openresume-docker-deployment-tutorial-ats-compatible-professional-resume-creation-tool.md)
+- [自托管个人收藏管理系统Koillection，NAS私有部署Docker快速上手指南](koillection-nas-docker-deployment-guide.md)
+- [私人云盘Filestash部署完全指南，NAS一键Docker启动，支持多云存储聚合管理](private-cloud-storage-filestash-deployment-guide-nas-docker-one-click-multi-cloud-storage-aggregation.md)
+- [开源无代码数据库SeaTable自托管部署指南，NAS极简配置Docker Compose一键启动](seatable-self-hosted-nas-docker-compose-deployment-guide.md)

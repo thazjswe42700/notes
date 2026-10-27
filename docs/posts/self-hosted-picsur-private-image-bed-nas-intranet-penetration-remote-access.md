@@ -83,3 +83,12 @@ volumes:
 ---
 
 原文：<https://www.passnat.com/posts/self-hosted-picsur-private-image-bed-nas-intranet-penetration-remote-access>
+
+
+## 相关文章
+
+- [自建私有图片视频分享平台Share Me,Next.js开源替代Imgur,NAS一键部署](self-hosted-private-image-video-sharing-platform-share-me-nextjs-open-source-imgur-alternative-nas-one-click-deploy.md)
+- [自建图片社区平台Szurubooru，Docker极简部署NAS，内网穿透远程访问图片库](szurubooru-docker-nas-deployment-intranet-penetration-remote-access-image-library.md)
+- [自建云相册Lsky Pro，NAS极简部署，支持多云存储，内网穿透远程访问图片管理分享系统](lsky-pro-nas-deployment-multi-cloud-storage-remote-access.md)
+- [PicX免费开源图床工具，GitHub图片托管管理，在线即用无需安装，支持批量上传链接转换](picx-free-open-source-image-hosting-github-batch-upload.md)
+- [自建私人相册库 Piwigo 开源免费，内网穿透远程访问，NAS 极简部署](piwigo-private-photo-gallery-nas-remote-access.md)

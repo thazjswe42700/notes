@@ -71,3 +71,12 @@ services:
 ---
 
 原文：<https://www.passnat.com/posts/kimai-open-source-time-tracking-deployment-guide-nas-simple-configuration>
+
+
+## 相关文章
+
+- [ZJSON在线JSON格式化编辑工具，支持转义压缩对比，NAS Docker一键部署，内网穿透远程访问使用](json-formatter-online-tool-escape-compress-compare-nas-docker-deployment-intranet-penetration.md)
+- [自建图片社区平台Szurubooru，Docker极简部署NAS，内网穿透远程访问图片库](szurubooru-docker-nas-deployment-intranet-penetration-remote-access-image-library.md)
+- [开源低代码平台Appsmith本地部署指南，NAS极简安装Docker Compose，无公网内网穿透远程访问](appsmith-nas-docker-compose-local-deployment-guide.md)
+- [极简链接中心YAL，Go语言零依赖部署，NAS一键启动个人导航门户，内网穿透远程访问](yal-go-zero-dependency-nas-personal-navigation-portal.md)
+- [在线AI智能抠图工具，支持Web和API接口，NAS一键部署，内网穿透远程访问使用](ai-intelligent-image-matting-web-api-nas-deployment.md)

@@ -95,3 +95,12 @@ services:
 ---
 
 原文：<https://www.passnat.com/posts/einvault-nas-pet-health-record-docker-deployment-intranet-penetration>
+
+
+## 相关文章
+
+- [Wishlist 全家礼物想单存 NAS](wishlist-family-gift-list-nas-deployment-passnat.md)
+- [Lychee 自建私人相册：飞牛 NAS Docker 部署 + 内网穿透外网访问](lychee-nas-self-hosted-photo-album-share-link-password.md)
+- [哪吒监控自建服务器探针：飞牛 NAS Docker 部署 + 内网穿透外网访问](nezha-server-monitoring-nas-docker-deployment-intranet-penetration.md)
+- [自建书签管理器Linkding极简部署指南，NAS内网穿透远程访问书签收藏库](linkding-bookmark-manager-nas-remote-access-guide.md)
+- [Wallabag 稍后读：飞牛 NAS Docker 部署 + 内网穿透外网访问](wallabag-docker-deploy-nas-internal-penetration-remote-access.md)

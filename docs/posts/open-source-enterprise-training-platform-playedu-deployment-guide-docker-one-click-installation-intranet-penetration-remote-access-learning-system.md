@@ -90,3 +90,12 @@ PlayEdu 的 Docker Compose 配置已预设了所有必要的环境变量，包�
 ---
 
 原文：<https://www.passnat.com/posts/open-source-enterprise-training-platform-playedu-deployment-guide-docker-one-click-installation-intranet-penetration-remote-access-learning-system>
+
+
+## 相关文章
+
+- [企业IT运维管理系统CAT一键部署方案，Docker容器快速启动NAS设备应用](enterprise-it-operations-management-system-cat-one-click-deployment-docker-container-nas.md)
+- [Odoo开源ERP系统完整部署指南，企业管理一站式解决方案，内网穿透远程访问](odoo-erp-deployment-guide-enterprise-management-solution.md)
+- [Redmine开源项目管理系统Docker部署指南，NAS快速安装配置，内网穿透远程访问完整教程](redmine-docker-deployment-nas-installation-intranet-penetration-remote-access.md)
+- [Directus 开源数据管理平台 Docker 快速部署，NAS 自建内容管理系统无公网穿透远程访问！](directus-docker-nas-cms-remote-access.md)
+- [PHP动态二维码生成系统部署指南，Docker一键启动内网穿透远程访问管理平台](php-dynamic-qr-code-generator-docker-deployment-guide.md)

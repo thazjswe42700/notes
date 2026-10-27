@@ -100,3 +100,12 @@ volumes:
 ---
 
 原文：<https://www.passnat.com/posts/open-source-personal-crm-monica-private-deployment-guide-nas-docker-quick-install>
+
+
+## 相关文章
+
+- [开源RSS阅读器一键部署，聚合订阅内容无限浏览，NAS自建私人阅读平台内网穿透远程访问](open-source-rss-reader-one-click-deploy-aggregate-subscriptions-unlimited-browsing-nas-self-hosted-private-reading-platform-intranet-penetration-remote-access.md)
+- [自建车辆管理系统Hammond NAS极简部署，多用户多车追踪燃油费用记录平台](vehicle-management-hammond-nas-deployment-multi-user-fuel-tracking.md)
+- [自托管书签管理工具Servas无公网部署指南 NAS极简配置内网穿透远程访问](servas-self-hosted-bookmark-manager-nas-deployment-guide-intranet-penetration-remote-access.md)
+- [独角数卡开源数字商品售货系统Docker部署指南，支持多种支付方式NAS快速安装](unicorn-shuaka-open-source-digital-goods-vending-system-docker-deployment-guide-supports-multiple-payment-methods-nas-quick-installation.md)
+- [企业IT运维管理系统CAT一键部署方案，Docker容器快速启动NAS设备应用](enterprise-it-operations-management-system-cat-one-click-deployment-docker-container-nas.md)

@@ -99,3 +99,12 @@ WebLLM Chat 为你提供了一个完全私密、无云依赖的AI对话平台。
 ---
 
 原文：<https://www.passnat.com/posts/browser-local-llm-privacy-ai-webllm-docker>
+
+
+## 相关文章
+
+- [自然语言SQL对话工具，AI驱动数据库客户端，支持多数据库NAS快速部署](natural-language-sql-chat-ai-database-client-multi-database-nas-deployment.md)
+- [免费私密本地AI搜索引擎，无需API密钥NAS一键部署，多LLM模型聚合智能问答](free-private-local-ai-search-engine-no-api-key-nas-one-click-deploy-multi-llm-aggregation-qa.md)
+- [本地私有AI聊天助手 Serge 离线运行LLM 无需API密钥 NAS极简部署内网穿透远程访问](serge-offline-llm-chat-assistant-nas-deployment.md)
+- [浏览器WebRTC视频通话应用Call-Me，NAS一键部署，支持屏幕共享与内网穿透远程通话](browser-webrtc-video-call-app-call-me-nas-one-click-deployment-screen-sharing-intranet-penetration-remote-calling.md)
+- [深度网络研究工具本地部署指南，NAS一键启动Deep Research Web UI，支持多AI提供商](deep-network-research-tool-local-deployment-guide-nas-one-click-launch-deep-research-web-ui-multi-ai-providers.md)

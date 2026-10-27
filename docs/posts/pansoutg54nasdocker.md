@@ -79,3 +79,12 @@ docker run -d --name pansou -p 8088:80 ghcr.nju.edu.cn/fish2018/pansou-web
 ---
 
 原文：<https://www.passnat.com/posts/pansoutg54nasdocker>
+
+
+## 相关文章
+
+- [自动签到脚本DailyCheckIn Docker部署指南，支持NAS群晖青龙面板内网穿透远程管理](auto-checkin-script-dailycheckin-docker-deployment-nas-synology-qinglong-panel-intranet-penetration-remote-management.md)
+- [自托管任务管理系统tududi Docker极简部署 本地数据完全私密可控](self-hosted-task-management-tududi-docker-deployment.md)
+- [私密日记极简部署，纯文本记录无数据库，Hibiscus.txt Docker内网穿透随处访问](hibiscus-txt-private-diary-docker-deployment.md)
+- [MeiliSearch闪电搜索引擎Docker极速部署，内网穿透远程访问一键搭建](meilisearch-docker-deployment-intranet-penetration-remote-access.md)
+- [自建私密搜索引擎SearXNG，聚合245个搜索源零追踪，NAS极简Docker部署内网穿透远程访问](searxng-private-search-engine-245-sources-nas-docker-deployment.md)

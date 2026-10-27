@@ -90,3 +90,12 @@ OneNav 第一次打开是「初始化」页，不是登录页 —— 也就是�
 ---
 
 原文：<https://www.passnat.com/posts/onenav-docker-bookmark-manager-deployment-guide>
+
+
+## 相关文章
+
+- [mTab书签管理工具私有部署指南，跨平台同步无广告，内网穿透远程访问](mtab-bookmark-manager-private-deployment-guide-cross-platform-sync-no-ads-intranet-penetration-remote-access.md)
+- [自建neko远程浏览器：飞牛NAS Docker部署+内网穿透外网访问](neko-remote-browser-nas-docker-deployment-intranet-penetration-external-access.md)
+- [Cronicle Edge 定时任务：NAS Docker 部署 + 内网穿透](cronicle-edge-nas-docker-scheduled-tasks-web-ui-job-logs-intranet-penetration.md)
+- [自托管个人知识库Karakeep，AI智能标签书签管理，NAS极简部署内网穿透远程访问](karakeep-ai-bookmark-manager-nas-deployment.md)
+- [自托管书签管理工具Servas无公网部署指南 NAS极简配置内网穿透远程访问](servas-self-hosted-bookmark-manager-nas-deployment-guide-intranet-penetration-remote-access.md)

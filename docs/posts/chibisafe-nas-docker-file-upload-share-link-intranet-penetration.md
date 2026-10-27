@@ -158,3 +158,12 @@ services:
 ---
 
 原文：<https://www.passnat.com/posts/chibisafe-nas-docker-file-upload-share-link-intranet-penetration>
+
+
+## 相关文章
+
+- [自建 Dockge 管理面板：飞牛 NAS Docker 部署，容器开关、日志、编排一页全管，内网穿透出门也能看](dockge-docker-compose-manager-nas-deployment-intranet-penetration.md)
+- [NAS部署Authelia身份认证服务，Docker快速部署SSO单点登录系统，内网穿透远程安全访问](nas-authelia-docker-sso-ddns.md)
+- [Seafile 私有文件库：NAS Docker 部署 + 内网穿透](seafile-nas-docker-private-file-library-intranet-penetration.md)
+- [PicoShare 文件分享：NAS Docker 部署 + 内网穿透](picoshare-nas-docker-file-sharing-upload-link-intranet-penetration.md)
+- [自托管私有云存储OASIS：Docker极速部署，NAS内网穿透远程访问文件服务器](oasis-self-hosted-private-cloud-storage-docker-nas-remote-access.md)

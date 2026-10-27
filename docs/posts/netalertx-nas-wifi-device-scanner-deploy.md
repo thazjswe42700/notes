@@ -70,3 +70,8 @@ services:
 ---
 
 原文：<https://www.passnat.com/posts/netalertx-nas-wifi-device-scanner-deploy>
+
+
+## 相关文章
+
+- [Domoticz 家庭设备看板：NAS Docker 部署 + 内网穿透](domoticz-nas-docker-home-sensors-dashboard-intranet-penetration.md)

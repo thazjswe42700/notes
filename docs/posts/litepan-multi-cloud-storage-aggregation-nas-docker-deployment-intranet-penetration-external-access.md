@@ -99,3 +99,12 @@ services:
 ---
 
 原文：<https://www.passnat.com/posts/litepan-multi-cloud-storage-aggregation-nas-docker-deployment-intranet-penetration-external-access>
+
+
+## 相关文章
+
+- [轻量级Git容器镜像Alpine Docker，资源受限环境极简部署，无需安装Git直接运行](lightweight-git-alpine-docker-minimal-deployment-resource-constrained.md)
+- [帕斯内网穿透全平台上手攻略，PassNAT如何使用，飞牛NAS | 群晖NAS | Windows 系统 内网穿透](p.md)
+- [Navidrome 飞牛 NAS 部署与公网听歌](navidrome-docker-private-music-server.md)
+- [qBittorrent 飞牛 NAS 部署与远程下载](qbittorrent-nas-remote-bt-downloader-deploy-intranet-penetration.md)
+- [自建开源协作编辑平台Etherpad，NAS极简部署，数据完全掌控，内网穿透远程访问](etherpad-nas-deployment-guide.md)

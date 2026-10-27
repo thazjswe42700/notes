@@ -114,3 +114,12 @@ Snapp 使用 SQLite 数据库存储数据。建议在 NAS 上创建一个专用�
 ---
 
 原文：<https://www.passnat.com/posts/self-hosted-url-shortener-snapp-private-data-nas-deployment-intranet-penetration>
+
+
+## 相关文章
+
+- [私密日记极简部署，纯文本记录无数据库，Hibiscus.txt Docker内网穿透随处访问](hibiscus-txt-private-diary-docker-deployment.md)
+- [浏览器WebRTC视频通话应用Call-Me，NAS一键部署，支持屏幕共享与内网穿透远程通话](browser-webrtc-video-call-app-call-me-nas-one-click-deployment-screen-sharing-intranet-penetration-remote-calling.md)
+- [自建图片社区平台Szurubooru，Docker极简部署NAS，内网穿透远程访问图片库](szurubooru-docker-nas-deployment-intranet-penetration-remote-access-image-library.md)
+- [Markopolis自托管Markdown笔记发布平台，完全开源无限制，NAS极简部署即可用，支持内网穿透远程访问](markopolis-self-hosted-markdown-notes-publishing-platform-open-source-nas-deployment.md)
+- [本地部署AI大模型Ollama，离线运行Gemma Llama DeepSeek，支持内网穿透远程访问](local-deploy-ai-ollama-offline-gemma-llama-deepseek-intranet-tunneling.md)

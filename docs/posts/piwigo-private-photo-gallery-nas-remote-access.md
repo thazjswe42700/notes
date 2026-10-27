@@ -122,3 +122,12 @@ docker run -d \
 ---
 
 原文：<https://www.passnat.com/posts/piwigo-private-photo-gallery-nas-remote-access>
+
+
+## 相关文章
+
+- [自建相册管理系统Photoview，NAS极简部署内网穿透远程访问，摄影师RAW格式完美支持](photoview-nas---raw.md)
+- [Ralbum个人相册管理系统，NAS极简部署，内网穿透外网访问，照片库智能管理](ralbum-personal-photo-album-nas-deployment-intranet-access.md)
+- [自建云相册Lsky Pro，NAS极简部署，支持多云存储，内网穿透远程访问图片管理分享系统](lsky-pro-nas-deployment-multi-cloud-storage-remote-access.md)
+- [自托管私人相册HomeGallery，AI智能识别，NAS极简部署，内网穿透远程访问](home-gallery-private-photos-ai-recognition-nas-deployment-remote-access.md)
+- [开源日程管理系统Cal.com自建部署，完全控制数据NAS本地托管，支持内网穿透远程访问](open-source-calendar-management-cal-com-self-hosted-deployment-local-nas-storage-intranet-penetration-remote-access.md)

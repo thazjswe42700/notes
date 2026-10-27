@@ -123,3 +123,12 @@ samples: 用户上传的音频样本存储位置
 ---
 
 原文：<https://www.passnat.com/posts/noisedash-self-hosted-docker-deployment-guide-intranet-penetration>
+
+
+## 相关文章
+
+- [自托管书签管理工具Servas无公网部署指南 NAS极简配置内网穿透远程访问](servas-self-hosted-bookmark-manager-nas-deployment-guide-intranet-penetration-remote-access.md)
+- [个人应用书签仪表板DashMachine Docker部署教程 自托管NAS远程访问内网穿透配置方案](personal-bookmark-dashboard-dashmachine-docker-deploy-nas-self-hosting-remote-access-intranet-penetration.md)
+- [极简网页仪表盘SimpleDash，本地快速部署，内网穿透远程访问，YAML配置自定义链接管理](simple-dash-local-dashboard-intranet-penetration-remote-access-yaml-config.md)
+- [自托管音乐下载器PlaylistDL，Spotify和YouTube歌曲一键转MP3，内网穿透远程访问](playlist-dl-spotify-youtube-mp3-download.md)
+- [自托管私密笔记应用Notea，Docker极简部署，云存储灵活配置，内网穿透远程访问](self-hosted-private-notes-notea-docker-deployment-cloud-storage-remote-access.md)

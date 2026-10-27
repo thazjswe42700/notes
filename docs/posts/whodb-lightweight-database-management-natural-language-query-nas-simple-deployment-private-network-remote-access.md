@@ -104,3 +104,12 @@ WhoDB 是一款开箱即用的轻量级数据库管理工具，特别适合家�
 ---
 
 原文：<https://www.passnat.com/posts/whodb-lightweight-database-management-natural-language-query-nas-simple-deployment-private-network-remote-access>
+
+
+## 相关文章
+
+- [开源低代码平台Budibase快速部署指南，Docker极简搭建应用，内网穿透远程访问](open-source-low-code-platform-budibase-quick-deployment-guide-docker-simple-setup-internal-network-penetration-remote-access.md)
+- [自托管URL缩短器Pckd：免费开源短链服务，NAS一键部署快速追踪链接数据](pckd-self-hosted-url-shortener-free-open-source-short-link-service-nas-one-click-deployment-fast-tracking-link-data.md)
+- [单文件PHP数据库管理工具Adminer，支持MySQL、PostgreSQL等多种数据库，NAS极简部署内网穿透远程管理](adminer-php-database-management-tool-mysql-postgresql-nas-deployment-internal-penetration-remote-management.md)
+- [NodeBB现代论坛社区系统Docker部署指南，NAS一键安装配置实时互动讨论社区平台](nodebb-docker-nas-deployment-guide.md)
+- [自然语言SQL对话工具，AI驱动数据库客户端，支持多数据库NAS快速部署](natural-language-sql-chat-ai-database-client-multi-database-nas-deployment.md)

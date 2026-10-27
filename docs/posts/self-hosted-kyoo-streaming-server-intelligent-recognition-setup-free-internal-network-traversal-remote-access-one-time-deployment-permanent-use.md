@@ -145,3 +145,12 @@ A：执行 `docker compose down` 停止所有服务，然后删除配置文件�
 ---
 
 原文：<https://www.passnat.com/posts/self-hosted-kyoo-streaming-server-intelligent-recognition-setup-free-internal-network-traversal-remote-access-one-time-deployment-permanent-use>
+
+
+## 相关文章
+
+- [Jellyseerr开源影视请求管理系统，NAS一键部署Jellyfin媒体库，内网穿透远程访问审批影视资源](jellyseerr-nas-jellyfin-media-request-approval-system.md)
+- [免费私有相册系统Lomorage，Docker快速部署NAS，内网穿透远程访问家庭影库](lomorage-free-private-photo-gallery-docker-nas-deployment-remote-access.md)
+- [自托管生活追踪平台Ryot完整部署指南，NAS一键安装，内网穿透远程访问](self-hosted-life-tracking-ryot-deployment-guide-nas-one-click-install-internal-network-penetration-remote-access.md)
+- [私有部署开源聊天应用VoceChat，NAS轻松搭建安全私密聊天系统，内网穿透远程访问](vocechat-private-deployment-nas-internal-network-penetration.md)
+- [MeiliSearch闪电搜索引擎Docker极速部署，内网穿透远程访问一键搭建](meilisearch-docker-deployment-intranet-penetration-remote-access.md)

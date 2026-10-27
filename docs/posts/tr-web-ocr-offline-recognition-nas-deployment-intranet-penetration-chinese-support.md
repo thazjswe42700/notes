@@ -62,3 +62,12 @@ CPU: 1核及以上
 ---
 
 原文：<https://www.passnat.com/posts/tr-web-ocr-offline-recognition-nas-deployment-intranet-penetration-chinese-support>
+
+
+## 相关文章
+
+- [MicroBin 临时分享：NAS Docker 部署 + 内网穿透](microbin-lightweight-self-hosted-clipboard-docker-deployment-intranet-penetration.md)
+- [私有ntfy推送服务NAS极简部署，内网穿透外网实时通知接收方案](private-ntfy-push-service-nas-minimal-deployment-intranet-penetration-external-network-real-time-notification-solution.md)
+- [Paperless-ngx 自建家庭电子档案馆：飞牛 NAS Docker 部署中文 OCR 文档管理，内网穿透在外面拍张账单就归档](paperless-ngx-nas-document-management-ocr-docker-deployment-intranet-penetration.md)
+- [ExpenseOwl 轻量记账：NAS Docker 部署 + 内网穿透](expenseowl-lightweight-expense-tracker-nas-docker-intranet-penetration.md)
+- [HivisionIDPhotos 手机拍一张就出证件照：飞牛 NAS Docker 部署 + 内网穿透](hivision-id-photos-professional-certificate-photo-generator.md)

@@ -149,3 +149,12 @@ TZ：时区设置，已默认配置为 Asia/Shanghai（中国时区），其他�
 ---
 
 原文：<https://www.passnat.com/posts/free-private-local-ai-search-engine-no-api-key-nas-one-click-deploy-multi-llm-aggregation-qa>
+
+
+## 相关文章
+
+- [本地私有AI聊天助手 Serge 离线运行LLM 无需API密钥 NAS极简部署内网穿透远程访问](serge-offline-llm-chat-assistant-nas-deployment.md)
+- [One API 统一大模型接口，支持30+模型OpenAI格式调用，NAS一键部署使用。](one-api-unified-model-interface-30-plus-models-openai-format-nas-deployment.md)
+- [免费DeepSeek API接口一键部署，OpenAI兼容格式，NAS本地化私有部署方案](free-deepseek-api-deployment-openai-compatible-nas-local-private.md)
+- [在线AI智能抠图工具，支持Web和API接口，NAS一键部署，内网穿透远程访问使用](ai-intelligent-image-matting-web-api-nas-deployment.md)
+- [开源低代码平台Appsmith本地部署指南，NAS极简安装Docker Compose，无公网内网穿透远程访问](appsmith-nas-docker-compose-local-deployment-guide.md)

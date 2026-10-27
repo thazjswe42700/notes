@@ -66,3 +66,12 @@ VoceChat 基础版本无需配置特殊的环境变量，使用默认配置即�
 ---
 
 原文：<https://www.passnat.com/posts/vocechat-private-deployment-nas-internal-network-penetration>
+
+
+## 相关文章
+
+- [免费私有相册系统Lomorage，Docker快速部署NAS，内网穿透远程访问家庭影库](lomorage-free-private-photo-gallery-docker-nas-deployment-remote-access.md)
+- [Gopeed高速下载器NAS部署指南，跨平台支持HTTP与BT下载，内网穿透远程访问](gopeed-nas-deployment-guide-http-bt-download-remote-access.md)
+- [RetroArch复古游戏模拟器前端，支持NES、SNES、PS等多平台，NAS Docker极速部署，内网穿透远程畅玩经典游戏。](retroarch-nes-snes-ps-nas-docker-emulator.md)
+- [装忙神器Genact：Rust编写跨平台终端动画，NAS一键部署模拟工作场景](genact-rust-terminal-animation-nas-deployment.md)
+- [自建RustDesk远程桌面服务器,NAS极简部署无公网穿透远程控制,开源跨平台屏幕共享工具](rustdesk-nas-remote-desktop-server-self-hosted.md)

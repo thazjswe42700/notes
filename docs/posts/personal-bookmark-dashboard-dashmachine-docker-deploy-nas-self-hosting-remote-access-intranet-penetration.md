@@ -101,3 +101,12 @@ icons/ - 自定义应用图标
 ---
 
 原文：<https://www.passnat.com/posts/personal-bookmark-dashboard-dashmachine-docker-deploy-nas-self-hosting-remote-access-intranet-penetration>
+
+
+## 相关文章
+
+- [极简网页仪表盘SimpleDash，本地快速部署，内网穿透远程访问，YAML配置自定义链接管理](simple-dash-local-dashboard-intranet-penetration-remote-access-yaml-config.md)
+- [自托管日常任务笔记管理器DailyNotes，Markdown编辑加密存储，Docker一键部署](daily-notes-self-hosted-markdown-encrypted-storage-docker.md)
+- [自托管音乐下载器PlaylistDL，Spotify和YouTube歌曲一键转MP3，内网穿透远程访问](playlist-dl-spotify-youtube-mp3-download.md)
+- [SQLite Web数据库管理工具极简部署指南 NAS内网穿透在线查询编辑](sqlite-web-database-management-tool-minimal-deployment-guide-nas-intranet-penetration-online-query-editing.md)
+- [自托管音效工具Noisedash一键部署，Docker快速安装配置指南与内网穿透远程访问方案](noisedash-self-hosted-docker-deployment-guide-intranet-penetration.md)

@@ -54,3 +54,12 @@ Webamp 无需特殊的环境变量配置，使用默认设置即可正常运行�
 ---
 
 原文：<https://www.passnat.com/posts/webamp-winamp-docker-nas-deployment-guide>
+
+
+## 相关文章
+
+- [Win11React网页版Windows11桌面一键Docker部署，浏览器在线体验完整系统界面](win11-react-docker-browser-desktop.md)
+- [Tellor轻量级任务看板应用自托管部署教程，Docker快速安装配置指南](tellor-lightweight-task-board-self-hosted-deployment-docker-installation-guide.md)
+- [自建远程文件浏览器Mikochi，极简部署NAS文件管理，支持内网穿透外网访问](mikochi-remote-file-browser-nas-file-management-intranet-penetration.md)
+- [Hugo极速静态网站生成器NAS部署指南,Go语言编写秒速渲染,内网穿透远程访问](hugo-nas-deployment-guide-go-fast-rendering-remote-access.md)
+- [个人知识库TiddlyWiki5 Docker极简部署NAS无公网内网穿透远程访问](personal-knowledge-base-tiddlywiki5-docker-deployment-nas-intranet-tunneling-remote-access.md)

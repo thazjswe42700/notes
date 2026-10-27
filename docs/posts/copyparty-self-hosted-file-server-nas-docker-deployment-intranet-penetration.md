@@ -95,3 +95,12 @@ copyparty 很轻，一个容器、一个端口、一个数据目录就跑起来�
 ---
 
 原文：<https://www.passnat.com/posts/copyparty-self-hosted-file-server-nas-docker-deployment-intranet-penetration>
+
+
+## 相关文章
+
+- [Homarr 自建服务导航页：飞牛 NAS Docker 部署 + 内网穿透外网访问](homarr-self-hosted-dashboard-nas-docker-deployment-intranet-penetration.md)
+- [Homepage 自建 NAS 导航首页：飞牛 Docker 部署 + 内网穿透外网访问](homepage-nas-service-dashboard-docker-deployment-intranet-penetration.md)
+- [PicoShare 文件分享：NAS Docker 部署 + 内网穿透](picoshare-nas-docker-file-sharing-upload-link-intranet-penetration.md)
+- [哪吒监控自建服务器探针：飞牛 NAS Docker 部署 + 内网穿透外网访问](nezha-server-monitoring-nas-docker-deployment-intranet-penetration.md)
+- [Moments 自建朋友圈：飞牛 NAS Docker 部署 + 内网穿透外网访问](moments-self-hosted-private-timeline-nas-docker-deployment-intranet-penetration.md)

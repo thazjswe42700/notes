@@ -76,3 +76,12 @@ Moodist 是纯前端应用，声音文件都在镜像里，没有数据库和附
 ---
 
 原文：<https://www.passnat.com/posts/self-hosted-ambient-sound-platform-moodist-75-curated-sounds-meditation-privacy-first-open-source-free>
+
+
+## 相关文章
+
+- [RStudio 数据分析：NAS Docker 部署 + 内网穿透](rstudio-nas-docker-r-data-analysis-intranet-penetration.md)
+- [Mattermost 团队聊天：NAS Docker 部署 + 内网穿透](mattermost-team-chat-nas-docker-intranet-penetration.md)
+- [Grist 家庭台账：NAS Docker 部署 + 内网穿透](grist-nas-docker-linked-records-family-ledger-intranet-penetration.md)
+- [Docmost 共享文档库：NAS Docker 部署 + 内网穿透](docmost-nas-docker-family-shared-wiki-intranet-penetration.md)
+- [GodoOS 网页办公桌面：NAS Docker 部署 + 内网穿透](godoos-nas-docker-web-office-desktop-docs-sheets-files-intranet-penetration.md)

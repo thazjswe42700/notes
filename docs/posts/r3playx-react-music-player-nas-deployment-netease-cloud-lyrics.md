@@ -68,3 +68,12 @@ sherlockouo/music:latest
 ---
 
 原文：<https://www.passnat.com/posts/r3playx-react-music-player-nas-deployment-netease-cloud-lyrics>
+
+
+## 相关文章
+
+- [现代React推箱子游戏，500+谜题无限撤销，NAS极简部署内网穿透在线玩](modern-react-sokoban-game-500-puzzles-unlimited-undo-nas-simple-deployment-intranet-penetration-online-play.md)
+- [Win11React网页版Windows11桌面一键Docker部署，浏览器在线体验完整系统界面](win11-react-docker-browser-desktop.md)
+- [自建相册管理系统Photoview，NAS极简部署内网穿透远程访问，摄影师RAW格式完美支持](photoview-nas---raw.md)
+- [开源私有视频会议系统Nettu Meet，Docker一键部署，支持屏幕共享和内网穿透远程访问](open-source-nettu-meet-video-conference-docker-deployment.md)
+- [开源日程管理系统Cal.com自建部署，完全控制数据NAS本地托管，支持内网穿透远程访问](open-source-calendar-management-cal-com-self-hosted-deployment-local-nas-storage-intranet-penetration-remote-access.md)

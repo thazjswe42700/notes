@@ -80,3 +80,12 @@ http://你的NAS_IP:8000
 ---
 
 原文：<https://www.passnat.com/posts/self-hosted-file-server-gohttpserver-docker-deployment-nas-intranet-penetration-remote-access>
+
+
+## 相关文章
+
+- [Nginx Proxy Manager Docker部署指南，内网穿透反向代理网关搭建教程配置](nginx-proxy-manager-docker-deployment-guide-intranet-penetration-reverse-proxy-gateway-setup-tutorial-configuration.md)
+- [DPanel Docker可视化管理面板一键部署，内网穿透远程访问容器，极简操作无需命令行](dpanel-docker-visual-management-panel-one-click-deployment-intranet-penetration-remote-access-containers-simple-operation-no-command-line.md)
+- [在线AI智能抠图工具，支持Web和API接口，NAS一键部署，内网穿透远程访问使用](ai-intelligent-image-matting-web-api-nas-deployment.md)
+- [Yacht容器管理系统一键部署指南，Docker应用模板快速启动，NAS自建服务完整教程](yacht-container-management-one-click-deployment-guide-docker-application-templates-quick-start-nas-self-built-services-complete-tutorial.md)
+- [PairDrop 自建隔空投送：飞牛 NAS Docker 部署 + 内网穿透跨设备传文件](pairdrop-cross-device-file-transfer-nas-docker-deployment-intranet-penetration.md)

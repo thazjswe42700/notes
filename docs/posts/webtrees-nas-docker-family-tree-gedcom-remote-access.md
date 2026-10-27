@@ -91,3 +91,9 @@ volumes:
 ---
 
 原文：<https://www.passnat.com/posts/webtrees-nas-docker-family-tree-gedcom-remote-access>
+
+
+## 相关文章
+
+- [Webtop：NAS 上的网页桌面，Docker 部署 + 内网穿透](webtop-nas-browser-linux-desktop-docker.md)
+- [深度网络研究工具本地部署指南，NAS一键启动Deep Research Web UI，支持多AI提供商](deep-network-research-tool-local-deployment-guide-nas-one-click-launch-deep-research-web-ui-multi-ai-providers.md)

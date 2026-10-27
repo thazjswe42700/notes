@@ -80,3 +80,12 @@ REST API：项目提供了完整的 REST API，可集成到其他应用中
 ---
 
 原文：<https://www.passnat.com/posts/open-source-file-preview-kkfileview-docker-deployment-guide>
+
+
+## 相关文章
+
+- [浏览器WebRTC视频通话应用Call-Me，NAS一键部署，支持屏幕共享与内网穿透远程通话](browser-webrtc-video-call-app-call-me-nas-one-click-deployment-screen-sharing-intranet-penetration-remote-calling.md)
+- [魔豆文库MOREDOC开源部署指南，Golang企业级文档管理系统，支持多格式文件预览，NAS内网穿透轻松搭建](moredoc-golang-enterprise-document-management-system-multi-format-preview-nas-intranet.md)
+- [私密日记极简部署，纯文本记录无数据库，Hibiscus.txt Docker内网穿透随处访问](hibiscus-txt-private-diary-docker-deployment.md)
+- [RuoYi-Flowable开源工作流管理平台Docker快速部署指南，企业级流程引擎解决方案](ruoyi-flowable-docker-deployment-guide-enterprise-workflow-engine.md)
+- [自建图片社区平台Szurubooru，Docker极简部署NAS，内网穿透远程访问图片库](szurubooru-docker-nas-deployment-intranet-penetration-remote-access-image-library.md)

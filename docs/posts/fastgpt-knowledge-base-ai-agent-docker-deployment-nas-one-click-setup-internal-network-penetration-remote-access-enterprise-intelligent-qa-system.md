@@ -122,3 +122,12 @@ REDIS\_URL：Redis连接地址（默认：redis://redis:6379）
 ---
 
 原文：<https://www.passnat.com/posts/fastgpt-knowledge-base-ai-agent-docker-deployment-nas-one-click-setup-internal-network-penetration-remote-access-enterprise-intelligent-qa-system>
+
+
+## 相关文章
+
+- [开源Dify平台极简部署，LLM应用开发工具链完整集成，支持内网穿透远程访问](dify-open-source-deployment-llm-application-development-tools.md)
+- [企业级智能体平台MaxKB一键部署，支持RAG工作流编排，零代码赋能企业系统智能问答](maxkb-enterprise-ai-agent-platform-rag-workflow-zero-code.md)
+- [开源数据应用框架DB-GPT Docker部署指南 NAS私有化部署与内网穿透配置](db-gpt-docker-deployment-nas-private-deployment-intranet-penetration.md)
+- [Kotaemo智能文档对话平台开源部署，私有RAG系统本地化搭建与内网穿透远程访问完整指南](kotaemo-smart-document-chat-open-source-deployment-private-rag-system-localization-intranet-penetration-remote-access-complete-guide.md)
+- [无代码可视化爬虫平台 Spider-Flow，流程图定义任务无需编程，NAS 一键部署内网穿透远程访问](no-code-web-scraper-spider-flow-flowchart-nas-deployment.md)

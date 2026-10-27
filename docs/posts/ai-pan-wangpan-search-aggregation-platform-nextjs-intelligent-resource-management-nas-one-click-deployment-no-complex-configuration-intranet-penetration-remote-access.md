@@ -91,3 +91,12 @@ DATABASE_URL | 数据库连接 | 内置 SQLite | 否
 ---
 
 原文：<https://www.passnat.com/posts/ai-pan-wangpan-search-aggregation-platform-nextjs-intelligent-resource-management-nas-one-click-deployment-no-complex-configuration-intranet-penetration-remote-access>
+
+
+## 相关文章
+
+- [MusicCard音乐海报生成器Docker部署指南，Next.js在线音乐海报转换工具内网穿透访问](music-card-docker-deployment-nextjs-music-poster-generator-intranet-penetration.md)
+- [NotNav导航网站Notion数据库驱动，Next.js打造响应式设计支持内外网切换](notnav-notion-database-nextjs-responsive-design.md)
+- [自建私有图片视频分享平台Share Me,Next.js开源替代Imgur,NAS一键部署](self-hosted-private-image-video-sharing-platform-share-me-nextjs-open-source-imgur-alternative-nas-one-click-deploy.md)
+- [开源日程管理系统Cal.com自建部署，完全控制数据NAS本地托管，支持内网穿透远程访问](open-source-calendar-management-cal-com-self-hosted-deployment-local-nas-storage-intranet-penetration-remote-access.md)
+- [NextBeats复古Lofi音乐播放器部署指南，Docker一键启动，YouTube集成播放，音效混合定制，NAS内网穿透远程访问](nextbeats-retro-lofi-music-player-docker-deployment-guide-youtube-integration-sound-mixing-nas-remote-access.md)

@@ -77,3 +77,11 @@ services:
 ---
 
 原文：<https://www.passnat.com/posts/syncthing-docker-deploy-nas-internal-penetration-remote-access>
+
+
+## 相关文章
+
+- [SyncTV：NAS Docker 同步影院 + 内网穿透](synctv-nas-docker-synchronized-movie-theater-intranet-penetration.md)
+- [远程同步观影神器SyncTV，NAS一键部署，与全球好友实时同步看电影直播](sync-tv-remote-synchronized-movie-watching-nas-one-click-deployment-real-time-global-friends.md)
+- [自建书签管理器Linkding极简部署指南，NAS内网穿透远程访问书签收藏库](linkding-bookmark-manager-nas-remote-access-guide.md)
+- [开源物联网平台ThingsBoard Docker部署指南，NAS极简搭建企业级IoT解决方案](thingsboard-docker-deployment-guide-nas-enterprise-iot.md)

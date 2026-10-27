@@ -118,3 +118,12 @@ COMENTARIO\_PORT：容器内部端口，默认 80
 ---
 
 原文：<https://www.passnat.com/posts/open-source-comment-engine-comentario-deployment-guide-nas-private-discussion-system-docker-quick-start>
+
+
+## 相关文章
+
+- [轻量级PHP博客系统Typecho在NAS上Docker部署，内网穿透远程访问详细教程指南](typecho-nas-docker-deployment-internal-penetration-remote-access.md)
+- [自建备忘录 Memos 飞牛 NAS 极简部署，Docker 一把梭随手记，内网穿透在外面照样翻](memos-self-hosted-notes-nas-docker-deployment-intranet-penetration-remote-access.md)
+- [写公众号不用再手动排版：飞牛 NAS 用一个容器装 doocs/md，Markdown 实时出公众号样式，配内网穿透在公司也能写](professional-wechat-markdown-editor-nas-simple-deployment-doocs-md-ai-intelligent-layout-beautiful-graphic-content.md)
+- [Mattermost 团队聊天：NAS Docker 部署 + 内网穿透](mattermost-team-chat-nas-docker-intranet-penetration.md)
+- [DailyTxT 加密日记：飞牛 NAS Docker 部署 + 内网穿透外网访问](private-diary-encryption-nas-local-deployment-dailytxt-intranet-penetration-remote-access.md)

@@ -105,3 +105,11 @@ N8N\_SECURE\_COOKIE 走 http 的隧道必须设成 false。这一行不设，登
 ---
 
 原文：<https://www.passnat.com/posts/open-source-workflow-automation-platform-n8n-local-deployment-complete-guide-400-plus-integration-nodes-one-click-startup>
+
+
+## 相关文章
+
+- [DopplerTask开源自动化平台Docker快速部署指南，NAS轻松搭建工作流自动化系统](doppler-task-docker-nas-workflow-automation-guide.md)
+- [开源自动化工作流平台 Activepieces 内网穿透部署完整指南及应用教程](activepieces---.md)
+- [自建 Dockge 管理面板：飞牛 NAS Docker 部署，容器开关、日志、编排一页全管，内网穿透出门也能看](dockge-docker-compose-manager-nas-deployment-intranet-penetration.md)
+- [企业级智能体平台MaxKB一键部署，支持RAG工作流编排，零代码赋能企业系统智能问答](maxkb-enterprise-ai-agent-platform-rag-workflow-zero-code.md)

@@ -137,3 +137,12 @@ disable\_login：禁用登录认证，默认 false（不推荐启用）
 ---
 
 原文：<https://www.passnat.com/posts/mango-self-hosted-comic-server-nas-deployment>
+
+
+## 相关文章
+
+- [自建漫画阅读器Teemii极简部署，NAS一键启动，内网穿透随处看漫画](teemii-comic-reader-nas-deployment.md)
+- [Stump 电子书库：NAS Docker 部署 + 内网穿透](stump-nas-docker-ebook-library-reading-progress-intranet-penetration.md)
+- [自建私人漫画库 Suwayomi 服务器，无限漫画源在线阅读，NAS 一键部署内网穿透远程访问](suwayomi-private-manga-server-nas-deployment.md)
+- [魔豆文库MOREDOC开源部署指南，Golang企业级文档管理系统，支持多格式文件预览，NAS内网穿透轻松搭建](moredoc-golang-enterprise-document-management-system-multi-format-preview-nas-intranet.md)
+- [开箱即用网络文学聚合阅读平台 Reader，多源搜索云端同步，NAS部署无需公网远程阅读](reader-network-literature-aggregation-platform-multi-source-search-cloud-sync-nas-deployment.md)

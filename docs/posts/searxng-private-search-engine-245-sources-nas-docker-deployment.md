@@ -53,3 +53,12 @@ http://你的NAS地址:3486
 ---
 
 原文：<https://www.passnat.com/posts/searxng-private-search-engine-245-sources-nas-docker-deployment>
+
+
+## 相关文章
+
+- [MeiliSearch闪电搜索引擎Docker极速部署，内网穿透远程访问一键搭建](meilisearch-docker-deployment-intranet-penetration-remote-access.md)
+- [开源分布式搜索引擎YaCy自建方案,NAS极简部署P2P私密搜索,内网穿透远程访问](yacy-open-source-distributed-search-engine-nas-deployment-p2p-private-search-intranet-penetration.md)
+- [轻量级全文搜索引擎ZincSearch快速部署指南，NAS极简配置Docker一键启动](zinc-search-nas-docker-deployment-guide.md)
+- [开源AI搜索平台Search4All部署指南 NAS服务器Docker快速安装内网穿透远程访问](search4all-nas-docker-deployment-guide-intranet-penetration-remote-access.md)
+- [NAS搭建PanSou网盘资源搜索引擎完整教程：TG频道54插件并发搜索Docker快速部署内网穿透远程访问](pansoutg54nasdocker.md)

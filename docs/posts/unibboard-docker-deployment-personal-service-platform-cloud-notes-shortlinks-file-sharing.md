@@ -116,3 +116,12 @@ docker compose pull && docker compose up -d
 ---
 
 原文：<https://www.passnat.com/posts/unibboard-docker-deployment-personal-service-platform-cloud-notes-shortlinks-file-sharing>
+
+
+## 相关文章
+
+- [WeekToDo开源周计划管理应用，极简任务管理，本地部署隐私保护，Docker一键启动NAS自建。](week-todo-open-source-task-management-local-deployment-docker-nas.md)
+- [Slidev开发者演示文稿工具，Markdown轻松创建专业幻灯片，代码高亮实时演示编辑](slidev-markdown-presentation-tool-code-highlight.md)
+- [写公众号不用再手动排版：飞牛 NAS 用一个容器装 doocs/md，Markdown 实时出公众号样式，配内网穿透在公司也能写](professional-wechat-markdown-editor-nas-simple-deployment-doocs-md-ai-intelligent-layout-beautiful-graphic-content.md)
+- [轻量级Markdown笔记应用NoteFlow，本地部署无需数据库，支持内网穿透远程访问笔记管理系统](noteflow-lightweight-markdown-note-app-local-deployment-no-database-intranet-penetration-remote-access.md)
+- [Note Mark 笔记：NAS Docker 部署 + 内网穿透](note-mark-nas-docker-markdown-notes-search-intranet-penetration.md)

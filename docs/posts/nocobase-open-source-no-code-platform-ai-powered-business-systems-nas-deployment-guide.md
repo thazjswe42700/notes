@@ -103,3 +103,12 @@ APP\_PORT - 应用运行端口，默认 8000
 ---
 
 原文：<https://www.passnat.com/posts/nocobase-open-source-no-code-platform-ai-powered-business-systems-nas-deployment-guide>
+
+
+## 相关文章
+
+- [自托管笔记应用Flatnotes极简部署，无数据库Markdown笔记库远程访问方案](flatnotes-self-hosted-markdown-notes-deployment.md)
+- [开源低代码平台Budibase快速部署指南，Docker极简搭建应用，内网穿透远程访问](open-source-low-code-platform-budibase-quick-deployment-guide-docker-simple-setup-internal-network-penetration-remote-access.md)
+- [开源无代码数据库Baserow自托管部署，Docker一键安装NAS内网穿透远程访问完全指南](open-source-no-code-database-baserow-self-hosted-deployment-docker-one-click-installation-nas-intranet-penetration-remote-access-complete-guide.md)
+- [开源无代码平台Joget，NAS极简部署，内网穿透远程访问，快速构建企业应用](open-source-no-code-platform-joget-nas-simple-deployment-intranet-penetration-remote-access-rapid-enterprise-applications.md)
+- [开源无代码数据库SeaTable自托管部署指南，NAS极简配置Docker Compose一键启动](seatable-self-hosted-nas-docker-compose-deployment-guide.md)

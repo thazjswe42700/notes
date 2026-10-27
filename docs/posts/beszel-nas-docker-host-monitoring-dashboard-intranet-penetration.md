@@ -109,3 +109,12 @@ services:
 ---
 
 原文：<https://www.passnat.com/posts/beszel-nas-docker-host-monitoring-dashboard-intranet-penetration>
+
+
+## 相关文章
+
+- [哪吒监控自建服务器探针：飞牛 NAS Docker 部署 + 内网穿透外网访问](nezha-server-monitoring-nas-docker-deployment-intranet-penetration.md)
+- [自建 cAdvisor 容器监控：飞牛 NAS Docker 部署 + 内网穿透](cadvisor-docker-container-resource-monitoring-nas-deployment-intranet-penetration.md)
+- [IOPaint开源AI图像修复工具，免费自托管，CPU/GPU/M1支持，智能去物体移除水印](iopaint-open-source-ai-image-inpainting-tool-free-self-hosted-cpu-gpu-m1-support-remove-objects-watermarks.md)
+- [LubeLogger 保养记录：NAS Docker 部署 + 内网穿透](lubelogger-nas-docker-car-maintenance-fuel-records-intranet-penetration.md)
+- [Spug 运维平台：NAS Docker 部署 + 内网穿透](spug-nas-docker-ops-panel-intranet-penetration.md)

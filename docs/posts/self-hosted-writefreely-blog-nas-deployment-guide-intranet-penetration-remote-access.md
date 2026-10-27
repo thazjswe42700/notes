@@ -136,3 +136,12 @@ WriteFreely 已经配置了两个数据卷用于持久化存储：
 ---
 
 原文：<https://www.passnat.com/posts/self-hosted-writefreely-blog-nas-deployment-guide-intranet-penetration-remote-access>
+
+
+## 相关文章
+
+- [自建联邦式博客引擎Plume NAS部署指南 内网穿透外网访问 Rust开源](plume-federated-blog-engine-nas-deployment-guide-intranet-penetration-external-access-rust-opensource.md)
+- [Cogito个人知识库系统自建指南，NAS极简部署智能笔记管理工具，支持内网穿透远程访问](1-seo-slug-aa-bb-cc2-cogitoseoseo-slug------slug.md)
+- [自建 Gitea 私有 Git 仓库：飞牛 NAS Docker 部署自己家的 GitHub，内网穿透在外面也能开](gitea-self-hosted-private-git-server-nas-docker-deployment-intranet-penetration.md)
+- [Directus 开源数据管理平台 Docker 快速部署，NAS 自建内容管理系统无公网穿透远程访问！](directus-docker-nas-cms-remote-access.md)
+- [开源IT运维管理平台iTop Docker容器化部署指南，快速搭建企业级IT资产管理系统](open-source-itop-docker-deployment-guide-enterprise-it-asset-management.md)

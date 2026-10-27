@@ -84,3 +84,12 @@ http://你的服务器IP:7700
 ---
 
 原文：<https://www.passnat.com/posts/meilisearch-docker-deployment-intranet-penetration-remote-access>
+
+
+## 相关文章
+
+- [开源Rust音乐服务器Diosic极简部署，NAS轻量级流媒体解决方案](diosic-rust-music-server-nas-deployment.md)
+- [自建联邦式博客引擎Plume NAS部署指南 内网穿透外网访问 Rust开源](plume-federated-blog-engine-nas-deployment-guide-intranet-penetration-external-access-rust-opensource.md)
+- [Oxker Docker容器管理工具TUI界面轻量级终端控制，Rust开发支持实时监控日志查看](oxker-docker-container-management-tui-lightweight-terminal-rust-realtime-monitoring.md)
+- [轻量级文件服务器 DUFS 快速部署指南 NAS Docker 一键启用文件共享搜索上传](lightweight-file-server-dufs-quick-deployment-guide-nas-docker-one-click-enable-file-sharing-search-upload.md)
+- [装忙神器Genact：Rust编写跨平台终端动画，NAS一键部署模拟工作场景](genact-rust-terminal-animation-nas-deployment.md)

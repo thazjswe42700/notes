@@ -75,3 +75,12 @@ services:
 ---
 
 原文：<https://www.passnat.com/posts/gitea-self-hosted-private-git-server-nas-docker-deployment-intranet-penetration>
+
+
+## 相关文章
+
+- [轻量级Git容器镜像Alpine Docker，资源受限环境极简部署，无需安装Git直接运行](lightweight-git-alpine-docker-minimal-deployment-resource-constrained.md)
+- [居家健身记录神器，GitHub风格可视化展示，Go语言轻量级应用，NAS一键部署Exercise Diary](exercise-diary-home-fitness-tracker-github-style-visualization-go-nas-deployment.md)
+- [LinkStack 自建个人名片页：NAS Docker 部署 + 公网访问完整步骤](linkstack-nas-docker-personal-link-page.md)
+- [自建在线表格 NocoDB：飞牛 NAS Docker 部署，Airtable 的开源替代，配内网穿透在外面也能打开自己的表](nocodb-one-click-deploy-airtable-open-source-alternative-nas-local-database-management.md)
+- [极简命令行笔记本 Dnote 自建部署：Docker 快速上手，内网穿透远程访问笔记库](dnote-self-hosted-docker-deployment-internal-penetration-remote-access.md)

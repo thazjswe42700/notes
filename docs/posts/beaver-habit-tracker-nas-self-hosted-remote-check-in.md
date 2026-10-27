@@ -98,3 +98,12 @@ PassNAT 就在飞牛的应用中心里，搜一下装上，打开它，账号登
 ---
 
 原文：<https://www.passnat.com/posts/beaver-habit-tracker-nas-self-hosted-remote-check-in>
+
+
+## 相关文章
+
+- [workout-tracker 飞牛 NAS 部署：GPX 轨迹库与运动统计](workout-tracker-nas-gpx-workout-log.md)
+- [开源自托管订阅管理系统Wallos 内网穿透远程访问 NAS一键部署完整指南](open-source-self-hosted-subscription-management-system-wallos-internal-penetration-remote-access-nas-one-click-deployment-complete-guide.md)
+- [自建文件服务器 GoHTTPServer Docker极简部署，NAS内网穿透远程访问文件](self-hosted-file-server-gohttpserver-docker-deployment-nas-intranet-penetration-remote-access.md)
+- [VTracer开源栅格转矢量工具Docker部署指南，无公网内网穿透远程访问高分辨率图像转SVG](vtracer-docker-deployment-guide-intranet-access-high-resolution-image-to-svg.md)
+- [自托管监控工具Uptime Kuma极简部署指南，NAS一键启动Docker容器实时监控服务可用性](uptime-kuma-nas-docker-deployment-guide.md)

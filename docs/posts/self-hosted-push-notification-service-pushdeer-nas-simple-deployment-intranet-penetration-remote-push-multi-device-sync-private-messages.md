@@ -109,3 +109,12 @@ APP\_DEBUG: false（调试模式，生产环境保持 false）
 ---
 
 原文：<https://www.passnat.com/posts/self-hosted-push-notification-service-pushdeer-nas-simple-deployment-intranet-penetration-remote-push-multi-device-sync-private-messages>
+
+
+## 相关文章
+
+- [Standard Notes 私密笔记自建 - 端到端加密开源方案，NAS 极简部署指南](standard-notes-private-notes-self-hosted-end-to-end-encryption-open-source-nas-simple-deployment-guide.md)
+- [免费私有相册系统Lomorage，Docker快速部署NAS，内网穿透远程访问家庭影库](lomorage-free-private-photo-gallery-docker-nas-deployment-remote-access.md)
+- [自建音乐流媒体服务器Polaris，免费开源支持多格式，NAS一键部署内网穿透远程听歌](polaris-open-source-music-server-nas-remote-streaming.md)
+- [WeekToDo开源周计划管理应用，极简任务管理，本地部署隐私保护，Docker一键启动NAS自建。](week-todo-open-source-task-management-local-deployment-docker-nas.md)
+- [私有部署开源聊天应用VoceChat，NAS轻松搭建安全私密聊天系统，内网穿透远程访问](vocechat-private-deployment-nas-internal-network-penetration.md)

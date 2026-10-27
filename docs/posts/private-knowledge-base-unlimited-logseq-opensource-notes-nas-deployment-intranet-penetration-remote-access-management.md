@@ -62,3 +62,12 @@ http://你的NAS_IP:3000
 ---
 
 原文：<https://www.passnat.com/posts/private-knowledge-base-unlimited-logseq-opensource-notes-nas-deployment-intranet-penetration-remote-access-management>
+
+
+## 相关文章
+
+- [开箱即用 Markdown 笔记应用，多库协作实时编辑，NAS 极简部署 Many Notes 内网穿透远程访问](many-notes-markdown-notebook-collaborative-editing-nas-deployment.md)
+- [思绪思维导图：NAS Docker 部署 + 内网穿透](mindmap-web-app-lightweight-opensource-tool-multiple-structure-types-export-formats-nas-docker-deployment.md)
+- [Slidev开发者演示文稿工具，Markdown轻松创建专业幻灯片，代码高亮实时演示编辑](slidev-markdown-presentation-tool-code-highlight.md)
+- [Xnote个人笔记系统Docker部署指南，自建私密知识库随处可得内网穿透远程访问](xnote-docker-deployment-guide-personal-note-system-private-knowledge-base-intranet-penetration-remote-access.md)
+- [轻量级Markdown笔记应用NoteFlow，本地部署无需数据库，支持内网穿透远程访问笔记管理系统](noteflow-lightweight-markdown-note-app-local-deployment-no-database-intranet-penetration-remote-access.md)

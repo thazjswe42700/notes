@@ -68,3 +68,12 @@ docker run --rm -p 8080:8080 -v /tmp:/tmp -e MORPHOS_PORT=9090 ghcr.io/danvergar
 ---
 
 原文：<https://www.passnat.com/posts/private-file-conversion-server-morphos-image-document-ebook-docker-nas>
+
+
+## 相关文章
+
+- [私有社区服务器Circled.me极简部署指南，NAS一键启动无需公网穿透](circled-me-private-community-server-simple-deployment-guide-nas-one-click-startup-no-public-network-penetration.md)
+- [code-server 自建网页版 VS Code：飞牛 NAS Docker 部署远程开发环境，内网穿透出门也能写代码](codeserver.md)
+- [跨平台音乐服务器Lyrion Music Server部署指南，NAS音乐流媒体服务器快速安装教程](lyrion-music-server-nas-deployment-guide.md)
+- [自建私人音乐库服务器，Auddly Music Server 极简部署，内网穿透远程访问享受高品质音乐](self-hosted-private-music-server-auddly-music-server-minimal-deployment-internal-network-penetration-remote-access-high-quality-music.md)
+- [高效WebP图片服务器Go版，自动格式转换降低带宽，Docker一键部署加速网站，内网穿透远程访问优化方案](efficient-webp-image-server-go-auto-format-conversion-bandwidth-reduction-docker-one-click-deployment-website-acceleration-intranet-penetration-remote-access-optimization.md)

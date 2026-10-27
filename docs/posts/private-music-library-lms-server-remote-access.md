@@ -105,3 +105,12 @@ LMS 最好与 MusicBrainz Picard 标签编辑器配合使用
 ---
 
 原文：<https://www.passnat.com/posts/private-music-library-lms-server-remote-access>
+
+
+## 相关文章
+
+- [轻量级音乐流媒体服务器Gonic，内网穿透远程听歌，树莓派NAS极简部署指南](gonic-lightweight-music-streaming-server-internal-network-penetration-remote-listening-raspberry-pi-nas-simple-deployment-guide.md)
+- [自建私人有声书库，无限音频随处听，Booksonic Air 极简部署流媒体服务](booksonic-air-private-audiobook-library-streaming-service.md)
+- [在线AI智能抠图工具，支持Web和API接口，NAS一键部署，内网穿透远程访问使用](ai-intelligent-image-matting-web-api-nas-deployment.md)
+- [开源低代码平台Appsmith本地部署指南，NAS极简安装Docker Compose，无公网内网穿透远程访问](appsmith-nas-docker-compose-local-deployment-guide.md)
+- [跨平台音乐服务器Lyrion Music Server部署指南，NAS音乐流媒体服务器快速安装教程](lyrion-music-server-nas-deployment-guide.md)

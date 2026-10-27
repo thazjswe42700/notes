@@ -97,3 +97,12 @@ docker run -d \
 ---
 
 原文：<https://www.passnat.com/posts/home-lab-unified-management-astro-dashboard-deployment-guide-nas-minimalist-configuration-intranet-penetration-remote-access>
+
+
+## 相关文章
+
+- [自托管服务门户Easy Gate，NAS一键部署，内网穿透远程访问自建应用聚合平台](easy-gate-nas-deployment-intranet-penetration-remote-access.md)
+- [家庭私人照片管理系统PhotoStructure，NAS一键部署，内网穿透远程访问你的回忆](photostructure-nas-private-photo-management-remote-access.md)
+- [极简网页仪表盘SimpleDash，本地快速部署，内网穿透远程访问，YAML配置自定义链接管理](simple-dash-local-dashboard-intranet-penetration-remote-access-yaml-config.md)
+- [SideQuests 任务管理系统 Docker 一键部署，NAS 极简配置内网穿透远程访问任务](sidequests-docker-nas-deployment-intranet-penetration.md)
+- [容器管理神器Yacht一键部署指南，Docker应用模板化管理简单易用，支持内网穿透远程访问管理](yacht-docker-container-management-deployment-guide.md)

@@ -94,3 +94,12 @@ volumes:
 ---
 
 原文：<https://www.passnat.com/posts/metabase-nas-docker-data-dashboard-intranet-penetration>
+
+
+## 相关文章
+
+- [MeTube：NAS Docker 部署 + 内网穿透，远程把视频存回家](metube-nas-docker-save-videos-to-nas-intranet-penetration.md)
+- [Dolibarr 小店管理：NAS Docker 部署 + 内网穿透](dolibarr-nas-docker-crm-quotes-inventory-intranet-penetration.md)
+- [开源无代码数据库Baserow自托管部署，Docker一键安装NAS内网穿透远程访问完全指南](open-source-no-code-database-baserow-self-hosted-deployment-docker-one-click-installation-nas-intranet-penetration-remote-access-complete-guide.md)
+- [开源无代码数据库SeaTable自托管部署指南，NAS极简配置Docker Compose一键启动](seatable-self-hosted-nas-docker-compose-deployment-guide.md)
+- [Excalidraw 白板：NAS Docker 部署 + 内网穿透](excalidraw-nas-docker-whiteboard-diagrams-intranet-penetration.md)

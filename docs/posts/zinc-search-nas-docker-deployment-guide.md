@@ -78,3 +78,12 @@ http://你的NAS地址:4080
 ---
 
 原文：<https://www.passnat.com/posts/zinc-search-nas-docker-deployment-guide>
+
+
+## 相关文章
+
+- [在线AI智能抠图工具，支持Web和API接口，NAS一键部署，内网穿透远程访问使用](ai-intelligent-image-matting-web-api-nas-deployment.md)
+- [深度网络研究工具本地部署指南，NAS一键启动Deep Research Web UI，支持多AI提供商](deep-network-research-tool-local-deployment-guide-nas-one-click-launch-deep-research-web-ui-multi-ai-providers.md)
+- [免费DeepSeek API接口一键部署，OpenAI兼容格式，NAS本地化私有部署方案](free-deepseek-api-deployment-openai-compatible-nas-local-private.md)
+- [私有部署开源聊天应用VoceChat，NAS轻松搭建安全私密聊天系统，内网穿透远程访问](vocechat-private-deployment-nas-internal-network-penetration.md)
+- [Yacht容器管理系统一键部署指南，Docker应用模板快速启动，NAS自建服务完整教程](yacht-container-management-one-click-deployment-guide-docker-application-templates-quick-start-nas-self-built-services-complete-tutorial.md)

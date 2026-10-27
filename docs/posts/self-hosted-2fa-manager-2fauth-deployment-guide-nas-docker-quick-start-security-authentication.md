@@ -142,3 +142,12 @@ APP\_URL：修改为你实际的访问地址，比如 `http://192.168.1.100:8000
 ---
 
 原文：<https://www.passnat.com/posts/self-hosted-2fa-manager-2fauth-deployment-guide-nas-docker-quick-start-security-authentication>
+
+
+## 相关文章
+
+- [极简网页仪表盘SimpleDash，本地快速部署，内网穿透远程访问，YAML配置自定义链接管理](simple-dash-local-dashboard-intranet-penetration-remote-access-yaml-config.md)
+- [开源网站分析平台Matomo自建部署教程 NAS Docker快速安装配置指南](matomo-open-source-analytics-platform-nas-docker-deployment-guide.md)
+- [统一网盘聚合管理工具PanIndex，多云存储跨平台部署，内网穿透远程访问无限资源](panindex-unified-cloud-storage-aggregation-tool-multi-cloud-cross-platform-deployment.md)
+- [私人云盘Filestash部署完全指南，NAS一键Docker启动，支持多云存储聚合管理](private-cloud-storage-filestash-deployment-guide-nas-docker-one-click-multi-cloud-storage-aggregation.md)
+- [开源自主翻译API LibreTranslate Docker部署指南 NAS一键搭建私人翻译服务](libre-translate-docker-nas-deployment-guide.md)

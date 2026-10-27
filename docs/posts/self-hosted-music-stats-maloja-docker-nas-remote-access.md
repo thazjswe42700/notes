@@ -105,3 +105,12 @@ http://你的设备IP:42010
 ---
 
 原文：<https://www.passnat.com/posts/self-hosted-music-stats-maloja-docker-nas-remote-access>
+
+
+## 相关文章
+
+- [自建私人音乐库服务器，Auddly Music Server 极简部署，内网穿透远程访问享受高品质音乐](self-hosted-private-music-server-auddly-music-server-minimal-deployment-internal-network-penetration-remote-access-high-quality-music.md)
+- [轻量级音乐流媒体服务器Gonic，内网穿透远程听歌，树莓派NAS极简部署指南](gonic-lightweight-music-streaming-server-internal-network-penetration-remote-listening-raspberry-pi-nas-simple-deployment-guide.md)
+- [自托管音乐下载器PlaylistDL，Spotify和YouTube歌曲一键转MP3，内网穿透远程访问](playlist-dl-spotify-youtube-mp3-download.md)
+- [网页广播播放器PawTunes部署教程 Docker一键启动NAS内网穿透远程访问](pawtubes-docker-nas-remote-access-setup.md)
+- [自建私人音乐库随时随地听，Go轻量级音乐服务器Euterpe，NAS一键部署内网穿透](go-lightweight-music-server-euterpe-nas-one-click-deployment-intranet-penetration.md)

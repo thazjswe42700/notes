@@ -54,3 +54,12 @@ AIaW的基础功能无需额外的环境变量配置，开箱即用。如果你�
 ---
 
 原文：<https://www.passnat.com/posts/aiaw-open-source-ai-workspace-cross-platform-client-multi-model-integration-nas-local-deployment-intranet-penetration-remote-access>
+
+
+## 相关文章
+
+- [免费私有相册系统Lomorage，Docker快速部署NAS，内网穿透远程访问家庭影库](lomorage-free-private-photo-gallery-docker-nas-deployment-remote-access.md)
+- [Standard Notes 私密笔记自建 - 端到端加密开源方案，NAS 极简部署指南](standard-notes-private-notes-self-hosted-end-to-end-encryption-open-source-nas-simple-deployment-guide.md)
+- [自建私人有声书库，无限音频随处听，Booksonic Air 极简部署流媒体服务](booksonic-air-private-audiobook-library-streaming-service.md)
+- [WeekToDo开源周计划管理应用，极简任务管理，本地部署隐私保护，Docker一键启动NAS自建。](week-todo-open-source-task-management-local-deployment-docker-nas.md)
+- [DweebUI容器管理面板轻松上手，Docker Podman全能卫士一键部署运维](dweebui-container-management-panel-docker-podman-deployment.md)

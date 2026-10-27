@@ -107,3 +107,12 @@ docker compose up -d
 ---
 
 原文：<https://www.passnat.com/posts/search4all-nas-docker-deployment-guide-intranet-penetration-remote-access>
+
+
+## 相关文章
+
+- [本地AI交互平台SillyTavern Docker部署指南，NAS快速安装配置教程](silly-tavern-docker-deployment-guide-nas-quick-install-setup.md)
+- [开源自动化工作流平台 Activepieces 内网穿透部署完整指南及应用教程](activepieces---.md)
+- [One API 统一大模型接口，支持30+模型OpenAI格式调用，NAS一键部署使用。](one-api-unified-model-interface-30-plus-models-openai-format-nas-deployment.md)
+- [开源AI工作空间AIaW：跨平台客户端，集成多家大模型，NAS本地部署内网穿透远程访问](aiaw-open-source-ai-workspace-cross-platform-client-multi-model-integration-nas-local-deployment-intranet-penetration-remote-access.md)
+- [深度网络研究工具本地部署指南，NAS一键启动Deep Research Web UI，支持多AI提供商](deep-network-research-tool-local-deployment-guide-nas-one-click-launch-deep-research-web-ui-multi-ai-providers.md)

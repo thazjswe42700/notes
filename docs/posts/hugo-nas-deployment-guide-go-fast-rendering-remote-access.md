@@ -64,3 +64,12 @@ http://你的IP:1313
 ---
 
 原文：<https://www.passnat.com/posts/hugo-nas-deployment-guide-go-fast-rendering-remote-access>
+
+
+## 相关文章
+
+- [Tellor轻量级任务看板应用自托管部署教程，Docker快速安装配置指南](tellor-lightweight-task-board-self-hosted-deployment-docker-installation-guide.md)
+- [Win11React网页版Windows11桌面一键Docker部署，浏览器在线体验完整系统界面](win11-react-docker-browser-desktop.md)
+- [无代码可视化爬虫平台 Spider-Flow，流程图定义任务无需编程，NAS 一键部署内网穿透远程访问](no-code-web-scraper-spider-flow-flowchart-nas-deployment.md)
+- [自建远程文件浏览器Mikochi，极简部署NAS文件管理，支持内网穿透外网访问](mikochi-remote-file-browser-nas-file-management-intranet-penetration.md)
+- [Webamp网页版Winamp音乐播放器Docker部署完整指南，NAS一键启动享受怀旧音乐体验](webamp-winamp-docker-nas-deployment-guide.md)

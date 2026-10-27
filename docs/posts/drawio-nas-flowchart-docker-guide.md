@@ -49,3 +49,12 @@ services:
 ---
 
 原文：<https://www.passnat.com/posts/drawio-nas-flowchart-docker-guide>
+
+
+## 相关文章
+
+- [自建 AI 画流程图：飞牛 NAS Docker 部署 next-ai-draw-io，一句中文生成 draw.io 图表并远程访问](ai-flowchart-next-ai-draw-io-nas-docker-deployment-intranet-penetration.md)
+- [自建 changedetection.io：飞牛 NAS Docker 部署 + 内网穿透外网访问](changedetection-io-website-change-monitor-nas-docker-deployment-intranet-penetration.md)
+- [Navidrome 飞牛 NAS 部署与公网听歌](navidrome-docker-private-music-server.md)
+- [Excalidraw 白板：NAS Docker 部署 + 内网穿透](excalidraw-nas-docker-whiteboard-diagrams-intranet-penetration.md)
+- [qBittorrent 飞牛 NAS 部署与远程下载](qbittorrent-nas-remote-bt-downloader-deploy-intranet-penetration.md)

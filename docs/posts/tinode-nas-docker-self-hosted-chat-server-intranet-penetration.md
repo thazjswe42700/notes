@@ -89,3 +89,12 @@ volumes:
 ---
 
 原文：<https://www.passnat.com/posts/tinode-nas-docker-self-hosted-chat-server-intranet-penetration>
+
+
+## 相关文章
+
+- [自建在线表格 NocoDB：飞牛 NAS Docker 部署，Airtable 的开源替代，配内网穿透在外面也能打开自己的表](nocodb-one-click-deploy-airtable-open-source-alternative-nas-local-database-management.md)
+- [code-server 自建网页版 VS Code：飞牛 NAS Docker 部署远程开发环境，内网穿透出门也能写代码](codeserver.md)
+- [NodeBB现代论坛社区系统Docker部署指南，NAS一键安装配置实时互动讨论社区平台](nodebb-docker-nas-deployment-guide.md)
+- [Mattermost 团队聊天：NAS Docker 部署 + 内网穿透](mattermost-team-chat-nas-docker-intranet-penetration.md)
+- [Node-RED 拖一张「家里服务状态页」：飞牛 NAS Docker 部署 + 内网穿透](node-red-nas-docker-home-service-status-page-intranet-penetration.md)

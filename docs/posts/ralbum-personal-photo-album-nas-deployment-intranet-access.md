@@ -72,3 +72,12 @@ http://你的服务器IP:1247
 ---
 
 原文：<https://www.passnat.com/posts/ralbum-personal-photo-album-nas-deployment-intranet-access>
+
+
+## 相关文章
+
+- [自建相册管理系统Photoview，NAS极简部署内网穿透远程访问，摄影师RAW格式完美支持](photoview-nas---raw.md)
+- [家庭智能照片管理系统Photonix，AI识别分类，NAS一键部署，内网穿透远程访问](photonix-ai-photo-management-nas-deployment.md)
+- [个人财务管理系统BudgetBee，Docker一键部署，NAS极简配置，多账户记账工具](budget-bee-docker-deployment-nas-multi-account-accounting.md)
+- [自托管照片管理系统 Immich 部署指南，NAS 快速搭建私人相册库，支持人脸识别和智能备份](immich-nas-self-hosted-photo-management-deployment-guide.md)
+- [开源个人关系管理系统Monica私密部署指南，NAS一键Docker快速安装配置教程](open-source-personal-crm-monica-private-deployment-guide-nas-docker-quick-install.md)

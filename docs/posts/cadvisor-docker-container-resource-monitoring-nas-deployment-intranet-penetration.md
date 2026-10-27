@@ -101,3 +101,12 @@ Processes 那一栏是空的：这份编排没有加 pid: host，容器看不到
 ---
 
 原文：<https://www.passnat.com/posts/cadvisor-docker-container-resource-monitoring-nas-deployment-intranet-penetration>
+
+
+## 相关文章
+
+- [哪吒监控自建服务器探针：飞牛 NAS Docker 部署 + 内网穿透外网访问](nezha-server-monitoring-nas-docker-deployment-intranet-penetration.md)
+- [Beszel 主机监控：NAS Docker 部署 + 内网穿透](beszel-nas-docker-host-monitoring-dashboard-intranet-penetration.md)
+- [IOPaint开源AI图像修复工具，免费自托管，CPU/GPU/M1支持，智能去物体移除水印](iopaint-open-source-ai-image-inpainting-tool-free-self-hosted-cpu-gpu-m1-support-remove-objects-watermarks.md)
+- [自建 Dockhand 容器面板：飞牛 NAS Docker 部署 + 内网穿透](dockhand-docker-management-panel-nas-deployment-intranet-penetration.md)
+- [自建 Netdata 实时监控：飞牛 NAS Docker 部署 + 内网穿透](netdata-realtime-server-monitoring-nas-docker-deployment-intranet-penetration.md)

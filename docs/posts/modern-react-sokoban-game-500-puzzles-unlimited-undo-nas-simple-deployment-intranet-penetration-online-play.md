@@ -78,3 +78,12 @@ http://你的NAS_IP:3000
 ---
 
 原文：<https://www.passnat.com/posts/modern-react-sokoban-game-500-puzzles-unlimited-undo-nas-simple-deployment-intranet-penetration-online-play>
+
+
+## 相关文章
+
+- [可视化Docker Compose管理工具，NAS极简部署Compose Craft，无公网内网穿透远程访问](compose-craft-docker-visualization-nas-deployment-internal-network-remote-access.md)
+- [本地密码生成器PSWD，隐私优先TypeScript构建，支持Docker和NAS快速部署，内网穿透远程访问](local-password-generator-pswd-privacy-first-typescript-docker-nas-deployment-intranet-penetration-remote-access.md)
+- [高颜值React音乐播放器R3PLAYX，NAS极简部署，无社交纯听觉，支持网易云账号登录和实时歌词显示](r3playx-react-music-player-nas-deployment-netease-cloud-lyrics.md)
+- [Hexon Hexo博客在线管理系统，图形化界面轻松管理文章，Docker极简部署内网穿透远程访问](hexon-hexo-blog-management-system-graphic-interface-docker-deployment.md)
+- [Win11React网页版Windows11桌面一键Docker部署，浏览器在线体验完整系统界面](win11-react-docker-browser-desktop.md)

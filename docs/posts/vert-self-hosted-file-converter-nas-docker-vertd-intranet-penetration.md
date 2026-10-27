@@ -74,3 +74,12 @@ VERT 的视频转换要用到浏览器的 WebCrypto 接口（`crypto.subtle`）�
 ---
 
 原文：<https://www.passnat.com/posts/vert-self-hosted-file-converter-nas-docker-vertd-intranet-penetration>
+
+
+## 相关文章
+
+- [自建私密文件转换服务器Morphos，支持图片文档电子书格式互转，Docker一键部署NAS](private-file-conversion-server-morphos-image-document-ebook-docker-nas.md)
+- [自建文件服务器 GoHTTPServer Docker极简部署，NAS内网穿透远程访问文件](self-hosted-file-server-gohttpserver-docker-deployment-nas-intranet-penetration-remote-access.md)
+- [copyparty 自建文件服务器：飞牛 NAS Docker 部署 + 内网穿透外网访问](copyparty-self-hosted-file-server-nas-docker-deployment-intranet-penetration.md)
+- [自建远程文件浏览器Mikochi，极简部署NAS文件管理，支持内网穿透外网访问](mikochi-remote-file-browser-nas-file-management-intranet-penetration.md)
+- [轻量级文件服务器 DUFS 快速部署指南 NAS Docker 一键启用文件共享搜索上传](lightweight-file-server-dufs-quick-deployment-guide-nas-docker-one-click-enable-file-sharing-search-upload.md)

@@ -95,3 +95,12 @@ services:
 ---
 
 原文：<https://www.passnat.com/posts/shlink-nas-docker-short-url-deployment-guide>
+
+
+## 相关文章
+
+- [自建短链接服务YOURLS Docker部署教程，NAS一键搭建私有短链系统](self-hosted-yourls-docker-deployment-guide-nas-private-short-link-system.md)
+- [自建书签管理器Linkding极简部署指南，NAS内网穿透远程访问书签收藏库](linkding-bookmark-manager-nas-remote-access-guide.md)
+- [LinkStack 自建个人名片页：NAS Docker 部署 + 公网访问完整步骤](linkstack-nas-docker-personal-link-page.md)
+- [Wishlist 全家礼物想单存 NAS](wishlist-family-gift-list-nas-deployment-passnat.md)
+- [自建卡片笔记 Blinko：飞牛 NAS Docker 部署，随手记 + 标签 + 全文搜，出门也能用](ai-powered-card-note-blinko-self-hosted-deployment-guide-docker-one-click-launch-private-intelligent-note-taking-system.md)

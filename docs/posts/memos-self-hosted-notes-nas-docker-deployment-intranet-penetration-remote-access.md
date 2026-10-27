@@ -56,3 +56,12 @@ services:
 ---
 
 原文：<https://www.passnat.com/posts/memos-self-hosted-notes-nas-docker-deployment-intranet-penetration-remote-access>
+
+
+## 相关文章
+
+- [写公众号不用再手动排版：飞牛 NAS 用一个容器装 doocs/md，Markdown 实时出公众号样式，配内网穿透在公司也能写](professional-wechat-markdown-editor-nas-simple-deployment-doocs-md-ai-intelligent-layout-beautiful-graphic-content.md)
+- [DailyTxT 加密日记：飞牛 NAS Docker 部署 + 内网穿透外网访问](private-diary-encryption-nas-local-deployment-dailytxt-intranet-penetration-remote-access.md)
+- [Note Mark 笔记：NAS Docker 部署 + 内网穿透](note-mark-nas-docker-markdown-notes-search-intranet-penetration.md)
+- [简单图床 EasyImages 自建：飞牛 NAS Docker 部署 + 内网穿透外网访问](easyimage-self-hosted-image-hosting-nas-docker-deployment-intranet-penetration.md)
+- [开源评论引擎Comentario一键部署指南，NAS轻松搭建私人讨论系统，Docker快速启动](open-source-comment-engine-comentario-deployment-guide-nas-private-discussion-system-docker-quick-start.md)

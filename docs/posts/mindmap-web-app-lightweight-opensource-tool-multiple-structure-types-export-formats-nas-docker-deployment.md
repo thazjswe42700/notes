@@ -86,3 +86,12 @@ services:
 ---
 
 原文：<https://www.passnat.com/posts/mindmap-web-app-lightweight-opensource-tool-multiple-structure-types-export-formats-nas-docker-deployment>
+
+
+## 相关文章
+
+- [开箱即用 Markdown 笔记应用，多库协作实时编辑，NAS 极简部署 Many Notes 内网穿透远程访问](many-notes-markdown-notebook-collaborative-editing-nas-deployment.md)
+- [私人知识库无限制 Logseq 开源笔记 NAS 部署 内网穿透远程访问管理](private-knowledge-base-unlimited-logseq-opensource-notes-nas-deployment-intranet-penetration-remote-access-management.md)
+- [Slidev开发者演示文稿工具，Markdown轻松创建专业幻灯片，代码高亮实时演示编辑](slidev-markdown-presentation-tool-code-highlight.md)
+- [Note Mark 笔记：NAS Docker 部署 + 内网穿透](note-mark-nas-docker-markdown-notes-search-intranet-penetration.md)
+- [PDFMathTranslate 整篇翻译：NAS Docker 部署 + 内网穿透](pdfmathtranslate-nas-docker-pdf-translate-formula-layout-intranet-penetration.md)

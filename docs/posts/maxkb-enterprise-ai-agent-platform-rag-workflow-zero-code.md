@@ -98,3 +98,12 @@ RAG 智能问答：支持文档上传和在线爬取，自动分割和向量化�
 ---
 
 原文：<https://www.passnat.com/posts/maxkb-enterprise-ai-agent-platform-rag-workflow-zero-code>
+
+
+## 相关文章
+
+- [FastGPT知识库AI Agent平台Docker部署指南，NAS一键启动，内网穿透远程访问企业级智能问答系统](fastgpt-knowledge-base-ai-agent-docker-deployment-nas-one-click-setup-internal-network-penetration-remote-access-enterprise-intelligent-qa-system.md)
+- [开源数据应用框架DB-GPT Docker部署指南 NAS私有化部署与内网穿透配置](db-gpt-docker-deployment-nas-private-deployment-intranet-penetration.md)
+- [Kotaemo智能文档对话平台开源部署，私有RAG系统本地化搭建与内网穿透远程访问完整指南](kotaemo-smart-document-chat-open-source-deployment-private-rag-system-localization-intranet-penetration-remote-access-complete-guide.md)
+- [本地部署AI大模型Ollama，离线运行Gemma Llama DeepSeek，支持内网穿透远程访问](local-deploy-ai-ollama-offline-gemma-llama-deepseek-intranet-tunneling.md)
+- [本地AI交互平台SillyTavern Docker部署指南，NAS快速安装配置教程](silly-tavern-docker-deployment-guide-nas-quick-install-setup.md)

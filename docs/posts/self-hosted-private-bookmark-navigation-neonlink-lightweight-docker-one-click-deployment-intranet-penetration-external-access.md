@@ -109,3 +109,12 @@ http://你的设备IP:3333
 ---
 
 原文：<https://www.passnat.com/posts/self-hosted-private-bookmark-navigation-neonlink-lightweight-docker-one-click-deployment-intranet-penetration-external-access>
+
+
+## 相关文章
+
+- [自建私人书签管理库 一处部署随处访问，OneNav Docker极简快速部署指南](onenav-docker-bookmark-manager-deployment-guide.md)
+- [自建书签管理器Linkding极简部署指南，NAS内网穿透远程访问书签收藏库](linkding-bookmark-manager-nas-remote-access-guide.md)
+- [轻量级书签管理工具Shiori，NAS一键部署，支持内网穿透远程访问书签](lightweight-bookmark-manager-shiori-nas-one-click-deployment-intranet-penetration-remote-access.md)
+- [轻量级个人导航页面 Flare 快速部署教程，飞牛 NAS Docker 部署 + 内网穿透远程访问](lightweight-personal-navigation-flare-quick-deploy-tutorial-nas-one-click-install-guide.md)
+- [自建个人导航页面服务器实时监控工具，Docker快速部署Jump内网穿透远程访问](personal-navigation-server-monitoring-docker-jump-intranet-penetration.md)

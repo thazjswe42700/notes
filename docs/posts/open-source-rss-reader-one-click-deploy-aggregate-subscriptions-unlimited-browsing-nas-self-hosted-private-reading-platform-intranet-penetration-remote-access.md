@@ -123,3 +123,12 @@ APP\_PRUNE\_POSTS\_AFTER\_DAYS：自动删除旧文章的天数，默认不删�
 ---
 
 原文：<https://www.passnat.com/posts/open-source-rss-reader-one-click-deploy-aggregate-subscriptions-unlimited-browsing-nas-self-hosted-private-reading-platform-intranet-penetration-remote-access>
+
+
+## 相关文章
+
+- [开源个人关系管理系统Monica私密部署指南，NAS一键Docker快速安装配置教程](open-source-personal-crm-monica-private-deployment-guide-nas-docker-quick-install.md)
+- [自建 RSS 阅读器 FreshRSS：飞牛 NAS Docker 部署，关注的更新汇到一页，配内网穿透在外面也能刷](self-hosted-rss-reader-freshrss-nas-docker-deployment-intranet-penetration.md)
+- [自建RSS阅读聚合中心，内网穿透远程订阅，Selfoss极简Docker部署完全指南](self-hosted-rss-reader-selfoss-docker-deployment-guide.md)
+- [使用Morss完整抓取RSS全文内容，NAS Docker极速部署，内网穿透远程订阅](morss-nas-docker-rss-remote-subscription.md)
+- [轻量级自托管仪表板Glance，极简部署NAS内网穿透远程访问信息聚合平台](glance-lightweight-self-hosted-dashboard-nas-intranet-penetration-remote-access-information-aggregation-platform.md)

@@ -95,3 +95,12 @@ services:
 ---
 
 原文：<https://www.passnat.com/posts/metube-nas-docker-save-videos-to-nas-intranet-penetration>
+
+
+## 相关文章
+
+- [开源私有视频会议系统Nettu Meet，Docker一键部署，支持屏幕共享和内网穿透远程访问](open-source-nettu-meet-video-conference-docker-deployment.md)
+- [Metabase 数据看板：NAS Docker 部署 + 内网穿透](metabase-nas-docker-data-dashboard-intranet-penetration.md)
+- [Gokapi 文件分享：NAS Docker 部署 + 内网穿透](gokapi-nas-docker-file-sharing-expiry-auto-cleanup-intranet-penetration.md)
+- [LubeLogger 保养记录：NAS Docker 部署 + 内网穿透](lubelogger-nas-docker-car-maintenance-fuel-records-intranet-penetration.md)
+- [PicoShare 文件分享：NAS Docker 部署 + 内网穿透](picoshare-nas-docker-file-sharing-upload-link-intranet-penetration.md)

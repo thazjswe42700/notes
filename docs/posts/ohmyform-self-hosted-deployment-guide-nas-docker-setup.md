@@ -88,3 +88,12 @@ MAILER\_URI: 邮件服务配置（如需发送邮件通知，配置 SMTP 地址�
 ---
 
 原文：<https://www.passnat.com/posts/ohmyform-self-hosted-deployment-guide-nas-docker-setup>
+
+
+## 相关文章
+
+- [硬盘智能监控仪表盘Scrutiny，S.M.A.R.T数据可视化预警，NAS服务器故障提前预测方案](scrutiny-smart-hard-drive-monitoring-dashboard-nas-server-failure-prediction.md)
+- [开源数据应用框架DB-GPT Docker部署指南 NAS私有化部署与内网穿透配置](db-gpt-docker-deployment-nas-private-deployment-intranet-penetration.md)
+- [开源记账本自建部署，Cashbook账目管理完全自主可控，NAS极简搭建多人共享记账](open-source-accounting-cashbook-nas-self-hosted-shared.md)
+- [开源问卷考试系统卷王Docker部署指南，NAS一键安装私有问卷平台，支持内网穿透远程访问](open-source-questionnaire-exam-system-docker-deployment-nas-intranet-penetration.md)
+- [自建RSS阅读聚合中心，内网穿透远程订阅，Selfoss极简Docker部署完全指南](self-hosted-rss-reader-selfoss-docker-deployment-guide.md)

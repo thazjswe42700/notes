@@ -54,3 +54,12 @@ Dim 无需特殊的环境变量配置，保持默认即可。
 ---
 
 原文：<https://www.passnat.com/posts/dim-self-hosted-media-manager-local-privacy>
+
+
+## 相关文章
+
+- [自托管书签管理工具Servas无公网部署指南 NAS极简配置内网穿透远程访问](servas-self-hosted-bookmark-manager-nas-deployment-guide-intranet-penetration-remote-access.md)
+- [自建私人网盘PicHome Docker快速部署，NAS一键启动智能媒体管理系统](pichome-docker-nas-private-cloud-storage-deployment.md)
+- [开源Rust音乐服务器Diosic极简部署，NAS轻量级流媒体解决方案](diosic-rust-music-server-nas-deployment.md)
+- [自托管任务管理系统tududi Docker极简部署 本地数据完全私密可控](self-hosted-task-management-tududi-docker-deployment.md)
+- [自动化文件处理系统FileFlows，NAS部署媒体转码工具，内网穿透远程访问管理](fileflows-nas-media-transcoding-intranet-penetration.md)

@@ -115,3 +115,12 @@ Mathesar 的权限跟着 PostgreSQL 角色走。先进「Database Settings → R
 ---
 
 原文：<https://www.passnat.com/posts/mathesar-nas-docker-database-web-table-family-inventory-intranet-penetration>
+
+
+## 相关文章
+
+- [Mattermost 团队聊天：NAS Docker 部署 + 内网穿透](mattermost-team-chat-nas-docker-intranet-penetration.md)
+- [自然语言SQL对话工具，AI驱动数据库客户端，支持多数据库NAS快速部署](natural-language-sql-chat-ai-database-client-multi-database-nas-deployment.md)
+- [翻数据库不用再开客户端：飞牛 NAS 用一个容器装 DbGate，浏览器里开表写 SQL，配内网穿透在外面也能连](dbgate-database-management-tool-mysql-postgresql-mongodb-nas-docker-deployment.md)
+- [SyncTV：NAS Docker 同步影院 + 内网穿透](synctv-nas-docker-synchronized-movie-theater-intranet-penetration.md)
+- [浏览器免费数据库设计工具DrawDB，无需账户在线绘制ER图生成SQL脚本](browser-free-database-design-tool-drawdb-er-diagram-sql-script.md)

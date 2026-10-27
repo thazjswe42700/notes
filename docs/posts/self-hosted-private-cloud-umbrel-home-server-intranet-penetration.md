@@ -54,3 +54,12 @@ Umbrel 内置了官方应用商店，你可以一键安装各种应用，包括�
 ---
 
 原文：<https://www.passnat.com/posts/self-hosted-private-cloud-umbrel-home-server-intranet-penetration>
+
+
+## 相关文章
+
+- [开源私有视频会议系统Nettu Meet，Docker一键部署，支持屏幕共享和内网穿透远程访问](open-source-nettu-meet-video-conference-docker-deployment.md)
+- [自建私有云盘系统JmalCloud，Docker极简部署，文件安全掌控在手](jmalcloud-private-cloud-storage-docker-deployment.md)
+- [免费私有相册系统Lomorage，Docker快速部署NAS，内网穿透远程访问家庭影库](lomorage-free-private-photo-gallery-docker-nas-deployment-remote-access.md)
+- [私有部署开源聊天应用VoceChat，NAS轻松搭建安全私密聊天系统，内网穿透远程访问](vocechat-private-deployment-nas-internal-network-penetration.md)
+- [家庭私人照片管理系统PhotoStructure，NAS一键部署，内网穿透远程访问你的回忆](photostructure-nas-private-photo-management-remote-access.md)

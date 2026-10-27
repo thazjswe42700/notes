@@ -68,3 +68,12 @@ http://你的IP地址:8080
 ---
 
 原文：<https://www.passnat.com/posts/win11-react-docker-browser-desktop>
+
+
+## 相关文章
+
+- [现代React推箱子游戏，500+谜题无限撤销，NAS极简部署内网穿透在线玩](modern-react-sokoban-game-500-puzzles-unlimited-undo-nas-simple-deployment-intranet-penetration-online-play.md)
+- [高颜值React音乐播放器R3PLAYX，NAS极简部署，无社交纯听觉，支持网易云账号登录和实时歌词显示](r3playx-react-music-player-nas-deployment-netease-cloud-lyrics.md)
+- [Webamp网页版Winamp音乐播放器Docker部署完整指南，NAS一键启动享受怀旧音乐体验](webamp-winamp-docker-nas-deployment-guide.md)
+- [开源私有视频会议系统Nettu Meet，Docker一键部署，支持屏幕共享和内网穿透远程访问](open-source-nettu-meet-video-conference-docker-deployment.md)
+- [自建相册管理系统Photoview，NAS极简部署内网穿透远程访问，摄影师RAW格式完美支持](photoview-nas---raw.md)

@@ -68,3 +68,12 @@ HomeLists 是一款简洁高效的家庭物品库存管理工具。它帮助你�
 ---
 
 原文：<https://www.passnat.com/posts/home-inventory-management-tool-homelists-lightweight-go-nas-deployment-guide-internal-network-penetration>
+
+
+## 相关文章
+
+- [WhoDB轻量级数据库管理工具，自然语言对话查询，NAS极简部署，无公网内网穿透远程访问。](whodb-lightweight-database-management-natural-language-query-nas-simple-deployment-private-network-remote-access.md)
+- [开源家庭管理平台Homechart Docker部署指南 NAS自托管家务预算日程统一管理](homechart-docker-deployment-guide-nas-self-hosted-household-management.md)
+- [Oxker Docker容器管理工具TUI界面轻量级终端控制，Rust开发支持实时监控日志查看](oxker-docker-container-management-tui-lightweight-terminal-rust-realtime-monitoring.md)
+- [多存储聚合管理工具AList，支持30+云盘本地存储，Docker极简部署NAS内网穿透在线预览](alist-multi-cloud-storage-aggregation-tool-30-plus-cloud-drives-local-storage-docker-simple-deployment-nas-intranet-penetration-online-preview.md)
+- [家庭实验室统一管理 Astro 仪表盘部署指南，NAS 极简配置内网穿透远程访问](home-lab-unified-management-astro-dashboard-deployment-guide-nas-minimalist-configuration-intranet-penetration-remote-access.md)

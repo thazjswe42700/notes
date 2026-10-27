@@ -58,3 +58,12 @@ API\_KEY：用于安全认证的 API 密钥（可选，但建议设置以增强�
 ---
 
 原文：<https://www.passnat.com/posts/elysian-self-hosted-bookmark-sync-nas-backup-browser-bookmarks-intranet-penetration-remote-access>
+
+
+## 相关文章
+
+- [自托管书签管理工具Servas无公网部署指南 NAS极简配置内网穿透远程访问](servas-self-hosted-bookmark-manager-nas-deployment-guide-intranet-penetration-remote-access.md)
+- [mTab书签管理工具私有部署指南，跨平台同步无广告，内网穿透远程访问](mtab-bookmark-manager-private-deployment-guide-cross-platform-sync-no-ads-intranet-penetration-remote-access.md)
+- [自建私人书签管理库 一处部署随处访问，OneNav Docker极简快速部署指南](onenav-docker-bookmark-manager-deployment-guide.md)
+- [轻量级书签管理工具Shiori，NAS一键部署，支持内网穿透远程访问书签](lightweight-bookmark-manager-shiori-nas-one-click-deployment-intranet-penetration-remote-access.md)
+- [自托管个人知识库Karakeep，AI智能标签书签管理，NAS极简部署内网穿透远程访问](karakeep-ai-bookmark-manager-nas-deployment.md)

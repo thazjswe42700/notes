@@ -66,3 +66,12 @@ LT\_LOAD\_ONLY=en,fr - 仅加载指定语言模型（用逗号分隔），可以
 ---
 
 原文：<https://www.passnat.com/posts/libre-translate-docker-nas-deployment-guide>
+
+
+## 相关文章
+
+- [开源低代码平台Appsmith本地部署指南，NAS极简安装Docker Compose，无公网内网穿透远程访问](appsmith-nas-docker-compose-local-deployment-guide.md)
+- [在线AI智能抠图工具，支持Web和API接口，NAS一键部署，内网穿透远程访问使用](ai-intelligent-image-matting-web-api-nas-deployment.md)
+- [开源无代码数据库SeaTable自托管部署指南，NAS极简配置Docker Compose一键启动](seatable-self-hosted-nas-docker-compose-deployment-guide.md)
+- [开源问卷调查系统LimeSurvey，NAS一键部署，内网穿透远程访问，无限问卷模板](open-source-survey-system-limesurvey-nas-one-click-deployment-intranet-penetration-remote-access-unlimited-questionnaire-templates.md)
+- [开源时间追踪Kimai完整部署指南,NAS极简配置轻松打造专业计时系统](kimai-open-source-time-tracking-deployment-guide-nas-simple-configuration.md)

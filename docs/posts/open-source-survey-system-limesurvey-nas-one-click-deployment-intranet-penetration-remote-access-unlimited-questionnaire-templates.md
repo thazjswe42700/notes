@@ -96,3 +96,12 @@ LimeSurvey 需要持久化存储问卷数据和上传文件，建议创建以下
 ---
 
 原文：<https://www.passnat.com/posts/open-source-survey-system-limesurvey-nas-one-click-deployment-intranet-penetration-remote-access-unlimited-questionnaire-templates>
+
+
+## 相关文章
+
+- [LimeSurvey 自建问卷：NAS Docker 部署 + 内网穿透](limesurvey-nas-docker-survey-form-intranet-penetration.md)
+- [在线AI智能抠图工具，支持Web和API接口，NAS一键部署，内网穿透远程访问使用](ai-intelligent-image-matting-web-api-nas-deployment.md)
+- [开源低代码平台Appsmith本地部署指南，NAS极简安装Docker Compose，无公网内网穿透远程访问](appsmith-nas-docker-compose-local-deployment-guide.md)
+- [开源时间追踪Kimai完整部署指南,NAS极简配置轻松打造专业计时系统](kimai-open-source-time-tracking-deployment-guide-nas-simple-configuration.md)
+- [自托管提醒应用MIND，Docker极简部署NAS，80+平台消息推送，内网穿透远程访问](self-hosted-reminder-app-mind-docker-nas-deployment-80-plus-messaging-platforms-internal-penetration-remote-access.md)

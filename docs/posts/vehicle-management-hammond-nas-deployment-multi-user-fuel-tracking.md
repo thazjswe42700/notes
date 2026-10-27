@@ -118,3 +118,12 @@ Hammond 是一个开箱即用、功能完整的车辆管理解决方案。通过
 ---
 
 原文：<https://www.passnat.com/posts/vehicle-management-hammond-nas-deployment-multi-user-fuel-tracking>
+
+
+## 相关文章
+
+- [开源个人关系管理系统Monica私密部署指南，NAS一键Docker快速安装配置教程](open-source-personal-crm-monica-private-deployment-guide-nas-docker-quick-install.md)
+- [开源RSS阅读器一键部署，聚合订阅内容无限浏览，NAS自建私人阅读平台内网穿透远程访问](open-source-rss-reader-one-click-deploy-aggregate-subscriptions-unlimited-browsing-nas-self-hosted-private-reading-platform-intranet-penetration-remote-access.md)
+- [开源无代码数据库Baserow自托管部署，Docker一键安装NAS内网穿透远程访问完全指南](open-source-no-code-database-baserow-self-hosted-deployment-docker-one-click-installation-nas-intranet-penetration-remote-access-complete-guide.md)
+- [自建漫画阅读器Teemii极简部署，NAS一键启动，内网穿透随处看漫画](teemii-comic-reader-nas-deployment.md)
+- [自托管车辆保养追踪系统，本地部署LubeLogger，维护记录油耗管理随时查看](self-hosted-vehicle-maintenance-tracker-lubelogger-local-deployment.md)

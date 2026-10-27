@@ -62,3 +62,12 @@ SillyTavern 是一款功能强大的本地化AI交互平台，为广大AI爱好�
 ---
 
 原文：<https://www.passnat.com/posts/silly-tavern-docker-deployment-guide-nas-quick-install-setup>
+
+
+## 相关文章
+
+- [One API 统一大模型接口，支持30+模型OpenAI格式调用，NAS一键部署使用。](one-api-unified-model-interface-30-plus-models-openai-format-nas-deployment.md)
+- [Open WebUI 自建 AI 对话站：飞牛 NAS Docker 部署接云端模型不用显卡，内网穿透出门手机也能聊](open-webui-self-hosted-private-ai-chat-platform-docker-simple-deployment-offline-privacy.md)
+- [开源AI搜索平台Search4All部署指南 NAS服务器Docker快速安装内网穿透远程访问](search4all-nas-docker-deployment-guide-intranet-penetration-remote-access.md)
+- [免费DeepSeek API接口一键部署，OpenAI兼容格式，NAS本地化私有部署方案](free-deepseek-api-deployment-openai-compatible-nas-local-private.md)
+- [深度网络研究工具本地部署指南，NAS一键启动Deep Research Web UI，支持多AI提供商](deep-network-research-tool-local-deployment-guide-nas-one-click-launch-deep-research-web-ui-multi-ai-providers.md)

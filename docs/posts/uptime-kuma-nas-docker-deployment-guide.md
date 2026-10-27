@@ -85,3 +85,12 @@ restart: unless-stopped：NAS 重启之后自动拉起；自己手动停掉的�
 ---
 
 原文：<https://www.passnat.com/posts/uptime-kuma-nas-docker-deployment-guide>
+
+
+## 相关文章
+
+- [开源自托管订阅管理系统Wallos 内网穿透远程访问 NAS一键部署完整指南](open-source-self-hosted-subscription-management-system-wallos-internal-penetration-remote-access-nas-one-click-deployment-complete-guide.md)
+- [自建个人导航页面服务器实时监控工具，Docker快速部署Jump内网穿透远程访问](personal-navigation-server-monitoring-docker-jump-intranet-penetration.md)
+- [私密PDF处理工具Stirling本地部署指南，Docker容器化方案50+功能完整教程](stirling-pdf-local-deployment-guide-docker-containerization-50-plus-features-complete-tutorial.md)
+- [Portainer容器管理面板部署指南，飞牛NAS用Docker搭建可视化面板，配内网穿透在外面也能管容器](portainer-nas-docker-container-management-panel-deployment-guide.md)
+- [自托管习惯追踪应用Beaver Habit Tracker，NAS极简部署内网穿透远程打卡](beaver-habit-tracker-nas-self-hosted-remote-check-in.md)

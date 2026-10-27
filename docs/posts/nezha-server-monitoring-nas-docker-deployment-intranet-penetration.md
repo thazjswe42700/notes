@@ -70,3 +70,12 @@ services:
 ---
 
 原文：<https://www.passnat.com/posts/nezha-server-monitoring-nas-docker-deployment-intranet-penetration>
+
+
+## 相关文章
+
+- [Beszel 主机监控：NAS Docker 部署 + 内网穿透](beszel-nas-docker-host-monitoring-dashboard-intranet-penetration.md)
+- [自建 cAdvisor 容器监控：飞牛 NAS Docker 部署 + 内网穿透](cadvisor-docker-container-resource-monitoring-nas-deployment-intranet-penetration.md)
+- [IOPaint开源AI图像修复工具，免费自托管，CPU/GPU/M1支持，智能去物体移除水印](iopaint-open-source-ai-image-inpainting-tool-free-self-hosted-cpu-gpu-m1-support-remove-objects-watermarks.md)
+- [Homepage 自建 NAS 导航首页：飞牛 Docker 部署 + 内网穿透外网访问](homepage-nas-service-dashboard-docker-deployment-intranet-penetration.md)
+- [Homarr 自建服务导航页：飞牛 NAS Docker 部署 + 内网穿透外网访问](homarr-self-hosted-dashboard-nas-docker-deployment-intranet-penetration.md)

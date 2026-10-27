@@ -68,3 +68,12 @@ Ryot（Roll Your Own Tracker，发音为'riot'）是一个功能强大的自托�
 ---
 
 原文：<https://www.passnat.com/posts/self-hosted-life-tracking-ryot-deployment-guide-nas-one-click-install-internal-network-penetration-remote-access>
+
+
+## 相关文章
+
+- [Jellyseerr开源影视请求管理系统，NAS一键部署Jellyfin媒体库，内网穿透远程访问审批影视资源](jellyseerr-nas-jellyfin-media-request-approval-system.md)
+- [自托管Kyoo影视库服务器，智能识别无需配置，内网穿透远程访问，一次部署永久使用](self-hosted-kyoo-streaming-server-intelligent-recognition-setup-free-internal-network-traversal-remote-access-one-time-deployment-permanent-use.md)
+- [Directus 开源数据管理平台 Docker 快速部署，NAS 自建内容管理系统无公网穿透远程访问！](directus-docker-nas-cms-remote-access.md)
+- [私有部署开源聊天应用VoceChat，NAS轻松搭建安全私密聊天系统，内网穿透远程访问](vocechat-private-deployment-nas-internal-network-penetration.md)
+- [自托管提醒应用MIND，Docker极简部署NAS，80+平台消息推送，内网穿透远程访问](self-hosted-reminder-app-mind-docker-nas-deployment-80-plus-messaging-platforms-internal-penetration-remote-access.md)

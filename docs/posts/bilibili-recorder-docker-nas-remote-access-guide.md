@@ -52,3 +52,12 @@ canonical: https://www.passnat.com/posts/bilibili-recorder-docker-nas-remote-acc
 ---
 
 原文：<https://www.passnat.com/posts/bilibili-recorder-docker-nas-remote-access-guide>
+
+
+## 相关文章
+
+- [直播录制神器DouyinLiveRecorder，50+平台一键自动守护，NAS循环值守永不错过精彩](douyin-live-recorder-50-platforms-automatic-recording-nas.md)
+- [开源命令行可视化工具OliveTin，NAS一键部署，内网穿透远程访问，无公网也能随时执行](olivetin-nas-open-source-cli-visualization-tool-intranet-penetration-remote-access.md)
+- [code-server 自建网页版 VS Code：飞牛 NAS Docker 部署远程开发环境，内网穿透出门也能写代码](codeserver.md)
+- [开源电子书库管理系统Biblioteca完整部署指南-NAS一键安装Docker Compose配置](open-source-ebook-library-management-system-biblioteca-complete-deployment-guide-nas-one-click-install-docker-compose-configuration.md)
+- [Odoo开源ERP系统完整部署指南，企业管理一站式解决方案，内网穿透远程访问](odoo-erp-deployment-guide-enterprise-management-solution.md)

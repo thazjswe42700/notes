@@ -125,3 +125,12 @@ Create an event：建活动　Event name：活动名称　Join code：活动码�
 ---
 
 原文：<https://www.passnat.com/posts/claper-nas-deployment-interactive-audience-feedback-remote-access>
+
+
+## 相关文章
+
+- [台下扫码就能提问、投票：飞牛NAS 用 Docker 部署 Claper，内网穿透开放到公网](claper-interactive-presentation-docker-deployment-nas-reverse-proxy-remote-access.md)
+- [Lychee 自建私人相册：飞牛 NAS Docker 部署 + 内网穿透外网访问](lychee-nas-self-hosted-photo-album-share-link-password.md)
+- [自建网盘 Cloudreve：飞牛 NAS 一个容器就能装，文件传上去右键甩个链接，配内网穿透在外面也能收发](nas-self-hosted-cloud-storage-docker-cloudreve-intranet-penetration-remote-file-share.md)
+- [Remark42 自建评论系统：NAS Docker 部署 + 匿名登录 + 嵌入网页完整步骤](remark42-nas-docker-self-hosted-comment-system.md)
+- [自托管URL缩短器Pckd：免费开源短链服务，NAS一键部署快速追踪链接数据](pckd-self-hosted-url-shortener-free-open-source-short-link-service-nas-one-click-deployment-fast-tracking-link-data.md)

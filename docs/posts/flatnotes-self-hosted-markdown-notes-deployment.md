@@ -76,3 +76,12 @@ flatnotes 的界面目前只有英文，不过它对中文内容的支持是完�
 ---
 
 原文：<https://www.passnat.com/posts/flatnotes-self-hosted-markdown-notes-deployment>
+
+
+## 相关文章
+
+- [轻量级Markdown笔记应用NoteFlow，本地部署无需数据库，支持内网穿透远程访问笔记管理系统](noteflow-lightweight-markdown-note-app-local-deployment-no-database-intranet-penetration-remote-access.md)
+- [自托管笔记书签管理Benotes Docker部署指南，NAS轻松搭建私有知识库](self-hosted-notes-bookmarks-benotes-docker-nas-private-knowledge-base.md)
+- [Note Mark 笔记：NAS Docker 部署 + 内网穿透](note-mark-nas-docker-markdown-notes-search-intranet-penetration.md)
+- [开箱即用 Markdown 笔记应用，多库协作实时编辑，NAS 极简部署 Many Notes 内网穿透远程访问](many-notes-markdown-notebook-collaborative-editing-nas-deployment.md)
+- [轻量级Markdown笔记应用Note Mark，Docker极简部署NAS，支持内网穿透远程访问笔记](note-mark-markdown-docker-nas-intranet-penetration.md)

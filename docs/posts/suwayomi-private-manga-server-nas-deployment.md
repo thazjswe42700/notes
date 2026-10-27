@@ -119,3 +119,12 @@ http://你的设备IP:4567
 ---
 
 原文：<https://www.passnat.com/posts/suwayomi-private-manga-server-nas-deployment>
+
+
+## 相关文章
+
+- [阿里云盘CLI命令行工具NAS部署指南，本地文件云端备份同步方案详解](aliyun-pan-cli-nas-deployment-guide-local-cloud-backup-sync-solution.md)
+- [无状态密码管理器Heimdallr，一密掌控所有账户，NAS本地部署零风险，内网穿透远程访问无忧](heimdallr-stateless-password-manager-nas-local-deployment.md)
+- [装忙神器Genact：Rust编写跨平台终端动画，NAS一键部署模拟工作场景](genact-rust-terminal-animation-nas-deployment.md)
+- [自建RustDesk远程桌面服务器,NAS极简部署无公网穿透远程控制,开源跨平台屏幕共享工具](rustdesk-nas-remote-desktop-server-self-hosted.md)
+- [DweebUI容器管理面板轻松上手，Docker Podman全能卫士一键部署运维](dweebui-container-management-panel-docker-podman-deployment.md)

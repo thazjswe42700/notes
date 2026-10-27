@@ -67,3 +67,12 @@ docker run -dit \
 ---
 
 原文：<https://www.passnat.com/posts/qing-she-tan-zhen-fu-wu-qi-jian-kong-xi-tong-docker-yi-jian-bu-shu-shi-shi-ke-shi-hua-mian-ban-zhi-chi-yuan-cheng-ssh-guan-li>
+
+
+## 相关文章
+
+- [浏览器里就是命令行：飞牛 NAS 用 Docker 自建 WebSSH + 内网穿透远程敲命令](webssh-fnos-docker-passnat.md)
+- [聚合三大平台海量音乐，NAS 极简部署 Musicn 音乐库，一键启动在线播放下载](musicn-nas-online-music-player-aggregator.md)
+- [浏览器里直接 SSH 到 NAS：飞牛 Docker 自建 Next Terminal + 内网穿透远程运维](next-terminal-fnos-docker-passnat.md)
+- [开源私有视频会议系统Nettu Meet，Docker一键部署，支持屏幕共享和内网穿透远程访问](open-source-nettu-meet-video-conference-docker-deployment.md)
+- [DopplerTask开源自动化平台Docker快速部署指南，NAS轻松搭建工作流自动化系统](doppler-task-docker-nas-workflow-automation-guide.md)

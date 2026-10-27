@@ -66,3 +66,8 @@ http://你的NAS地址:3000
 ---
 
 原文：<https://www.passnat.com/posts/open-source-puzzle-game-fish-docker-deployment-guide-nas-one-click-launch-ad-free-experience>
+
+
+## 相关文章
+
+- [现代React推箱子游戏，500+谜题无限撤销，NAS极简部署内网穿透在线玩](modern-react-sokoban-game-500-puzzles-unlimited-undo-nas-simple-deployment-intranet-penetration-online-play.md)

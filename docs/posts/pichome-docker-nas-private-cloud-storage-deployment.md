@@ -80,3 +80,12 @@ DB\_PASSWORD | 数据库密码 | 空 | 否
 ---
 
 原文：<https://www.passnat.com/posts/pichome-docker-nas-private-cloud-storage-deployment>
+
+
+## 相关文章
+
+- [Yacht容器管理系统一键部署指南，Docker应用模板快速启动，NAS自建服务完整教程](yacht-container-management-one-click-deployment-guide-docker-application-templates-quick-start-nas-self-built-services-complete-tutorial.md)
+- [开源家庭管理平台Homechart Docker部署指南 NAS自托管家务预算日程统一管理](homechart-docker-deployment-guide-nas-self-hosted-household-management.md)
+- [容器管理神器Yacht一键部署指南，Docker应用模板化管理简单易用，支持内网穿透远程访问管理](yacht-docker-container-management-deployment-guide.md)
+- [自建音乐库管理系统Beets，NAS极简部署一键启动，智能整理音乐收藏无公网远程访问](music-library-management-beets-nas-deployment-remote-access.md)
+- [无需公网IP搭建私人网盘，AList聚合多云存储，Docker极速部署NAS文件管理系统](alist-docker-nas-private-cloud-storage.md)

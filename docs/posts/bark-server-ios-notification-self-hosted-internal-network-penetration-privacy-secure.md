@@ -80,3 +80,12 @@ level 设置通知优先级（timeSensitive/critical/passive）
 ---
 
 原文：<https://www.passnat.com/posts/bark-server-ios-notification-self-hosted-internal-network-penetration-privacy-secure>
+
+
+## 相关文章
+
+- [自建音乐流媒体服务器Polaris，免费开源支持多格式，NAS一键部署内网穿透远程听歌](polaris-open-source-music-server-nas-remote-streaming.md)
+- [自架推送服务平台PushDeer，NAS极简部署，支持内网穿透远程推送，多设备同步私密消息](self-hosted-push-notification-service-pushdeer-nas-simple-deployment-intranet-penetration-remote-push-multi-device-sync-private-messages.md)
+- [Standard Notes 私密笔记自建 - 端到端加密开源方案，NAS 极简部署指南](standard-notes-private-notes-self-hosted-end-to-end-encryption-open-source-nas-simple-deployment-guide.md)
+- [免费私有相册系统Lomorage，Docker快速部署NAS，内网穿透远程访问家庭影库](lomorage-free-private-photo-gallery-docker-nas-deployment-remote-access.md)
+- [私有部署开源聊天应用VoceChat，NAS轻松搭建安全私密聊天系统，内网穿透远程访问](vocechat-private-deployment-nas-internal-network-penetration.md)

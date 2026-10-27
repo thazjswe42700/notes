@@ -110,3 +110,12 @@ http://你的NAS地址:3000
 ---
 
 原文：<https://www.passnat.com/posts/open-source-calendar-management-cal-com-self-hosted-deployment-local-nas-storage-intranet-penetration-remote-access>
+
+
+## 相关文章
+
+- [开源日程管理系统Cal.com自托管部署指南，NAS极简配置内网穿透远程访问](open-source-calendar-management-system-cal-com-self-hosted-deployment-guide-nas-simple-configuration-intranet-penetration-remote-access.md)
+- [NotNav导航网站Notion数据库驱动，Next.js打造响应式设计支持内外网切换](notnav-notion-database-nextjs-responsive-design.md)
+- [可视化Docker Compose管理工具，NAS极简部署Compose Craft，无公网内网穿透远程访问](compose-craft-docker-visualization-nas-deployment-internal-network-remote-access.md)
+- [开源低代码平台Appsmith本地部署指南，NAS极简安装Docker Compose，无公网内网穿透远程访问](appsmith-nas-docker-compose-local-deployment-guide.md)
+- [AI盘网盘搜索聚合平台，Next.js打造智能资源管理，NAS一键部署无需复杂配置，内网穿透远程访问。](ai-pan-wangpan-search-aggregation-platform-nextjs-intelligent-resource-management-nas-one-click-deployment-no-complex-configuration-intranet-penetration-remote-access.md)

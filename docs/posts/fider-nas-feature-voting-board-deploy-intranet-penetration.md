@@ -82,3 +82,12 @@ services:
 ---
 
 原文：<https://www.passnat.com/posts/fider-nas-feature-voting-board-deploy-intranet-penetration>
+
+
+## 相关文章
+
+- [code-server 自建网页版 VS Code：飞牛 NAS Docker 部署远程开发环境，内网穿透出门也能写代码](codeserver.md)
+- [Navidrome 飞牛 NAS 部署与公网听歌](navidrome-docker-private-music-server.md)
+- [台下扫码就能提问、投票：飞牛NAS 用 Docker 部署 Claper，内网穿透开放到公网](claper-interactive-presentation-docker-deployment-nas-reverse-proxy-remote-access.md)
+- [自建 Smart Mermaid：飞牛 NAS Docker 部署 + 内网穿透外网访问](smart-mermaid-ai-text-to-diagram-nas-docker-deployment-intranet-penetration.md)
+- [AdGuard Home 飞牛 NAS 部署与公网管理](adguard-home-docker-ad-blocking-dns.md)

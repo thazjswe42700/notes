@@ -70,3 +70,12 @@ AdGuard Home 自带「设置指导」页，Router、Windows、macOS、Android、
 ---
 
 原文：<https://www.passnat.com/posts/adguard-home-docker-ad-blocking-dns>
+
+
+## 相关文章
+
+- [Home Assistant 自建智能家居中枢：飞牛 NAS Docker 部署官方镜像，不同牌子的设备一页全管，内网穿透出门手机也能控](home-assistant-nas-smart-home-hub-docker-deployment-intranet-penetration.md)
+- [Homebox 飞牛 NAS 部署与公网查物品档案](home-asset-management-system-nas-deployment.md)
+- [Navidrome 飞牛 NAS 部署与公网听歌](navidrome-docker-private-music-server.md)
+- [开源家庭管理平台Homechart Docker部署指南 NAS自托管家务预算日程统一管理](homechart-docker-deployment-guide-nas-self-hosted-household-management.md)
+- [Homarr 自建服务导航页：飞牛 NAS Docker 部署 + 内网穿透外网访问](homarr-self-hosted-dashboard-nas-docker-deployment-intranet-penetration.md)

@@ -116,3 +116,12 @@ docker exec spug python3 manage.py user add -u admin -p 你的口令 -n 管理�
 ---
 
 原文：<https://www.passnat.com/posts/spug-nas-docker-ops-panel-intranet-penetration>
+
+
+## 相关文章
+
+- [Beszel 主机监控：NAS Docker 部署 + 内网穿透](beszel-nas-docker-host-monitoring-dashboard-intranet-penetration.md)
+- [Cronicle Edge 定时任务：NAS Docker 部署 + 内网穿透](cronicle-edge-nas-docker-scheduled-tasks-web-ui-job-logs-intranet-penetration.md)
+- [Leantime 项目管理：NAS Docker 部署 + 内网穿透](leantime-nas-docker-project-management-goals-timesheets-intranet-penetration.md)
+- [开源低代码工具ToolJet快速部署指南，NAS极简搭建内部应用开发平台](open-source-lowcode-tooljet-quick-deployment-guide-nas-simple-setup-internal-app-development-platform.md)
+- [EspoCRM 客户管理：NAS Docker 部署 + 内网穿透](espocrm-nas-docker-customer-followup-kanban-intranet-penetration.md)

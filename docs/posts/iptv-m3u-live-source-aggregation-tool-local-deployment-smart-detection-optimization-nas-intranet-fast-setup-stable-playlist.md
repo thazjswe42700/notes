@@ -70,3 +70,12 @@ http://你的NAS_IP:9527
 ---
 
 原文：<https://www.passnat.com/posts/iptv-m3u-live-source-aggregation-tool-local-deployment-smart-detection-optimization-nas-intranet-fast-setup-stable-playlist>
+
+
+## 相关文章
+
+- [网页版IPTV播放器Streamdock简易部署指南，无客户端浏览器直播观看体验](streamdock-web-iptv-player-deployment-guide-browser-live-streaming.md)
+- [自建OmniBox影视综合站：一站式观影平台部署指南，NAS一键启动Docker快速搭建多源聚合系统，内网穿透远程访问](omniboxnasdocker.md)
+- [自建IPTV直播平台无需公网，Docker快速部署秒播体验，内网穿透随处访问管理](self-hosted-iptv-live-streaming-platform-docker-deployment-no-public-ip-fast-playback-internal-network-penetration.md)
+- [自动聚合优质IPTV直播源，支持NAS极简部署与内网穿透远程访问](auto-aggregate-quality-iptv-live-sources-nas-simple-deployment-intranet-penetration-remote-access.md)
+- [Xnote个人笔记系统Docker部署指南，自建私密知识库随处可得内网穿透远程访问](xnote-docker-deployment-guide-personal-note-system-private-knowledge-base-intranet-penetration-remote-access.md)

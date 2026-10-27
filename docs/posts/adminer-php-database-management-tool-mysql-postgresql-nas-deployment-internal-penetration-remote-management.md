@@ -50,3 +50,12 @@ Adminer 无需特殊的环境变量配置，保持默认即可。如果你需要
 ---
 
 原文：<https://www.passnat.com/posts/adminer-php-database-management-tool-mysql-postgresql-nas-deployment-internal-penetration-remote-management>
+
+
+## 相关文章
+
+- [轻量级PHP博客系统Typecho在NAS上Docker部署，内网穿透远程访问详细教程指南](typecho-nas-docker-deployment-internal-penetration-remote-access.md)
+- [Directus 开源数据管理平台 Docker 快速部署，NAS 自建内容管理系统无公网穿透远程访问！](directus-docker-nas-cms-remote-access.md)
+- [开源低代码平台Budibase快速部署指南，Docker极简搭建应用，内网穿透远程访问](open-source-low-code-platform-budibase-quick-deployment-guide-docker-simple-setup-internal-network-penetration-remote-access.md)
+- [自然语言SQL对话工具，AI驱动数据库客户端，支持多数据库NAS快速部署](natural-language-sql-chat-ai-database-client-multi-database-nas-deployment.md)
+- [自建私人日历通讯录服务器Baïkal，Docker极简部署，完全私密掌控，内网穿透远程访问。](baical-docker-private-calendar-contacts-server.md)

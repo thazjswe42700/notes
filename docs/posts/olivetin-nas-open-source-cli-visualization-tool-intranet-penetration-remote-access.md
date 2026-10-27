@@ -88,3 +88,12 @@ OliveTin 出厂没有登录页，所以开放到公网前，务必给隧道设�
 ---
 
 原文：<https://www.passnat.com/posts/olivetin-nas-open-source-cli-visualization-tool-intranet-penetration-remote-access>
+
+
+## 相关文章
+
+- [自建 changedetection.io：飞牛 NAS Docker 部署 + 内网穿透外网访问](changedetection-io-website-change-monitor-nas-docker-deployment-intranet-penetration.md)
+- [Jellyfin 家庭影院：飞牛 NAS Docker 部署 + 内网穿透，出门手机接着看](jellyfin-nas-media-server-private-cinema.md)
+- [Navidrome 飞牛 NAS 部署与公网听歌](navidrome-docker-private-music-server.md)
+- [Mealie 飞牛 NAS 部署与手机采购清单](mealie-private-recipe-library-nas-deployment-35-languages-remote-access.md)
+- [Homebox 飞牛 NAS 部署与公网查物品档案](home-asset-management-system-nas-deployment.md)

@@ -127,3 +127,12 @@ volumes:
 ---
 
 原文：<https://www.passnat.com/posts/libreregistration-nas-docker-event-signup-intranet-penetration>
+
+
+## 相关文章
+
+- [ExpenseOwl 轻量记账：NAS Docker 部署 + 内网穿透](expenseowl-lightweight-expense-tracker-nas-docker-intranet-penetration.md)
+- [SQLite Web数据库管理工具极简部署指南 NAS内网穿透在线查询编辑](sqlite-web-database-management-tool-minimal-deployment-guide-nas-intranet-penetration-online-query-editing.md)
+- [开源自主翻译API LibreTranslate Docker部署指南 NAS一键搭建私人翻译服务](libre-translate-docker-nas-deployment-guide.md)
+- [LibrisLog 读书清单：NAS Docker 部署 + 内网穿透](librislog-nas-docker-reading-list-progress-reviews-intranet-penetration.md)
+- [Grist 家庭台账：NAS Docker 部署 + 内网穿透](grist-nas-docker-linked-records-family-ledger-intranet-penetration.md)

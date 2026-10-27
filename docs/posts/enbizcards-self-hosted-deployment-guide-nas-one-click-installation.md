@@ -75,3 +75,12 @@ volumes:
 ---
 
 原文：<https://www.passnat.com/posts/enbizcards-self-hosted-deployment-guide-nas-one-click-installation>
+
+
+## 相关文章
+
+- [个人知识库TiddlyWiki5 Docker极简部署NAS无公网内网穿透远程访问](personal-knowledge-base-tiddlywiki5-docker-deployment-nas-intranet-tunneling-remote-access.md)
+- [开源私密新闻阅读器Readflow，NAS极简部署，内网穿透远程访问，无广告无追踪](readflow-open-source-private-news-reader-nas-deployment-intranet-penetration-remote-access-ad-free-tracking-free.md)
+- [开源自托管项目管理工具Focalboard部署指南，NAS内网穿透远程访问完整教程](focalboard-open-source-self-hosted-project-management-deployment-guide-nas-internal-penetration-remote-access-tutorial.md)
+- [MusicCard音乐海报生成器Docker部署指南，Next.js在线音乐海报转换工具内网穿透访问](music-card-docker-deployment-nextjs-music-poster-generator-intranet-penetration.md)
+- [独角数卡开源数字商品售货系统Docker部署指南，支持多种支付方式NAS快速安装](unicorn-shuaka-open-source-digital-goods-vending-system-docker-deployment-guide-supports-multiple-payment-methods-nas-quick-installation.md)

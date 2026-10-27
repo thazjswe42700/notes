@@ -96,3 +96,12 @@ http://你的NAS_IP:8000
 ---
 
 原文：<https://www.passnat.com/posts/oasis-self-hosted-private-cloud-storage-docker-nas-remote-access>
+
+
+## 相关文章
+
+- [轻量级文件服务器 DUFS 快速部署指南 NAS Docker 一键启用文件共享搜索上传](lightweight-file-server-dufs-quick-deployment-guide-nas-docker-one-click-enable-file-sharing-search-upload.md)
+- [自建文件服务器 GoHTTPServer Docker极简部署，NAS内网穿透远程访问文件](self-hosted-file-server-gohttpserver-docker-deployment-nas-intranet-penetration-remote-access.md)
+- [无需公网IP搭建私人网盘，AList聚合多云存储，Docker极速部署NAS文件管理系统](alist-docker-nas-private-cloud-storage.md)
+- [自建远程文件浏览器Mikochi，极简部署NAS文件管理，支持内网穿透外网访问](mikochi-remote-file-browser-nas-file-management-intranet-penetration.md)
+- [私密文件分享平台 ProjectSend Docker 部署指南，NAS 内网穿透安全共享文件](private-file-sharing-projectsend-docker-deployment-nas-intranet-penetration-secure-file-sharing.md)

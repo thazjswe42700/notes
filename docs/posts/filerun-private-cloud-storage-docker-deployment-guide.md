@@ -144,3 +144,14 @@ chown www-data:www-data -R /filerun/user-files
 ---
 
 原文：<https://www.passnat.com/posts/filerun-private-cloud-storage-docker-deployment-guide>
+
+
+## 相关文章
+
+- [开源FileGator自托管文件管理系统，无需数据库轻松部署，支持多用户协作与云存储](open-source-filegator-self-hosted-file-management-system-no-database-easy-deployment-multi-user-collaboration-cloud-storage.md)
+- [我理解你的需求。根据VanBlog博客系统的内容，生成符合Google SEO最佳实践的标题：
+
+VanBlog个人博客系统Docker部署教程，NAS一键安装轻松搭建私有博客平台](vanblog-docker-deployment-tutorial-nas-one-click-install-private-blog.md)
+- [免费开源简历生成器OpenResume Docker部署教程，ATS兼容专业简历制作工具](free-open-source-resume-generator-openresume-docker-deployment-tutorial-ats-compatible-professional-resume-creation-tool.md)
+- [本地密码生成器PSWD，隐私优先TypeScript构建，支持Docker和NAS快速部署，内网穿透远程访问](local-password-generator-pswd-privacy-first-typescript-docker-nas-deployment-intranet-penetration-remote-access.md)
+- [自建 changedetection.io：飞牛 NAS Docker 部署 + 内网穿透外网访问](changedetection-io-website-change-monitor-nas-docker-deployment-intranet-penetration.md)

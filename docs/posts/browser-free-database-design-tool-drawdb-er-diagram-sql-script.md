@@ -58,3 +58,12 @@ DrawDB 是一款免费、简洁且直观的数据库架构设计工具，让你�
 ---
 
 原文：<https://www.passnat.com/posts/browser-free-database-design-tool-drawdb-er-diagram-sql-script>
+
+
+## 相关文章
+
+- [翻数据库不用再开客户端：飞牛 NAS 用一个容器装 DbGate，浏览器里开表写 SQL，配内网穿透在外面也能连](dbgate-database-management-tool-mysql-postgresql-mongodb-nas-docker-deployment.md)
+- [Mathesar 数据库变网页：NAS Docker 部署 + 内网穿透](mathesar-nas-docker-database-web-table-family-inventory-intranet-penetration.md)
+- [自然语言SQL对话工具，AI驱动数据库客户端，支持多数据库NAS快速部署](natural-language-sql-chat-ai-database-client-multi-database-nas-deployment.md)
+- [SQLite Web数据库管理工具极简部署指南 NAS内网穿透在线查询编辑](sqlite-web-database-management-tool-minimal-deployment-guide-nas-intranet-penetration-online-query-editing.md)
+- [Directus 开源数据管理平台 Docker 快速部署，NAS 自建内容管理系统无公网穿透远程访问！](directus-docker-nas-cms-remote-access.md)

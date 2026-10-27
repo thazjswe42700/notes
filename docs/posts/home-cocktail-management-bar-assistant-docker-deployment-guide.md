@@ -151,3 +151,12 @@ CACHE\_DRIVER 和 SESSION\_DRIVER：使用 Redis 来提升性能
 ---
 
 原文：<https://www.passnat.com/posts/home-cocktail-management-bar-assistant-docker-deployment-guide>
+
+
+## 相关文章
+
+- [Home Assistant 自建智能家居中枢：飞牛 NAS Docker 部署官方镜像，不同牌子的设备一页全管，内网穿透出门手机也能控](home-assistant-nas-smart-home-hub-docker-deployment-intranet-penetration.md)
+- [自建网络电台完整方案 AzuraCast Docker 快速部署指南 NAS 轻松搭建](azuracast-docker-nas-wangluo-diantai-kuaisushubu.md)
+- [高效文本分享平台Hasty Paste II，Docker快速部署NAS私有服务，支持内网穿透远程访问](hasty-paste-ii-docker-nas-private-service-intranet-penetration.md)
+- [Redmine开源项目管理系统Docker部署指南，NAS快速安装配置，内网穿透远程访问完整教程](redmine-docker-deployment-nas-installation-intranet-penetration-remote-access.md)
+- [开源个人关系管理系统Monica私密部署指南，NAS一键Docker快速安装配置教程](open-source-personal-crm-monica-private-deployment-guide-nas-docker-quick-install.md)

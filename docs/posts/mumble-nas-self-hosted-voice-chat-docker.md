@@ -84,3 +84,10 @@ services:
 ---
 
 原文：<https://www.passnat.com/posts/mumble-nas-self-hosted-voice-chat-docker>
+
+
+## 相关文章
+
+- [RustDesk 自建中继：NAS Docker 部署 + 内网穿透](rustdesk-nas-self-hosted-relay-remote-desktop-docker.md)
+- [Guacamole 自建桌面网关：NAS Docker 部署 + 浏览器远控](guacamole-nas-docker-browser-remote-desktop-gateway.md)
+- [Scribble.rs 自建你画我猜：NAS Docker 部署 + 朋友点链接进房](scribble-rs-nas-docker-draw-and-guess-game.md)

@@ -109,3 +109,11 @@ Blinko 适合的场景很具体：脑子里冒出来的东西先扔进去，不�
 ---
 
 原文：<https://www.passnat.com/posts/ai-powered-card-note-blinko-self-hosted-deployment-guide-docker-one-click-launch-private-intelligent-note-taking-system>
+
+
+## 相关文章
+
+- [自建书签管理器Linkding极简部署指南，NAS内网穿透远程访问书签收藏库](linkding-bookmark-manager-nas-remote-access-guide.md)
+- [Shlink 自建短链接：飞牛 NAS Docker 部署 + 内网穿透，公网建短链看点击统计](shlink-nas-docker-short-url-deployment-guide.md)
+- [LinkStack 自建个人名片页：NAS Docker 部署 + 公网访问完整步骤](linkstack-nas-docker-personal-link-page.md)
+- [自建私密书签导航站，NeonLink 轻量部署 Docker 一键启动，内网穿透外网访问](self-hosted-private-bookmark-navigation-neonlink-lightweight-docker-one-click-deployment-intranet-penetration-external-access.md)

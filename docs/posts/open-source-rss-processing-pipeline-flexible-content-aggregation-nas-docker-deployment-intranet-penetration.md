@@ -70,3 +70,12 @@ ghcr.io/shouya/rss-funnel:latest
 ---
 
 原文：<https://www.passnat.com/posts/open-source-rss-processing-pipeline-flexible-content-aggregation-nas-docker-deployment-intranet-penetration>
+
+
+## 相关文章
+
+- [自建全文RSS提取服务 无需跳转看完整文章 Docker一键部署NAS内网穿透远程访问](full-text-rss-extraction-service-docker-nas-intranet-penetration.md)
+- [自建 RSS 阅读器 FreshRSS：飞牛 NAS Docker 部署，关注的更新汇到一页，配内网穿透在外面也能刷](self-hosted-rss-reader-freshrss-nas-docker-deployment-intranet-penetration.md)
+- [使用Morss完整抓取RSS全文内容，NAS Docker极速部署，内网穿透远程订阅](morss-nas-docker-rss-remote-subscription.md)
+- [轻量级自托管仪表板Glance，极简部署NAS内网穿透远程访问信息聚合平台](glance-lightweight-self-hosted-dashboard-nas-intranet-penetration-remote-access-information-aggregation-platform.md)
+- [在线AI智能抠图工具，支持Web和API接口，NAS一键部署，内网穿透远程访问使用](ai-intelligent-image-matting-web-api-nas-deployment.md)

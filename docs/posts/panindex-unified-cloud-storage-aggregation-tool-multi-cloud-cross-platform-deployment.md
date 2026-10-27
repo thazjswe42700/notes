@@ -94,3 +94,12 @@ LOG\_LEVEL：日志级别（默认值：info，可选 debug/info/warn/error）
 ---
 
 原文：<https://www.passnat.com/posts/panindex-unified-cloud-storage-aggregation-tool-multi-cloud-cross-platform-deployment>
+
+
+## 相关文章
+
+- [私人云盘Filestash部署完全指南，NAS一键Docker启动，支持多云存储聚合管理](private-cloud-storage-filestash-deployment-guide-nas-docker-one-click-multi-cloud-storage-aggregation.md)
+- [无需公网IP搭建私人网盘，AList聚合多云存储，Docker极速部署NAS文件管理系统](alist-docker-nas-private-cloud-storage.md)
+- [自建私有云盘系统JmalCloud，Docker极简部署，文件安全掌控在手](jmalcloud-private-cloud-storage-docker-deployment.md)
+- [多协议文件传输服务 SFTPGo，NAS 极简部署支持 SFTP FTP WebDAV，内网穿透远程访问](sftp-go-nas-sftp-ftp-webdav-remote-access.md)
+- [多存储聚合管理工具AList，支持30+云盘本地存储，Docker极简部署NAS内网穿透在线预览](alist-multi-cloud-storage-aggregation-tool-30-plus-cloud-drives-local-storage-docker-simple-deployment-nas-intranet-penetration-online-preview.md)

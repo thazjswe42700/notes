@@ -96,3 +96,12 @@ PORT：应用监听端口，默认为 5055
 ---
 
 原文：<https://www.passnat.com/posts/jellyseerr-nas-jellyfin-media-request-approval-system>
+
+
+## 相关文章
+
+- [阿里云盘FUSE挂载工具,将云盘变身NAS私人影院,配合内网穿透远程在线观看](aliyun-drive-fuse-mount-nas-private-cinema-remote-viewing.md)
+- [统一管理索引器追踪器，Prowlarr内网穿透远程访问，NAS一键部署高效下载](prowlarr-indexer-tracker-nas-remote-access-deployment.md)
+- [自托管Kyoo影视库服务器，智能识别无需配置，内网穿透远程访问，一次部署永久使用](self-hosted-kyoo-streaming-server-intelligent-recognition-setup-free-internal-network-traversal-remote-access-one-time-deployment-permanent-use.md)
+- [Jellyfin 家庭影院：飞牛 NAS Docker 部署 + 内网穿透，出门手机接着看](jellyfin-nas-media-server-private-cinema.md)
+- [自托管生活追踪平台Ryot完整部署指南，NAS一键安装，内网穿透远程访问](self-hosted-life-tracking-ryot-deployment-guide-nas-one-click-install-internal-network-penetration-remote-access.md)

@@ -82,3 +82,12 @@ NocoDB 刚装好的时候是没有账号的，打开就是注册页，而\*\*第
 ---
 
 原文：<https://www.passnat.com/posts/nocodb-one-click-deploy-airtable-open-source-alternative-nas-local-database-management>
+
+
+## 相关文章
+
+- [LinkStack 自建个人名片页：NAS Docker 部署 + 公网访问完整步骤](linkstack-nas-docker-personal-link-page.md)
+- [极简命令行笔记本 Dnote 自建部署：Docker 快速上手，内网穿透远程访问笔记库](dnote-self-hosted-docker-deployment-internal-penetration-remote-access.md)
+- [Rustpad 协同编辑器：NAS Docker 部署 + 内网穿透](rustpad-nas-docker-collaborative-code-editor-intranet-penetration.md)
+- [Isso 评论区 NAS Docker 部署 + 内网穿透](isso-nas-docker-self-hosted-comments-intranet-penetration.md)
+- [开源无代码数据库SeaTable自托管部署指南，NAS极简配置Docker Compose一键启动](seatable-self-hosted-nas-docker-compose-deployment-guide.md)

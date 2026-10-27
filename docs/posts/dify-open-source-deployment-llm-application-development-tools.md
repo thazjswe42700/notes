@@ -123,3 +123,12 @@ Dify 提供了一个从开发到生产的完整 LLM 应用解决方案。通过 
 ---
 
 原文：<https://www.passnat.com/posts/dify-open-source-deployment-llm-application-development-tools>
+
+
+## 相关文章
+
+- [FastGPT知识库AI Agent平台Docker部署指南，NAS一键启动，内网穿透远程访问企业级智能问答系统](fastgpt-knowledge-base-ai-agent-docker-deployment-nas-one-click-setup-internal-network-penetration-remote-access-enterprise-intelligent-qa-system.md)
+- [开源数据应用框架DB-GPT Docker部署指南 NAS私有化部署与内网穿透配置](db-gpt-docker-deployment-nas-private-deployment-intranet-penetration.md)
+- [Kotaemo智能文档对话平台开源部署，私有RAG系统本地化搭建与内网穿透远程访问完整指南](kotaemo-smart-document-chat-open-source-deployment-private-rag-system-localization-intranet-penetration-remote-access-complete-guide.md)
+- [企业级智能体平台MaxKB一键部署，支持RAG工作流编排，零代码赋能企业系统智能问答](maxkb-enterprise-ai-agent-platform-rag-workflow-zero-code.md)
+- [免费私密本地AI搜索引擎，无需API密钥NAS一键部署，多LLM模型聚合智能问答](free-private-local-ai-search-engine-no-api-key-nas-one-click-deploy-multi-llm-aggregation-qa.md)

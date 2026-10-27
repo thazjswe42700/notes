@@ -105,3 +105,12 @@ SFTPGo 是一个功能强大且易于部署的文件传输解决方案，无论�
 ---
 
 原文：<https://www.passnat.com/posts/sftp-go-nas-sftp-ftp-webdav-remote-access>
+
+
+## 相关文章
+
+- [私人云盘Filestash部署完全指南，NAS一键Docker启动，支持多云存储聚合管理](private-cloud-storage-filestash-deployment-guide-nas-docker-one-click-multi-cloud-storage-aggregation.md)
+- [FileZilla Docker容器部署指南，无需客户端浏览器即可远程访问，NAS极简配置内网穿透实现外网管理文件](filezilla-docker-nas-remote-access-guide.md)
+- [统一网盘聚合管理工具PanIndex，多云存储跨平台部署，内网穿透远程访问无限资源](panindex-unified-cloud-storage-aggregation-tool-multi-cloud-cross-platform-deployment.md)
+- [自建文件服务器 GoHTTPServer Docker极简部署，NAS内网穿透远程访问文件](self-hosted-file-server-gohttpserver-docker-deployment-nas-intranet-penetration-remote-access.md)
+- [自建私有云盘系统JmalCloud，Docker极简部署，文件安全掌控在手](jmalcloud-private-cloud-storage-docker-deployment.md)

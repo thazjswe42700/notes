@@ -213,3 +213,12 @@ chmod -R 755 /path/to/your/photos
 ---
 
 原文：<https://www.passnat.com/posts/photoview-nas---raw>
+
+
+## 相关文章
+
+- [高颜值React音乐播放器R3PLAYX，NAS极简部署，无社交纯听觉，支持网易云账号登录和实时歌词显示](r3playx-react-music-player-nas-deployment-netease-cloud-lyrics.md)
+- [现代React推箱子游戏，500+谜题无限撤销，NAS极简部署内网穿透在线玩](modern-react-sokoban-game-500-puzzles-unlimited-undo-nas-simple-deployment-intranet-penetration-online-play.md)
+- [开源私有视频会议系统Nettu Meet，Docker一键部署，支持屏幕共享和内网穿透远程访问](open-source-nettu-meet-video-conference-docker-deployment.md)
+- [开源日程管理系统Cal.com自建部署，完全控制数据NAS本地托管，支持内网穿透远程访问](open-source-calendar-management-cal-com-self-hosted-deployment-local-nas-storage-intranet-penetration-remote-access.md)
+- [MAZANOKE 飞牛 NAS 部署：浏览器端图片压缩与 EXIF 抹除](mazanoke-private-image-compressor-nas-deploy-exif.md)

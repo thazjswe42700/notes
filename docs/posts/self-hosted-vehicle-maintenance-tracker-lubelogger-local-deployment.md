@@ -66,3 +66,12 @@ unknown node
 ---
 
 原文：<https://www.passnat.com/posts/self-hosted-vehicle-maintenance-tracker-lubelogger-local-deployment>
+
+
+## 相关文章
+
+- [LubeLogger 保养记录：NAS Docker 部署 + 内网穿透](lubelogger-nas-docker-car-maintenance-fuel-records-intranet-penetration.md)
+- [自建车辆管理系统Hammond NAS极简部署，多用户多车追踪燃油费用记录平台](vehicle-management-hammond-nas-deployment-multi-user-fuel-tracking.md)
+- [自建健身管理系统wger完整部署指南，Docker Compose一键启动训练营养追踪平台](fitness-management-system-wger-complete-deployment-guide-docker-compose-one-click-launch-training-nutrition-tracking-platform.md)
+- [自托管私人图书馆管理系统BookLogr，NAS极简部署，内网穿透随处访问阅读数据](self-hosted-private-library-management-booklogr-nas-deployment-intranet-access.md)
+- [个人财务管理系统BudgetBee，Docker一键部署，NAS极简配置，多账户记账工具](budget-bee-docker-deployment-nas-multi-account-accounting.md)

@@ -103,3 +103,12 @@ APP\_SECRET：应用密钥，用于加密会话数据（必须设置）
 ---
 
 原文：<https://www.passnat.com/posts/koillection-nas-docker-deployment-guide>
+
+
+## 相关文章
+
+- [Koillection 自建收藏品目录：NAS Docker 部署 + 照片标签 + 借出记录](koillection-nas-docker-collection-catalog-loans.md)
+- [开源个人关系管理系统Monica私密部署指南，NAS一键Docker快速安装配置教程](open-source-personal-crm-monica-private-deployment-guide-nas-docker-quick-install.md)
+- [开源电子书库管理系统Biblioteca完整部署指南-NAS一键安装Docker Compose配置](open-source-ebook-library-management-system-biblioteca-complete-deployment-guide-nas-one-click-install-docker-compose-configuration.md)
+- [开源FileGator自托管文件管理系统，无需数据库轻松部署，支持多用户协作与云存储](open-source-filegator-self-hosted-file-management-system-no-database-easy-deployment-multi-user-collaboration-cloud-storage.md)
+- [个人财务管理系统BudgetBee，Docker一键部署，NAS极简配置，多账户记账工具](budget-bee-docker-deployment-nas-multi-account-accounting.md)

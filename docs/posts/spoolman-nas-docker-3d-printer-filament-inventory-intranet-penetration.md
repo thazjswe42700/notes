@@ -77,3 +77,9 @@ volumes:
 ---
 
 原文：<https://www.passnat.com/posts/spoolman-nas-docker-3d-printer-filament-inventory-intranet-penetration>
+
+
+## 相关文章
+
+- [Manyfold：NAS 上的 3D 模型库，Docker 部署 + 内网穿透](manyfold-nas-docker-3d-model-library-preview-penetration.md)
+- [开源低代码工具ToolJet快速部署指南，NAS极简搭建内部应用开发平台](open-source-lowcode-tooljet-quick-deployment-guide-nas-simple-setup-internal-app-development-platform.md)

@@ -68,3 +68,12 @@ TZ | 时区设置 | UTC
 ---
 
 原文：<https://www.passnat.com/posts/alist-docker-nas-private-cloud-storage>
+
+
+## 相关文章
+
+- [多存储聚合管理工具AList，支持30+云盘本地存储，Docker极简部署NAS内网穿透在线预览](alist-multi-cloud-storage-aggregation-tool-30-plus-cloud-drives-local-storage-docker-simple-deployment-nas-intranet-penetration-online-preview.md)
+- [统一网盘聚合管理工具PanIndex，多云存储跨平台部署，内网穿透远程访问无限资源](panindex-unified-cloud-storage-aggregation-tool-multi-cloud-cross-platform-deployment.md)
+- [自建私有云盘系统JmalCloud，Docker极简部署，文件安全掌控在手](jmalcloud-private-cloud-storage-docker-deployment.md)
+- [轻量级文件服务器 DUFS 快速部署指南 NAS Docker 一键启用文件共享搜索上传](lightweight-file-server-dufs-quick-deployment-guide-nas-docker-one-click-enable-file-sharing-search-upload.md)
+- [开箱即用网络文学聚合阅读平台 Reader，多源搜索云端同步，NAS部署无需公网远程阅读](reader-network-literature-aggregation-platform-multi-source-search-cloud-sync-nas-deployment.md)

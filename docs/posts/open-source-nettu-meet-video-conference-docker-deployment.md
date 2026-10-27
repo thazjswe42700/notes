@@ -78,3 +78,12 @@ REDIS\_URL：Redis 连接地址（默认已配置）
 ---
 
 原文：<https://www.passnat.com/posts/open-source-nettu-meet-video-conference-docker-deployment>
+
+
+## 相关文章
+
+- [青蛇探针服务器监控系统，Docker一键部署实时可视化面板，支持远程SSH管理](qing-she-tan-zhen-fu-wu-qi-jian-kong-xi-tong-docker-yi-jian-bu-shu-shi-shi-ke-shi-hua-mian-ban-zhi-chi-yuan-cheng-ssh-guan-li.md)
+- [高颜值React音乐播放器R3PLAYX，NAS极简部署，无社交纯听觉，支持网易云账号登录和实时歌词显示](r3playx-react-music-player-nas-deployment-netease-cloud-lyrics.md)
+- [现代React推箱子游戏，500+谜题无限撤销，NAS极简部署内网穿透在线玩](modern-react-sokoban-game-500-puzzles-unlimited-undo-nas-simple-deployment-intranet-penetration-online-play.md)
+- [聚合三大平台海量音乐，NAS 极简部署 Musicn 音乐库，一键启动在线播放下载](musicn-nas-online-music-player-aggregator.md)
+- [自建相册管理系统Photoview，NAS极简部署内网穿透远程访问，摄影师RAW格式完美支持](photoview-nas---raw.md)

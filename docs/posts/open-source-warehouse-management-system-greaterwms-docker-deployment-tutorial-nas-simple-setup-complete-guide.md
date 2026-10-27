@@ -143,3 +143,12 @@ docker-compose logs -f
 ---
 
 原文：<https://www.passnat.com/posts/open-source-warehouse-management-system-greaterwms-docker-deployment-tutorial-nas-simple-setup-complete-guide>
+
+
+## 相关文章
+
+- [Redmine开源项目管理系统Docker部署指南，NAS快速安装配置，内网穿透远程访问完整教程](redmine-docker-deployment-nas-installation-intranet-penetration-remote-access.md)
+- [Directus 开源数据管理平台 Docker 快速部署，NAS 自建内容管理系统无公网穿透远程访问！](directus-docker-nas-cms-remote-access.md)
+- [Odoo开源ERP系统完整部署指南，企业管理一站式解决方案，内网穿透远程访问](odoo-erp-deployment-guide-enterprise-management-solution.md)
+- [开源电子书库管理系统Biblioteca完整部署指南-NAS一键安装Docker Compose配置](open-source-ebook-library-management-system-biblioteca-complete-deployment-guide-nas-one-click-install-docker-compose-configuration.md)
+- [Cherry私有视频库管理系统｜Docker快速部署｜NAS内网穿透远程访问影视库](cherry-private-video-library-docker-nas-remote-access.md)

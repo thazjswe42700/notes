@@ -75,3 +75,12 @@ Alpine Git 提供了一个极简但功能完整的 Git 解决方案。无论你�
 ---
 
 原文：<https://www.passnat.com/posts/lightweight-git-alpine-docker-minimal-deployment-resource-constrained>
+
+
+## 相关文章
+
+- [Webtop：NAS 上的网页桌面，Docker 部署 + 内网穿透](webtop-nas-browser-linux-desktop-docker.md)
+- [DopplerTask开源自动化平台Docker快速部署指南，NAS轻松搭建工作流自动化系统](doppler-task-docker-nas-workflow-automation-guide.md)
+- [PassNAT 内网穿透 - 高性能 FRP 内网穿透服务](litepan-multi-cloud-storage-aggregation-nas-docker-deployment-intranet-penetration-external-access.md)
+- [自建 Gitea 私有 Git 仓库：飞牛 NAS Docker 部署自己家的 GitHub，内网穿透在外面也能开](gitea-self-hosted-private-git-server-nas-docker-deployment-intranet-penetration.md)
+- [浏览器里直接 SSH 到 NAS：飞牛 Docker 自建 Next Terminal + 内网穿透远程运维](next-terminal-fnos-docker-passnat.md)

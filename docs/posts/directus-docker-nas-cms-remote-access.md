@@ -163,3 +163,12 @@ Directus 是一个功能完整、易于部署的数据管理平台。通过 Dock
 ---
 
 原文：<https://www.passnat.com/posts/directus-docker-nas-cms-remote-access>
+
+
+## 相关文章
+
+- [单文件PHP数据库管理工具Adminer，支持MySQL、PostgreSQL等多种数据库，NAS极简部署内网穿透远程管理](adminer-php-database-management-tool-mysql-postgresql-nas-deployment-internal-penetration-remote-management.md)
+- [自然语言SQL对话工具，AI驱动数据库客户端，支持多数据库NAS快速部署](natural-language-sql-chat-ai-database-client-multi-database-nas-deployment.md)
+- [轻量级PHP博客系统Typecho在NAS上Docker部署，内网穿透远程访问详细教程指南](typecho-nas-docker-deployment-internal-penetration-remote-access.md)
+- [自托管URL缩短器Pckd：免费开源短链服务，NAS一键部署快速追踪链接数据](pckd-self-hosted-url-shortener-free-open-source-short-link-service-nas-one-click-deployment-fast-tracking-link-data.md)
+- [Mathesar 数据库变网页：NAS Docker 部署 + 内网穿透](mathesar-nas-docker-database-web-table-family-inventory-intranet-penetration.md)

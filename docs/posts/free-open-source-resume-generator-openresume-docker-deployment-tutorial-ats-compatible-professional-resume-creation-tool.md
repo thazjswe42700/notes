@@ -58,3 +58,12 @@ OpenResume 无需设置任何环境变量，保持默认配置即可正常运行
 ---
 
 原文：<https://www.passnat.com/posts/free-open-source-resume-generator-openresume-docker-deployment-tutorial-ats-compatible-professional-resume-creation-tool>
+
+
+## 相关文章
+
+- [Reactive Resume 自建简历工作台：飞牛 NAS 部署与公网使用](reactive-resume-fnos-private-resume-builder-passnat.md)
+- [自建 BentoPDF：飞牛 NAS Docker 部署隐私优先的 PDF 工具箱，内网穿透外网访问](bentopdf-self-hosted-pdf-toolkit-nas-docker-deployment-intranet-penetration.md)
+- [开源FileGator自托管文件管理系统，无需数据库轻松部署，支持多用户协作与云存储](open-source-filegator-self-hosted-file-management-system-no-database-easy-deployment-multi-user-collaboration-cloud-storage.md)
+- [PDFMathTranslate 整篇翻译：NAS Docker 部署 + 内网穿透](pdfmathtranslate-nas-docker-pdf-translate-formula-layout-intranet-penetration.md)
+- [DocuSeal 自建电子签署：NAS Docker 部署 + 签署链接怎么发](docuseal-nas-docker-e-signature-contract.md)

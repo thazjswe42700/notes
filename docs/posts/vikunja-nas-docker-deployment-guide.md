@@ -92,3 +92,12 @@ VIKUNJA\_SERVICE\_PUBLICURL —— **把它换成你自己刚才拿到的那个�
 ---
 
 原文：<https://www.passnat.com/posts/vikunja-nas-docker-deployment-guide>
+
+
+## 相关文章
+
+- [无数据库Wiki知识库系统，NAS极简部署DokuWiki，内网穿透远程访问个人文档平台](dokuwiki-nas-intranet-penetration-remote-access.md)
+- [自托管书签管理工具Servas无公网部署指南 NAS极简配置内网穿透远程访问](servas-self-hosted-bookmark-manager-nas-deployment-guide-intranet-penetration-remote-access.md)
+- [自托管监控工具Uptime Kuma极简部署指南，NAS一键启动Docker容器实时监控服务可用性](uptime-kuma-nas-docker-deployment-guide.md)
+- [开源自托管订阅管理系统Wallos 内网穿透远程访问 NAS一键部署完整指南](open-source-self-hosted-subscription-management-system-wallos-internal-penetration-remote-access-nas-one-click-deployment-complete-guide.md)
+- [自建书签管理器Linkding极简部署指南，NAS内网穿透远程访问书签收藏库](linkding-bookmark-manager-nas-remote-access-guide.md)

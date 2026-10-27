@@ -97,3 +97,10 @@ HTML Check 那一栏会给这封信的 HTML 打个分，把那些在部分邮件
 ---
 
 原文：<https://www.passnat.com/posts/mailpit-email-testing-inbox-nas-docker-deployment-intranet-penetration>
+
+
+## 相关文章
+
+- [自建 Smart Mermaid：飞牛 NAS Docker 部署 + 内网穿透外网访问](smart-mermaid-ai-text-to-diagram-nas-docker-deployment-intranet-penetration.md)
+- [自建私人API开发环境，Yaade开源协作平台Docker快速部署指南](yaade-open-source-api-development-docker-deployment-guide.md)
+- [轻量级Git容器镜像Alpine Docker，资源受限环境极简部署，无需安装Git直接运行](lightweight-git-alpine-docker-minimal-deployment-resource-constrained.md)

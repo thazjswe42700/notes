@@ -66,3 +66,12 @@ BGMI\_PROXY：HTTP 代理地址（可选），如 'http://127.0.0.1:1080'
 ---
 
 原文：<https://www.passnat.com/posts/bgmi-anime-tracker-docker-nas-remote-access>
+
+
+## 相关文章
+
+- [轻量级自托管仪表板Glance，极简部署NAS内网穿透远程访问信息聚合平台](glance-lightweight-self-hosted-dashboard-nas-intranet-penetration-remote-access-information-aggregation-platform.md)
+- [自建 RSS 阅读器 FreshRSS：飞牛 NAS Docker 部署，关注的更新汇到一页，配内网穿透在外面也能刷](self-hosted-rss-reader-freshrss-nas-docker-deployment-intranet-penetration.md)
+- [自动签到脚本DailyCheckIn Docker部署指南，支持NAS群晖青龙面板内网穿透远程管理](auto-checkin-script-dailycheckin-docker-deployment-nas-synology-qinglong-panel-intranet-penetration-remote-management.md)
+- [Xnote个人笔记系统Docker部署指南，自建私密知识库随处可得内网穿透远程访问](xnote-docker-deployment-guide-personal-note-system-private-knowledge-base-intranet-penetration-remote-access.md)
+- [开源RSS处理管道系统，灵活转换聚合内容，NAS Docker快速部署，内网穿透远程访问](open-source-rss-processing-pipeline-flexible-content-aggregation-nas-docker-deployment-intranet-penetration.md)

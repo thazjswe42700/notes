@@ -141,3 +141,12 @@ volumes:
 ---
 
 原文：<https://www.passnat.com/posts/immich-nas-self-hosted-photo-management-deployment-guide>
+
+
+## 相关文章
+
+- [家庭智能照片管理系统Photonix，AI识别分类，NAS一键部署，内网穿透远程访问](photonix-ai-photo-management-nas-deployment.md)
+- [Ralbum个人相册管理系统，NAS极简部署，内网穿透外网访问，照片库智能管理](ralbum-personal-photo-album-nas-deployment-intranet-access.md)
+- [开源自托管订阅管理系统Wallos 内网穿透远程访问 NAS一键部署完整指南](open-source-self-hosted-subscription-management-system-wallos-internal-penetration-remote-access-nas-one-click-deployment-complete-guide.md)
+- [自托管私人相册HomeGallery，AI智能识别，NAS极简部署，内网穿透远程访问](home-gallery-private-photos-ai-recognition-nas-deployment-remote-access.md)
+- [自建相册管理系统Photoview，NAS极简部署内网穿透远程访问，摄影师RAW格式完美支持](photoview-nas---raw.md)

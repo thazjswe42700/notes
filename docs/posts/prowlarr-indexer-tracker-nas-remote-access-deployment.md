@@ -80,3 +80,12 @@ http://你的NAS地址:9696
 ---
 
 原文：<https://www.passnat.com/posts/prowlarr-indexer-tracker-nas-remote-access-deployment>
+
+
+## 相关文章
+
+- [Jellyseerr开源影视请求管理系统，NAS一键部署Jellyfin媒体库，内网穿透远程访问审批影视资源](jellyseerr-nas-jellyfin-media-request-approval-system.md)
+- [MeiliSearch闪电搜索引擎Docker极速部署，内网穿透远程访问一键搭建](meilisearch-docker-deployment-intranet-penetration-remote-access.md)
+- [自建私密搜索引擎SearXNG，聚合245个搜索源零追踪，NAS极简Docker部署内网穿透远程访问](searxng-private-search-engine-245-sources-nas-docker-deployment.md)
+- [容器管理神器Yacht一键部署指南，Docker应用模板化管理简单易用，支持内网穿透远程访问管理](yacht-docker-container-management-deployment-guide.md)
+- [开源自托管项目管理工具Focalboard部署指南，NAS内网穿透远程访问完整教程](focalboard-open-source-self-hosted-project-management-deployment-guide-nas-internal-penetration-remote-access-tutorial.md)

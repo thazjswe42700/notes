@@ -56,3 +56,12 @@ NoteFlow 无需强制配置环境变量，所有功能开箱即用。如无特�
 ---
 
 原文：<https://www.passnat.com/posts/noteflow-lightweight-markdown-note-app-local-deployment-no-database-intranet-penetration-remote-access>
+
+
+## 相关文章
+
+- [写公众号不用再手动排版：飞牛 NAS 用一个容器装 doocs/md，Markdown 实时出公众号样式，配内网穿透在公司也能写](professional-wechat-markdown-editor-nas-simple-deployment-doocs-md-ai-intelligent-layout-beautiful-graphic-content.md)
+- [Note Mark 笔记：NAS Docker 部署 + 内网穿透](note-mark-nas-docker-markdown-notes-search-intranet-penetration.md)
+- [轻量级Markdown笔记应用Note Mark，Docker极简部署NAS，支持内网穿透远程访问笔记](note-mark-markdown-docker-nas-intranet-penetration.md)
+- [自托管笔记应用Flatnotes极简部署，无数据库Markdown笔记库远程访问方案](flatnotes-self-hosted-markdown-notes-deployment.md)
+- [Xnote个人笔记系统Docker部署指南，自建私密知识库随处可得内网穿透远程访问](xnote-docker-deployment-guide-personal-note-system-private-knowledge-base-intranet-penetration-remote-access.md)

@@ -70,3 +70,12 @@ Polaris 的环境变量配置相对简单，一般情况下不需要额外设置
 ---
 
 原文：<https://www.passnat.com/posts/polaris-open-source-music-server-nas-remote-streaming>
+
+
+## 相关文章
+
+- [Standard Notes 私密笔记自建 - 端到端加密开源方案，NAS 极简部署指南](standard-notes-private-notes-self-hosted-end-to-end-encryption-open-source-nas-simple-deployment-guide.md)
+- [自架推送服务平台PushDeer，NAS极简部署，支持内网穿透远程推送，多设备同步私密消息](self-hosted-push-notification-service-pushdeer-nas-simple-deployment-intranet-penetration-remote-push-multi-device-sync-private-messages.md)
+- [免费私有相册系统Lomorage，Docker快速部署NAS，内网穿透远程访问家庭影库](lomorage-free-private-photo-gallery-docker-nas-deployment-remote-access.md)
+- [自建Bark推送服务器,iOS消息通知极简部署,内网穿透远程接收,隐私安全有保障](bark-server-ios-notification-self-hosted-internal-network-penetration-privacy-secure.md)
+- [私有部署开源聊天应用VoceChat，NAS轻松搭建安全私密聊天系统，内网穿透远程访问](vocechat-private-deployment-nas-internal-network-penetration.md)

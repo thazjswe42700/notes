@@ -81,3 +81,9 @@ services:
 ---
 
 原文：<https://www.passnat.com/posts/manyfold-nas-docker-3d-model-library-preview-penetration>
+
+
+## 相关文章
+
+- [Spoolman：NAS 上的 3D 打印耗材库存，Docker 部署 + 内网穿透](spoolman-nas-docker-3d-printer-filament-inventory-intranet-penetration.md)
+- [本地部署AI大模型Ollama，离线运行Gemma Llama DeepSeek，支持内网穿透远程访问](local-deploy-ai-ollama-offline-gemma-llama-deepseek-intranet-tunneling.md)

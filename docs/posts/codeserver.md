@@ -74,3 +74,12 @@ python3 hello.py
 ---
 
 原文：<https://www.passnat.com/posts/codeserver>
+
+
+## 相关文章
+
+- [自托管编程统计平台Wakapi快速部署指南，Docker Compose一键启动自己的数据私密服务](wakapi-self-hosted-deployment-guide-docker-compose.md)
+- [自建私密文件转换服务器Morphos，支持图片文档电子书格式互转，Docker一键部署NAS](private-file-conversion-server-morphos-image-document-ebook-docker-nas.md)
+- [私有社区服务器Circled.me极简部署指南，NAS一键启动无需公网穿透](circled-me-private-community-server-simple-deployment-guide-nas-one-click-startup-no-public-network-penetration.md)
+- [跨平台音乐服务器Lyrion Music Server部署指南，NAS音乐流媒体服务器快速安装教程](lyrion-music-server-nas-deployment-guide.md)
+- [自建私人音乐库服务器，Auddly Music Server 极简部署，内网穿透远程访问享受高品质音乐](self-hosted-private-music-server-auddly-music-server-minimal-deployment-internal-network-penetration-remote-access-high-quality-music.md)

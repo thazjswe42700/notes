@@ -52,3 +52,12 @@ Lomorage 需要持久化存储相册数据。建议在宿主机上创建一个�
 ---
 
 原文：<https://www.passnat.com/posts/lomorage-free-private-photo-gallery-docker-nas-deployment-remote-access>
+
+
+## 相关文章
+
+- [Standard Notes 私密笔记自建 - 端到端加密开源方案，NAS 极简部署指南](standard-notes-private-notes-self-hosted-end-to-end-encryption-open-source-nas-simple-deployment-guide.md)
+- [开源AI工作空间AIaW：跨平台客户端，集成多家大模型，NAS本地部署内网穿透远程访问](aiaw-open-source-ai-workspace-cross-platform-client-multi-model-integration-nas-local-deployment-intranet-penetration-remote-access.md)
+- [私有部署开源聊天应用VoceChat，NAS轻松搭建安全私密聊天系统，内网穿透远程访问](vocechat-private-deployment-nas-internal-network-penetration.md)
+- [Docker容器运行Windows系统 KVM加速极速部署 支持远程RDP连接访问](docker-windows-kvm-remote-rdp.md)
+- [DweebUI容器管理面板轻松上手，Docker Podman全能卫士一键部署运维](dweebui-container-management-panel-docker-podman-deployment.md)

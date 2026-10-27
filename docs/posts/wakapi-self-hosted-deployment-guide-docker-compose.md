@@ -106,3 +106,12 @@ Dashboard 默认显示今天。右上角可以选日期范围，切成一周，�
 ---
 
 原文：<https://www.passnat.com/posts/wakapi-self-hosted-deployment-guide-docker-compose>
+
+
+## 相关文章
+
+- [PHP动态二维码生成系统部署指南，Docker一键启动内网穿透远程访问管理平台](php-dynamic-qr-code-generator-docker-deployment-guide.md)
+- [code-server 自建网页版 VS Code：飞牛 NAS Docker 部署远程开发环境，内网穿透出门也能写代码](codeserver.md)
+- [开源无代码数据库SeaTable自托管部署指南，NAS极简配置Docker Compose一键启动](seatable-self-hosted-nas-docker-compose-deployment-guide.md)
+- [开源自托管订阅管理系统Wallos 内网穿透远程访问 NAS一键部署完整指南](open-source-self-hosted-subscription-management-system-wallos-internal-penetration-remote-access-nas-one-click-deployment-complete-guide.md)
+- [自建私人API开发环境，Yaade开源协作平台Docker快速部署指南](yaade-open-source-api-development-docker-deployment-guide.md)

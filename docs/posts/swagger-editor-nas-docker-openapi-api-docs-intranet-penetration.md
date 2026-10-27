@@ -149,3 +149,12 @@ components:
 ---
 
 原文：<https://www.passnat.com/posts/swagger-editor-nas-docker-openapi-api-docs-intranet-penetration>
+
+
+## 相关文章
+
+- [ReDoc 接口文档：NAS Docker 部署 + 内网穿透](redoc-api-docs-nas-docker-openapi-intranet-penetration.md)
+- [Homepage 自建 NAS 导航首页：飞牛 Docker 部署 + 内网穿透外网访问](homepage-nas-service-dashboard-docker-deployment-intranet-penetration.md)
+- [轻量级个人导航页面 Flare 快速部署教程，飞牛 NAS Docker 部署 + 内网穿透远程访问](lightweight-personal-navigation-flare-quick-deploy-tutorial-nas-one-click-install-guide.md)
+- [极简网页仪表盘SimpleDash，本地快速部署，内网穿透远程访问，YAML配置自定义链接管理](simple-dash-local-dashboard-intranet-penetration-remote-access-yaml-config.md)
+- [轻量级工作流引擎Dagu无代码部署，NAS一键启动内网穿透远程管理任务](dagu-lightweight-workflow-engine-nas-remote-management-no-code.md)

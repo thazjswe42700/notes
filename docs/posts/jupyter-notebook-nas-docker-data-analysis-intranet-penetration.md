@@ -89,3 +89,12 @@ volumes:
 ---
 
 原文：<https://www.passnat.com/posts/jupyter-notebook-nas-docker-data-analysis-intranet-penetration>
+
+
+## 相关文章
+
+- [Note Mark 笔记：NAS Docker 部署 + 内网穿透](note-mark-nas-docker-markdown-notes-search-intranet-penetration.md)
+- [极简命令行笔记本 Dnote 自建部署：Docker 快速上手，内网穿透远程访问笔记库](dnote-self-hosted-docker-deployment-internal-penetration-remote-access.md)
+- [Mattermost 团队聊天：NAS Docker 部署 + 内网穿透](mattermost-team-chat-nas-docker-intranet-penetration.md)
+- [轻量级客户端加密笔记本，NAS一键部署Notepad，口令登录随时随地访问笔记](lightweight-encrypted-notes-nas-one-click-deploy-notepad-password-login.md)
+- [自托管私密笔记应用Notea，Docker极简部署，云存储灵活配置，内网穿透远程访问](self-hosted-private-notes-notea-docker-deployment-cloud-storage-remote-access.md)

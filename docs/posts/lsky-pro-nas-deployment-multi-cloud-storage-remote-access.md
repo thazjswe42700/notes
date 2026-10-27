@@ -104,3 +104,12 @@ http://192.168.1.100:8080
 ---
 
 原文：<https://www.passnat.com/posts/lsky-pro-nas-deployment-multi-cloud-storage-remote-access>
+
+
+## 相关文章
+
+- [开源日程管理系统Cal.com自托管部署指南，NAS极简配置内网穿透远程访问](open-source-calendar-management-system-cal-com-self-hosted-deployment-guide-nas-simple-configuration-intranet-penetration-remote-access.md)
+- [开源个人关系管理系统Monica私密部署指南，NAS一键Docker快速安装配置教程](open-source-personal-crm-monica-private-deployment-guide-nas-docker-quick-install.md)
+- [开源电商平台C-Shopping完整部署指南，Next.js+MongoDB+Docker容器化快速搭建](c-shopping-deployment-guide-nextjs-mongodb-docker.md)
+- [自托管书签管理工具Servas无公网部署指南 NAS极简配置内网穿透远程访问](servas-self-hosted-bookmark-manager-nas-deployment-guide-intranet-penetration-remote-access.md)
+- [独角数卡开源数字商品售货系统Docker部署指南，支持多种支付方式NAS快速安装](unicorn-shuaka-open-source-digital-goods-vending-system-docker-deployment-guide-supports-multiple-payment-methods-nas-quick-installation.md)

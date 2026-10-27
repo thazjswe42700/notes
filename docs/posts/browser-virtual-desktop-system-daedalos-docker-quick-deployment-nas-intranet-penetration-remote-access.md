@@ -56,3 +56,12 @@ daedalOS 无需特殊的环境变量配置，使用默认设置即可正常运�
 ---
 
 原文：<https://www.passnat.com/posts/browser-virtual-desktop-system-daedalos-docker-quick-deployment-nas-intranet-penetration-remote-access>
+
+
+## 相关文章
+
+- [帕斯内网穿透全平台上手攻略，PassNAT如何使用，飞牛NAS | 群晖NAS | Windows 系统 内网穿透](p.md)
+- [无状态密码管理器Heimdallr，一密掌控所有账户，NAS本地部署零风险，内网穿透远程访问无忧](heimdallr-stateless-password-manager-nas-local-deployment.md)
+- [阿里云盘CLI命令行工具NAS部署指南，本地文件云端备份同步方案详解](aliyun-pan-cli-nas-deployment-guide-local-cloud-backup-sync-solution.md)
+- [免费私有相册系统Lomorage，Docker快速部署NAS，内网穿透远程访问家庭影库](lomorage-free-private-photo-gallery-docker-nas-deployment-remote-access.md)
+- [自建私人漫画库 Suwayomi 服务器，无限漫画源在线阅读，NAS 一键部署内网穿透远程访问](suwayomi-private-manga-server-nas-deployment.md)

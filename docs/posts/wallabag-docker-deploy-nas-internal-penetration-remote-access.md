@@ -84,3 +84,12 @@ services:
 ---
 
 原文：<https://www.passnat.com/posts/wallabag-docker-deploy-nas-internal-penetration-remote-access>
+
+
+## 相关文章
+
+- [PdfDing：NAS 上的 PDF 阅读库，Docker 部署 + 内网穿透](pdfding-nas-docker-pdf-reader-progress-highlights-intranet-penetration.md)
+- [开源私密新闻阅读器Readflow，NAS极简部署，内网穿透远程访问，无广告无追踪](readflow-open-source-private-news-reader-nas-deployment-intranet-penetration-remote-access-ad-free-tracking-free.md)
+- [Baby Buddy 自建育儿记录：飞牛 NAS Docker 部署 + 内网穿透外网访问](baby-buddy-nas-deployment-multilingual-parenting-tracker.md)
+- [本地部署AI大模型Ollama，离线运行Gemma Llama DeepSeek，支持内网穿透远程访问](local-deploy-ai-ollama-offline-gemma-llama-deepseek-intranet-tunneling.md)
+- [开源自托管订阅管理系统Wallos 内网穿透远程访问 NAS一键部署完整指南](open-source-self-hosted-subscription-management-system-wallos-internal-penetration-remote-access-nas-one-click-deployment-complete-guide.md)

@@ -125,3 +125,12 @@ Create an event：建活动　Event name：活动名称　Join code：活动码�
 ---
 
 原文：<https://www.passnat.com/posts/claper-interactive-presentation-docker-deployment-nas-reverse-proxy-remote-access>
+
+
+## 相关文章
+
+- [开会讲课现场互动：飞牛NAS 部署开源 Claper，台下提问投票、结果实时上大屏](claper-nas-deployment-interactive-audience-feedback-remote-access.md)
+- [Lychee 自建私人相册：飞牛 NAS Docker 部署 + 内网穿透外网访问](lychee-nas-self-hosted-photo-album-share-link-password.md)
+- [自建网盘 Cloudreve：飞牛 NAS 一个容器就能装，文件传上去右键甩个链接，配内网穿透在外面也能收发](nas-self-hosted-cloud-storage-docker-cloudreve-intranet-penetration-remote-file-share.md)
+- [Remark42 自建评论系统：NAS Docker 部署 + 匿名登录 + 嵌入网页完整步骤](remark42-nas-docker-self-hosted-comment-system.md)
+- [高效WebP图片服务器Go版，自动格式转换降低带宽，Docker一键部署加速网站，内网穿透远程访问优化方案](efficient-webp-image-server-go-auto-format-conversion-bandwidth-reduction-docker-one-click-deployment-website-acceleration-intranet-penetration-remote-access-optimization.md)

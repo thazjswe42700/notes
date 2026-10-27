@@ -118,3 +118,12 @@ http://你的NAS地址:9090/admin
 ---
 
 原文：<https://www.passnat.com/posts/open-source-accounting-cashbook-nas-self-hosted-shared>
+
+
+## 相关文章
+
+- [私有Beancount记账系统Docker快速部署指南，NAS轻松搭建个人财务管理平台](private-beancount-accounting-docker-deployment-guide-nas-personal-finance-management.md)
+- [自托管私人图书馆管理系统BookLogr，NAS极简部署，内网穿透随处访问阅读数据](self-hosted-private-library-management-booklogr-nas-deployment-intranet-access.md)
+- [私人云盘Filestash部署完全指南，NAS一键Docker启动，支持多云存储聚合管理](private-cloud-storage-filestash-deployment-guide-nas-docker-one-click-multi-cloud-storage-aggregation.md)
+- [开源自托管项目管理工具Focalboard部署指南，NAS内网穿透远程访问完整教程](focalboard-open-source-self-hosted-project-management-deployment-guide-nas-internal-penetration-remote-access-tutorial.md)
+- [个人财务管理系统BudgetBee，Docker一键部署，NAS极简配置，多账户记账工具](budget-bee-docker-deployment-nas-multi-account-accounting.md)

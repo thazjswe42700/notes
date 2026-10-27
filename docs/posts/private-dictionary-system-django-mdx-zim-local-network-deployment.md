@@ -62,3 +62,12 @@ http://你的NAS_IP:18000/mdict/
 ---
 
 原文：<https://www.passnat.com/posts/private-dictionary-system-django-mdx-zim-local-network-deployment>
+
+
+## 相关文章
+
+- [图片转ASCII艺术生成器 Django开源项目Docker部署教程 NAS内网穿透配置](image-to-ascii-art-generator-django-docker-deployment-nas-vpn-setup.md)
+- [自托管PDF管理器PdfDing Docker快速部署，内网穿透远程访问私人文档库](self-hosted-pdf-manager-pdfding-docker-deployment-intranet-penetration-remote-access-private-document-library.md)
+- [Kiwix Tools离线知识库NAS部署指南，Docker快速搭建私人维基百科服务器](kiwix-tools-offline-nas-deployment-docker-wikipedia.md)
+- [开源无代码数据库Baserow自托管部署，Docker一键安装NAS内网穿透远程访问完全指南](open-source-no-code-database-baserow-self-hosted-deployment-docker-one-click-installation-nas-intranet-penetration-remote-access-complete-guide.md)
+- [魔豆文库MOREDOC开源部署指南，Golang企业级文档管理系统，支持多格式文件预览，NAS内网穿透轻松搭建](moredoc-golang-enterprise-document-management-system-multi-format-preview-nas-intranet.md)

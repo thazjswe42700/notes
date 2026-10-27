@@ -117,3 +117,11 @@ curl -X POST "http://你的公网地址/message?token=<换成你自己的token>"
 ---
 
 原文：<https://www.passnat.com/posts/gotify-self-hosted-push-notification-deployment-guide>
+
+
+## 相关文章
+
+- [青龙定时任务面板：飞牛 NAS Docker 部署，自己写的小脚本每天准点跑，在外面也能看日志](qinglong-scheduled-tasks-panel-nas-docker-intranet-penetration.md)
+- [自建 AI 助手：飞牛 NAS Docker 部署 AstrBot，接上大模型随手问，内网穿透在外面也能用](astrbot-self-hosted-ai-assistant-nas-docker-deployment-intranet-penetration.md)
+- [私有ntfy推送服务NAS极简部署，内网穿透外网实时通知接收方案](private-ntfy-push-service-nas-minimal-deployment-intranet-penetration-external-network-real-time-notification-solution.md)
+- [自建电子签名 DocuSeal：飞牛 NAS Docker 部署，生成签署链接发给对方，配内网穿透在外面也能签](self-hosted-e-signature-docuseal-nas-docker-deployment-intranet-penetration.md)

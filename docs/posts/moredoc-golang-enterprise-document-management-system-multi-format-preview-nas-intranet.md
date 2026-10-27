@@ -92,3 +92,12 @@ JWT\_EXPIRE\_DAYS：Token 过期天数（默认 365）
 ---
 
 原文：<https://www.passnat.com/posts/moredoc-golang-enterprise-document-management-system-multi-format-preview-nas-intranet>
+
+
+## 相关文章
+
+- [Stump 电子书库：NAS Docker 部署 + 内网穿透](stump-nas-docker-ebook-library-reading-progress-intranet-penetration.md)
+- [开源文件预览服务kkFileView Docker部署完整指南，支持百余种格式在线查看](open-source-file-preview-kkfileview-docker-deployment-guide.md)
+- [Calibre-Web 自建电子书库：飞牛 NAS Docker Compose 部署，内网穿透在外面也能翻自己的书](calibre-web-self-hosted-ebook-library-nas-docker-deployment-intranet-penetration.md)
+- [开源私密新闻阅读器Readflow，NAS极简部署，内网穿透远程访问，无广告无追踪](readflow-open-source-private-news-reader-nas-deployment-intranet-penetration-remote-access-ad-free-tracking-free.md)
+- [MinDoc轻量级文档管理系统Docker极简部署，Golang高性能跨平台支持，内网穿透远程安全访问](mindoc-docker-deployment-golang-intranet-penetration.md)

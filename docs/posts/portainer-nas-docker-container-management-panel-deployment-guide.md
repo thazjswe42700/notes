@@ -94,3 +94,12 @@ token 在容器的运行日志里。在飞牛上这么看：打开 Docker 应用
 ---
 
 原文：<https://www.passnat.com/posts/portainer-nas-docker-container-management-panel-deployment-guide>
+
+
+## 相关文章
+
+- [Yacht容器管理系统一键部署指南，Docker应用模板快速启动，NAS自建服务完整教程](yacht-container-management-one-click-deployment-guide-docker-application-templates-quick-start-nas-self-built-services-complete-tutorial.md)
+- [容器管理神器Yacht一键部署指南，Docker应用模板化管理简单易用，支持内网穿透远程访问管理](yacht-docker-container-management-deployment-guide.md)
+- [自建 Dockhand 容器面板：飞牛 NAS Docker 部署 + 内网穿透](dockhand-docker-management-panel-nas-deployment-intranet-penetration.md)
+- [DPanel Docker可视化管理面板一键部署，内网穿透远程访问容器，极简操作无需命令行](dpanel-docker-visual-management-panel-one-click-deployment-intranet-penetration-remote-access-containers-simple-operation-no-command-line.md)
+- [自建 Dockge 管理面板：飞牛 NAS Docker 部署，容器开关、日志、编排一页全管，内网穿透出门也能看](dockge-docker-compose-manager-nas-deployment-intranet-penetration.md)

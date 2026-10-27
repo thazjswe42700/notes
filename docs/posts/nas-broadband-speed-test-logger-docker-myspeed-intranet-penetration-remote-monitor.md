@@ -117,3 +117,12 @@ MySpeed 装好之后是没有任何口令的 —— 打开就是主界面，设�
 ---
 
 原文：<https://www.passnat.com/posts/nas-broadband-speed-test-logger-docker-myspeed-intranet-penetration-remote-monitor>
+
+
+## 相关文章
+
+- [自建开源协作编辑平台Etherpad，NAS极简部署，数据完全掌控，内网穿透远程访问](etherpad-nas-deployment-guide.md)
+- [自建网盘 Cloudreve：飞牛 NAS 一个容器就能装，文件传上去右键甩个链接，配内网穿透在外面也能收发](nas-self-hosted-cloud-storage-docker-cloudreve-intranet-penetration-remote-file-share.md)
+- [Navidrome 飞牛 NAS 部署与公网听歌](navidrome-docker-private-music-server.md)
+- [自建 changedetection.io：飞牛 NAS Docker 部署 + 内网穿透外网访问](changedetection-io-website-change-monitor-nas-docker-deployment-intranet-penetration.md)
+- [Grocy 飞牛 NAS 部署与公网查库存](grocy-self-hosted-nas-deployment-internal-network-penetration-remote-access-food-inventory.md)

@@ -56,3 +56,12 @@ ADMIN\_PASSWORD: 管理员密码（可选，需要自行设置）
 ---
 
 原文：<https://www.passnat.com/posts/baical-docker-private-calendar-contacts-server>
+
+
+## 相关文章
+
+- [单文件PHP数据库管理工具Adminer，支持MySQL、PostgreSQL等多种数据库，NAS极简部署内网穿透远程管理](adminer-php-database-management-tool-mysql-postgresql-nas-deployment-internal-penetration-remote-management.md)
+- [轻量级PHP博客系统Typecho在NAS上Docker部署，内网穿透远程访问详细教程指南](typecho-nas-docker-deployment-internal-penetration-remote-access.md)
+- [AgenDAV 网页日历客户端 NAS 自建部署指南，内网穿透远程访问日程管理系统](agendav-nas-deployment-guide-calendar-scheduling.md)
+- [私有部署开源聊天应用VoceChat，NAS轻松搭建安全私密聊天系统，内网穿透远程访问](vocechat-private-deployment-nas-internal-network-penetration.md)
+- [自建音乐流媒体服务器Polaris，免费开源支持多格式，NAS一键部署内网穿透远程听歌](polaris-open-source-music-server-nas-remote-streaming.md)

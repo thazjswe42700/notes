@@ -82,3 +82,12 @@ dopplertask --help
 ---
 
 原文：<https://www.passnat.com/posts/doppler-task-docker-nas-workflow-automation-guide>
+
+
+## 相关文章
+
+- [轻量级Git容器镜像Alpine Docker，资源受限环境极简部署，无需安装Git直接运行](lightweight-git-alpine-docker-minimal-deployment-resource-constrained.md)
+- [MicroBin 临时分享：NAS Docker 部署 + 内网穿透](microbin-lightweight-self-hosted-clipboard-docker-deployment-intranet-penetration.md)
+- [私有ntfy推送服务NAS极简部署，内网穿透外网实时通知接收方案](private-ntfy-push-service-nas-minimal-deployment-intranet-penetration-external-network-real-time-notification-solution.md)
+- [浏览器里就是命令行：飞牛 NAS 用 Docker 自建 WebSSH + 内网穿透远程敲命令](webssh-fnos-docker-passnat.md)
+- [浏览器里直接 SSH 到 NAS：飞牛 Docker 自建 Next Terminal + 内网穿透远程运维](next-terminal-fnos-docker-passnat.md)

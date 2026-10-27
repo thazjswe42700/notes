@@ -91,3 +91,12 @@ http://你的NAS地址:3000
 ---
 
 原文：<https://www.passnat.com/posts/nextbeats-retro-lofi-music-player-docker-deployment-guide-youtube-integration-sound-mixing-nas-remote-access>
+
+
+## 相关文章
+
+- [可视化Docker Compose管理工具，NAS极简部署Compose Craft，无公网内网穿透远程访问](compose-craft-docker-visualization-nas-deployment-internal-network-remote-access.md)
+- [AI盘网盘搜索聚合平台，Next.js打造智能资源管理，NAS一键部署无需复杂配置，内网穿透远程访问。](ai-pan-wangpan-search-aggregation-platform-nextjs-intelligent-resource-management-nas-one-click-deployment-no-complex-configuration-intranet-penetration-remote-access.md)
+- [本地密码生成器PSWD，隐私优先TypeScript构建，支持Docker和NAS快速部署，内网穿透远程访问](local-password-generator-pswd-privacy-first-typescript-docker-nas-deployment-intranet-penetration-remote-access.md)
+- [MusicCard音乐海报生成器Docker部署指南，Next.js在线音乐海报转换工具内网穿透访问](music-card-docker-deployment-nextjs-music-poster-generator-intranet-penetration.md)
+- [Hexon Hexo博客在线管理系统，图形化界面轻松管理文章，Docker极简部署内网穿透远程访问](hexon-hexo-blog-management-system-graphic-interface-docker-deployment.md)

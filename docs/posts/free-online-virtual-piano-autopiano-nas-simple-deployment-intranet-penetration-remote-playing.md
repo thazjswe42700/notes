@@ -52,3 +52,12 @@ AutoPiano 无需配置特殊的环境变量，保持默认设置直接启动即�
 ---
 
 原文：<https://www.passnat.com/posts/free-online-virtual-piano-autopiano-nas-simple-deployment-intranet-penetration-remote-playing>
+
+
+## 相关文章
+
+- [在线AI智能抠图工具，支持Web和API接口，NAS一键部署，内网穿透远程访问使用](ai-intelligent-image-matting-web-api-nas-deployment.md)
+- [自托管即时通讯平台Stoat完整部署指南，内网穿透远程访问无公网限制](self-hosted-stoat-instant-messaging-deployment-guide-intranet-penetration-remote-access-no-public-ip.md)
+- [DPanel Docker可视化管理面板一键部署，内网穿透远程访问容器，极简操作无需命令行](dpanel-docker-visual-management-panel-one-click-deployment-intranet-penetration-remote-access-containers-simple-operation-no-command-line.md)
+- [聚合三大平台海量音乐，NAS 极简部署 Musicn 音乐库，一键启动在线播放下载](musicn-nas-online-music-player-aggregator.md)
+- [Docker容器运行微信应用，Web远程访问与VNC连接，NAS一键部署搭建家庭微信服务器](docker-weixin-nas-vnc-remote-access.md)

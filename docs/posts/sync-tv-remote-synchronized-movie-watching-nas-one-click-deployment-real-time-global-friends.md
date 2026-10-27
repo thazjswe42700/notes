@@ -54,3 +54,12 @@ SyncTV 的基础功能无需额外配置环境变量即可正常运行。如需�
 ---
 
 原文：<https://www.passnat.com/posts/sync-tv-remote-synchronized-movie-watching-nas-one-click-deployment-real-time-global-friends>
+
+
+## 相关文章
+
+- [SyncTV：NAS Docker 同步影院 + 内网穿透](synctv-nas-docker-synchronized-movie-theater-intranet-penetration.md)
+- [自托管联邦即时通讯Databag部署指南，树莓派轻量级私密通讯解决方案教程](self-hosted-databag-federated-messaging-deployment-guide-raspberry-pi-lightweight-private-communication.md)
+- [浏览器WebRTC视频通话应用Call-Me，NAS一键部署，支持屏幕共享与内网穿透远程通话](browser-webrtc-video-call-app-call-me-nas-one-click-deployment-screen-sharing-intranet-penetration-remote-calling.md)
+- [自建neko远程浏览器：飞牛NAS Docker部署+内网穿透外网访问](neko-remote-browser-nas-docker-deployment-intranet-penetration-external-access.md)
+- [阿里云盘FUSE挂载工具,将云盘变身NAS私人影院,配合内网穿透远程在线观看](aliyun-drive-fuse-mount-nas-private-cinema-remote-viewing.md)

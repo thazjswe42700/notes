@@ -65,3 +65,12 @@ docker run -d \
 ---
 
 原文：<https://www.passnat.com/posts/auto-checkin-script-dailycheckin-docker-deployment-nas-synology-qinglong-panel-intranet-penetration-remote-management>
+
+
+## 相关文章
+
+- [Xnote个人笔记系统Docker部署指南，自建私密知识库随处可得内网穿透远程访问](xnote-docker-deployment-guide-personal-note-system-private-knowledge-base-intranet-penetration-remote-access.md)
+- [自托管任务管理系统tududi Docker极简部署 本地数据完全私密可控](self-hosted-task-management-tududi-docker-deployment.md)
+- [NAS搭建PanSou网盘资源搜索引擎完整教程：TG频道54插件并发搜索Docker快速部署内网穿透远程访问](pansoutg54nasdocker.md)
+- [BGmi番剧自动追踪管理工具Docker部署指南，NAS内网穿透远程追番解决方案](bgmi-anime-tracker-docker-nas-remote-access.md)
+- [小爱音箱无限音乐播放器XiaoMusic，Docker极简部署内网穿透远程访问](xiaomi-xiaomusic-docker-lan-remote-access.md)

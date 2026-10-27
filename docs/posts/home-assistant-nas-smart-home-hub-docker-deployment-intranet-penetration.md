@@ -74,3 +74,12 @@ services:
 ---
 
 原文：<https://www.passnat.com/posts/home-assistant-nas-smart-home-hub-docker-deployment-intranet-penetration>
+
+
+## 相关文章
+
+- [家庭鸡尾酒管理系统Bar Assistant部署教程，Docker快速安装配置指南](home-cocktail-management-bar-assistant-docker-deployment-guide.md)
+- [AdGuard Home 飞牛 NAS 部署与公网管理](adguard-home-docker-ad-blocking-dns.md)
+- [Penpot 开源设计工具自建教程：飞牛 NAS Docker Compose 部署官方镜像，Figma 的开源替代，内网穿透出门手机也能改稿](penpot-self-hosted-deployment-guide-nas-one-click-setup.md)
+- [Homepage 自建 NAS 导航首页：飞牛 Docker 部署 + 内网穿透外网访问](homepage-nas-service-dashboard-docker-deployment-intranet-penetration.md)
+- [Moments 自建朋友圈：飞牛 NAS Docker 部署 + 内网穿透外网访问](moments-self-hosted-private-timeline-nas-docker-deployment-intranet-penetration.md)

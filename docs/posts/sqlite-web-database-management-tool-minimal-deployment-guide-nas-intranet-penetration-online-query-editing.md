@@ -67,3 +67,12 @@ SQLITE\_DATABASE | 要打开的 SQLite 数据库文件名 | 必须
 ---
 
 原文：<https://www.passnat.com/posts/sqlite-web-database-management-tool-minimal-deployment-guide-nas-intranet-penetration-online-query-editing>
+
+
+## 相关文章
+
+- [小爱音箱无限音乐播放器XiaoMusic，Docker极简部署内网穿透远程访问](xiaomi-xiaomusic-docker-lan-remote-access.md)
+- [Directus 开源数据管理平台 Docker 快速部署，NAS 自建内容管理系统无公网穿透远程访问！](directus-docker-nas-cms-remote-access.md)
+- [开源个人数据管理框架Eidos本地部署指南，SQLite私密数据库离线使用，NAS内网穿透远程访问完整教程](eidos-open-source-personal-data-management-local-deployment-guide-sqlite-private-database-offline-usage-nas-intranet-penetration-remote-access-complete-tutorial.md)
+- [单文件PHP数据库管理工具Adminer，支持MySQL、PostgreSQL等多种数据库，NAS极简部署内网穿透远程管理](adminer-php-database-management-tool-mysql-postgresql-nas-deployment-internal-penetration-remote-management.md)
+- [浏览器免费数据库设计工具DrawDB，无需账户在线绘制ER图生成SQL脚本](browser-free-database-design-tool-drawdb-er-diagram-sql-script.md)

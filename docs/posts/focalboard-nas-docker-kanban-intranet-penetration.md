@@ -92,3 +92,12 @@ volumes:
 ---
 
 原文：<https://www.passnat.com/posts/focalboard-nas-docker-kanban-intranet-penetration>
+
+
+## 相关文章
+
+- [开源自托管项目管理工具Focalboard部署指南，NAS内网穿透远程访问完整教程](focalboard-open-source-self-hosted-project-management-deployment-guide-nas-internal-penetration-remote-access-tutorial.md)
+- [Kanboard：NAS Docker 任务看板 + 内网穿透](kanboard-nas-docker-family-task-board-intranet-penetration.md)
+- [Excalidraw 白板：NAS Docker 部署 + 内网穿透](excalidraw-nas-docker-whiteboard-diagrams-intranet-penetration.md)
+- [ReDoc 接口文档：NAS Docker 部署 + 内网穿透](redoc-api-docs-nas-docker-openapi-intranet-penetration.md)
+- [Leantime 项目管理：NAS Docker 部署 + 内网穿透](leantime-nas-docker-project-management-goals-timesheets-intranet-penetration.md)

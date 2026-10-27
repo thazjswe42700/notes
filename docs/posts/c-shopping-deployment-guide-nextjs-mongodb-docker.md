@@ -179,3 +179,12 @@ db.categories.insert({
 ---
 
 原文：<https://www.passnat.com/posts/c-shopping-deployment-guide-nextjs-mongodb-docker>
+
+
+## 相关文章
+
+- [开源日程管理系统Cal.com自托管部署指南，NAS极简配置内网穿透远程访问](open-source-calendar-management-system-cal-com-self-hosted-deployment-guide-nas-simple-configuration-intranet-penetration-remote-access.md)
+- [自建云相册Lsky Pro，NAS极简部署，支持多云存储，内网穿透远程访问图片管理分享系统](lsky-pro-nas-deployment-multi-cloud-storage-remote-access.md)
+- [DPanel Docker可视化管理面板一键部署，内网穿透远程访问容器，极简操作无需命令行](dpanel-docker-visual-management-panel-one-click-deployment-intranet-penetration-remote-access-containers-simple-operation-no-command-line.md)
+- [MusicCard音乐海报生成器Docker部署指南，Next.js在线音乐海报转换工具内网穿透访问](music-card-docker-deployment-nextjs-music-poster-generator-intranet-penetration.md)
+- [免费在线虚拟钢琴演奏平台 AutoPiano NAS 极简部署 内网穿透远程弹奏](free-online-virtual-piano-autopiano-nas-simple-deployment-intranet-penetration-remote-playing.md)

@@ -93,3 +93,11 @@ AstrBot 的面板是有登录的，用户名是 astrbot，但初始密码不是�
 ---
 
 原文：<https://www.passnat.com/posts/astrbot-self-hosted-ai-assistant-nas-docker-deployment-intranet-penetration>
+
+
+## 相关文章
+
+- [自建推送通知 Gotify：飞牛 NAS Docker 部署，家里的脚本有事就发一条，配内网穿透在外面也能收](gotify-self-hosted-push-notification-deployment-guide.md)
+- [自建在线表格 NocoDB：飞牛 NAS Docker 部署，Airtable 的开源替代，配内网穿透在外面也能打开自己的表](nocodb-one-click-deploy-airtable-open-source-alternative-nas-local-database-management.md)
+- [自建 Smart Mermaid：飞牛 NAS Docker 部署 + 内网穿透外网访问](smart-mermaid-ai-text-to-diagram-nas-docker-deployment-intranet-penetration.md)
+- [Open WebUI 自建 AI 对话站：飞牛 NAS Docker 部署接云端模型不用显卡，内网穿透出门手机也能聊](open-webui-self-hosted-private-ai-chat-platform-docker-simple-deployment-offline-privacy.md)

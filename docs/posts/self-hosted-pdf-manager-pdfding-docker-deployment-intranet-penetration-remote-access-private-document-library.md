@@ -179,3 +179,12 @@ PDF 反色阅读模式
 ---
 
 原文：<https://www.passnat.com/posts/self-hosted-pdf-manager-pdfding-docker-deployment-intranet-penetration-remote-access-private-document-library>
+
+
+## 相关文章
+
+- [PdfDing：NAS 上的 PDF 阅读库，Docker 部署 + 内网穿透](pdfding-nas-docker-pdf-reader-progress-highlights-intranet-penetration.md)
+- [自建 BentoPDF：飞牛 NAS Docker 部署隐私优先的 PDF 工具箱，内网穿透外网访问](bentopdf-self-hosted-pdf-toolkit-nas-docker-deployment-intranet-penetration.md)
+- [PDFMathTranslate 整篇翻译：NAS Docker 部署 + 内网穿透](pdfmathtranslate-nas-docker-pdf-translate-formula-layout-intranet-penetration.md)
+- [私密PDF处理工具Stirling本地部署指南，Docker容器化方案50+功能完整教程](stirling-pdf-local-deployment-guide-docker-containerization-50-plus-features-complete-tutorial.md)
+- [Lookscanned：NAS Docker 部署，电子 PDF 一键变扫描件](lookscanned-nas-docker-pdf-to-scanned-image-intranet-penetration.md)

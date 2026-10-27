@@ -76,3 +76,12 @@ database 与 data 两个目录分别保存数据库和工作台文件，备份�
 ---
 
 原文：<https://www.passnat.com/posts/reactive-resume-fnos-private-resume-builder-passnat>
+
+
+## 相关文章
+
+- [自建 BentoPDF：飞牛 NAS Docker 部署隐私优先的 PDF 工具箱，内网穿透外网访问](bentopdf-self-hosted-pdf-toolkit-nas-docker-deployment-intranet-penetration.md)
+- [DocuSeal 自建电子签署：NAS Docker 部署 + 签署链接怎么发](docuseal-nas-docker-e-signature-contract.md)
+- [PDFMathTranslate 整篇翻译：NAS Docker 部署 + 内网穿透](pdfmathtranslate-nas-docker-pdf-translate-formula-layout-intranet-penetration.md)
+- [Lookscanned：NAS Docker 部署，电子 PDF 一键变扫描件](lookscanned-nas-docker-pdf-to-scanned-image-intranet-penetration.md)
+- [图片和文档一页搞定：Reubah NAS Docker 部署 + 内网穿透](reubah-file-converter-web-image-processing-docker-nas-deployment.md)

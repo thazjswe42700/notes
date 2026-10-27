@@ -80,3 +80,12 @@ environment 里：OPENAI\_API\_BASE\_URL 填模型接口的地址，本文拿 Mi
 ---
 
 原文：<https://www.passnat.com/posts/open-webui-self-hosted-private-ai-chat-platform-docker-simple-deployment-offline-privacy>
+
+
+## 相关文章
+
+- [本地AI交互平台SillyTavern Docker部署指南，NAS快速安装配置教程](silly-tavern-docker-deployment-guide-nas-quick-install-setup.md)
+- [One API 统一大模型接口，支持30+模型OpenAI格式调用，NAS一键部署使用。](one-api-unified-model-interface-30-plus-models-openai-format-nas-deployment.md)
+- [免费DeepSeek API接口一键部署，OpenAI兼容格式，NAS本地化私有部署方案](free-deepseek-api-deployment-openai-compatible-nas-local-private.md)
+- [在线AI智能抠图工具，支持Web和API接口，NAS一键部署，内网穿透远程访问使用](ai-intelligent-image-matting-web-api-nas-deployment.md)
+- [深度网络研究工具本地部署指南，NAS一键启动Deep Research Web UI，支持多AI提供商](deep-network-research-tool-local-deployment-guide-nas-one-click-launch-deep-research-web-ui-multi-ai-providers.md)

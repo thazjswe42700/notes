@@ -139,3 +139,12 @@ Markopolis 提供了一个简单易用的自托管解决方案，让你能够完
 ---
 
 原文：<https://www.passnat.com/posts/markopolis-self-hosted-markdown-notes-publishing-platform-open-source-nas-deployment>
+
+
+## 相关文章
+
+- [MinDoc轻量级文档管理系统Docker极简部署，Golang高性能跨平台支持，内网穿透远程安全访问](mindoc-docker-deployment-golang-intranet-penetration.md)
+- [私密日记极简部署，纯文本记录无数据库，Hibiscus.txt Docker内网穿透随处访问](hibiscus-txt-private-diary-docker-deployment.md)
+- [自托管短链接服务Snapp，私密数据掌控无忧，NAS极简部署零烦恼，内网穿透远程访问](self-hosted-url-shortener-snapp-private-data-nas-deployment-intranet-penetration.md)
+- [浏览器WebRTC视频通话应用Call-Me，NAS一键部署，支持屏幕共享与内网穿透远程通话](browser-webrtc-video-call-app-call-me-nas-one-click-deployment-screen-sharing-intranet-penetration-remote-calling.md)
+- [自建图片社区平台Szurubooru，Docker极简部署NAS，内网穿透远程访问图片库](szurubooru-docker-nas-deployment-intranet-penetration-remote-access-image-library.md)

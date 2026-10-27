@@ -4,6 +4,9 @@ theme: jekyll-theme-cayman
 lang: zh-CN
 plugins:
   - jekyll-relative-links
+  - jekyll-sitemap
+  - jekyll-feed
 relative_links:
   enabled: true
   collections: false
+show_downloads: false

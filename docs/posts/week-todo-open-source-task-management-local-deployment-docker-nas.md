@@ -81,3 +81,12 @@ http://你的服务器IP:8080
 ---
 
 原文：<https://www.passnat.com/posts/week-todo-open-source-task-management-local-deployment-docker-nas>
+
+
+## 相关文章
+
+- [Standard Notes 私密笔记自建 - 端到端加密开源方案，NAS 极简部署指南](standard-notes-private-notes-self-hosted-end-to-end-encryption-open-source-nas-simple-deployment-guide.md)
+- [免费私有相册系统Lomorage，Docker快速部署NAS，内网穿透远程访问家庭影库](lomorage-free-private-photo-gallery-docker-nas-deployment-remote-access.md)
+- [无状态密码管理器Heimdallr，一密掌控所有账户，NAS本地部署零风险，内网穿透远程访问无忧](heimdallr-stateless-password-manager-nas-local-deployment.md)
+- [阿里云盘CLI命令行工具NAS部署指南，本地文件云端备份同步方案详解](aliyun-pan-cli-nas-deployment-guide-local-cloud-backup-sync-solution.md)
+- [个人综合服务平台UniBoard Docker极简部署，云笔记短链接文件分享一站式解决方案](unibboard-docker-deployment-personal-service-platform-cloud-notes-shortlinks-file-sharing.md)

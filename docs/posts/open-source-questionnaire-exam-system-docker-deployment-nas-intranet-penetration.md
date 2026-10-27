@@ -84,3 +84,12 @@ docker run -p 1991:1991 surveyking/surveyking
 ---
 
 原文：<https://www.passnat.com/posts/open-source-questionnaire-exam-system-docker-deployment-nas-intranet-penetration>
+
+
+## 相关文章
+
+- [SurveyKing开源问卷考试系统一键部署指南 无限题型支持NAS私有部署免费使用](survey-king-open-source-questionnaire-exam-system-one-click-deployment-guide-unlimited-question-types-nas-private-deployment-free.md)
+- [开源问卷调查系统LimeSurvey，NAS一键部署，内网穿透远程访问，无限问卷模板](open-source-survey-system-limesurvey-nas-one-click-deployment-intranet-penetration-remote-access-unlimited-questionnaire-templates.md)
+- [开源私有视频会议系统Nettu Meet，Docker一键部署，支持屏幕共享和内网穿透远程访问](open-source-nettu-meet-video-conference-docker-deployment.md)
+- [开源日程管理系统Cal.com自建部署，完全控制数据NAS本地托管，支持内网穿透远程访问](open-source-calendar-management-cal-com-self-hosted-deployment-local-nas-storage-intranet-penetration-remote-access.md)
+- [免费私有相册系统Lomorage，Docker快速部署NAS，内网穿透远程访问家庭影库](lomorage-free-private-photo-gallery-docker-nas-deployment-remote-access.md)

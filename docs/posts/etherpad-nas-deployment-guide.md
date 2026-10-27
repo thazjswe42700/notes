@@ -62,3 +62,12 @@ services:
 ---
 
 原文：<https://www.passnat.com/posts/etherpad-nas-deployment-guide>
+
+
+## 相关文章
+
+- [宽带有没有缩水：飞牛 NAS 用一个容器装 MySpeed，它自己按点测速记账，配内网穿透在外面也能看](nas-broadband-speed-test-logger-docker-myspeed-intranet-penetration-remote-monitor.md)
+- [自建网盘 Cloudreve：飞牛 NAS 一个容器就能装，文件传上去右键甩个链接，配内网穿透在外面也能收发](nas-self-hosted-cloud-storage-docker-cloudreve-intranet-penetration-remote-file-share.md)
+- [Rustpad 协同编辑器：NAS Docker 部署 + 内网穿透](rustpad-nas-docker-collaborative-code-editor-intranet-penetration.md)
+- [自建 changedetection.io：飞牛 NAS Docker 部署 + 内网穿透外网访问](changedetection-io-website-change-monitor-nas-docker-deployment-intranet-penetration.md)
+- [极简命令行笔记本 Dnote 自建部署：Docker 快速上手，内网穿透远程访问笔记库](dnote-self-hosted-docker-deployment-internal-penetration-remote-access.md)

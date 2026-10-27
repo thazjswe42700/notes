@@ -128,3 +128,12 @@ http://你的NAS_IP:8000
 ---
 
 原文：<https://www.passnat.com/posts/self-hosted-iptv-live-streaming-platform-docker-deployment-no-public-ip-fast-playback-internal-network-penetration>
+
+
+## 相关文章
+
+- [自动聚合优质IPTV直播源，支持NAS极简部署与内网穿透远程访问](auto-aggregate-quality-iptv-live-sources-nas-simple-deployment-intranet-penetration-remote-access.md)
+- [自建OmniBox影视综合站：一站式观影平台部署指南，NAS一键启动Docker快速搭建多源聚合系统，内网穿透远程访问](omniboxnasdocker.md)
+- [开源低代码平台Appsmith本地部署指南，NAS极简安装Docker Compose，无公网内网穿透远程访问](appsmith-nas-docker-compose-local-deployment-guide.md)
+- [在线AI智能抠图工具，支持Web和API接口，NAS一键部署，内网穿透远程访问使用](ai-intelligent-image-matting-web-api-nas-deployment.md)
+- [网页版IPTV播放器Streamdock简易部署指南，无客户端浏览器直播观看体验](streamdock-web-iptv-player-deployment-guide-browser-live-streaming.md)

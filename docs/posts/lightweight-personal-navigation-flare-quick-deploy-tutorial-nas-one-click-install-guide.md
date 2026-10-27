@@ -82,3 +82,12 @@ links:
 ---
 
 原文：<https://www.passnat.com/posts/lightweight-personal-navigation-flare-quick-deploy-tutorial-nas-one-click-install-guide>
+
+
+## 相关文章
+
+- [Homepage 自建 NAS 导航首页：飞牛 Docker 部署 + 内网穿透外网访问](homepage-nas-service-dashboard-docker-deployment-intranet-penetration.md)
+- [ReDoc 接口文档：NAS Docker 部署 + 内网穿透](redoc-api-docs-nas-docker-openapi-intranet-penetration.md)
+- [极简网页仪表盘SimpleDash，本地快速部署，内网穿透远程访问，YAML配置自定义链接管理](simple-dash-local-dashboard-intranet-penetration-remote-access-yaml-config.md)
+- [Swagger Editor：NAS Docker 部署 + 内网穿透](swagger-editor-nas-docker-openapi-api-docs-intranet-penetration.md)
+- [自托管服务门户Easy Gate，NAS一键部署，内网穿透远程访问自建应用聚合平台](easy-gate-nas-deployment-intranet-penetration-remote-access.md)

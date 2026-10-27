@@ -80,3 +80,9 @@ Answer 出厂\*\*要求新用户验证邮箱\*\*。家里人拿公网地址注�
 ---
 
 原文：<https://www.passnat.com/posts/apache-answer-self-hosted-qa-community-nas-docker-intranet-penetration>
+
+
+## 相关文章
+
+- [Web-Check 网站体检：NAS Docker 部署 + 内网穿透](open-source-website-security-analysis-tool-web-check-docker-one-click-deployment-40-plus-deep-detection-local-run.md)
+- [Lychee 自建私人相册：飞牛 NAS Docker 部署 + 内网穿透外网访问](lychee-nas-self-hosted-photo-album-share-link-password.md)

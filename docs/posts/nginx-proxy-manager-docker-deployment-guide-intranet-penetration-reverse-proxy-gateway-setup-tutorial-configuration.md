@@ -99,3 +99,12 @@ http://你的设备IP:81
 ---
 
 原文：<https://www.passnat.com/posts/nginx-proxy-manager-docker-deployment-guide-intranet-penetration-reverse-proxy-gateway-setup-tutorial-configuration>
+
+
+## 相关文章
+
+- [家庭反向代理网关解决方案 Nginx代理管理器Docker快速部署指南](home-reverse-proxy-gateway-nginx-proxy-manager-docker-deployment-guide.md)
+- [Nginx Proxy Manager：NAS Docker 统一入口 + 内网穿透](nginx-proxy-manager-nas-docker-unified-entry-intranet-penetration.md)
+- [自建文件服务器 GoHTTPServer Docker极简部署，NAS内网穿透远程访问文件](self-hosted-file-server-gohttpserver-docker-deployment-nas-intranet-penetration-remote-access.md)
+- [Web-Check 网站体检：NAS Docker 部署 + 内网穿透](open-source-website-security-analysis-tool-web-check-docker-one-click-deployment-40-plus-deep-detection-local-run.md)
+- [DPanel Docker可视化管理面板一键部署，内网穿透远程访问容器，极简操作无需命令行](dpanel-docker-visual-management-panel-one-click-deployment-intranet-penetration-remote-access-containers-simple-operation-no-command-line.md)

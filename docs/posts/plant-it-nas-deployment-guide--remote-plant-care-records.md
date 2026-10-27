@@ -62,3 +62,10 @@ Plant-it 是一款专业的园艺管理助手应用，专为植物爱好者和�
 ---
 
 原文：<https://www.passnat.com/posts/plant-it-nas-deployment-guide--remote-plant-care-records>
+
+
+## 相关文章
+
+- [企业IT运维管理系统CAT一键部署方案，Docker容器快速启动NAS设备应用](enterprise-it-operations-management-system-cat-one-click-deployment-docker-container-nas.md)
+- [容器管理神器Yacht一键部署指南，Docker应用模板化管理简单易用，支持内网穿透远程访问管理](yacht-docker-container-management-deployment-guide.md)
+- [Leantime 项目管理：NAS Docker 部署 + 内网穿透](leantime-nas-docker-project-management-goals-timesheets-intranet-penetration.md)

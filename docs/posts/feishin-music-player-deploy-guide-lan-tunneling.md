@@ -156,3 +156,12 @@ SERVER\_LOCK 仅在同时设置了 SERVER\_NAME、SERVER\_TYPE 和 SERVER\_URL �
 ---
 
 原文：<https://www.passnat.com/posts/feishin-music-player-deploy-guide-lan-tunneling>
+
+
+## 相关文章
+
+- [Jellyfin 家庭影院：飞牛 NAS Docker 部署 + 内网穿透，出门手机接着看](jellyfin-nas-media-server-private-cinema.md)
+- [Navidrome 飞牛 NAS 部署与公网听歌](navidrome-docker-private-music-server.md)
+- [阿里云盘FUSE挂载工具,将云盘变身NAS私人影院,配合内网穿透远程在线观看](aliyun-drive-fuse-mount-nas-private-cinema-remote-viewing.md)
+- [Jellyseerr开源影视请求管理系统，NAS一键部署Jellyfin媒体库，内网穿透远程访问审批影视资源](jellyseerr-nas-jellyfin-media-request-approval-system.md)
+- [自托管Kyoo影视库服务器，智能识别无需配置，内网穿透远程访问，一次部署永久使用](self-hosted-kyoo-streaming-server-intelligent-recognition-setup-free-internal-network-traversal-remote-access-one-time-deployment-permanent-use.md)

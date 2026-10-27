@@ -84,3 +84,12 @@ http://你的NAS_IP:9091
 ---
 
 原文：<https://www.passnat.com/posts/nas-authelia-docker-sso-ddns>
+
+
+## 相关文章
+
+- [家庭反向代理网关解决方案 Nginx代理管理器Docker快速部署指南](home-reverse-proxy-gateway-nginx-proxy-manager-docker-deployment-guide.md)
+- [高效文本分享平台Hasty Paste II，Docker快速部署NAS私有服务，支持内网穿透远程访问](hasty-paste-ii-docker-nas-private-service-intranet-penetration.md)
+- [Nginx Proxy Manager：NAS Docker 统一入口 + 内网穿透](nginx-proxy-manager-nas-docker-unified-entry-intranet-penetration.md)
+- [自建文件服务器 GoHTTPServer Docker极简部署，NAS内网穿透远程访问文件](self-hosted-file-server-gohttpserver-docker-deployment-nas-intranet-penetration-remote-access.md)
+- [Nginx Proxy Manager Docker部署指南，内网穿透反向代理网关搭建教程配置](nginx-proxy-manager-docker-deployment-guide-intranet-penetration-reverse-proxy-gateway-setup-tutorial-configuration.md)

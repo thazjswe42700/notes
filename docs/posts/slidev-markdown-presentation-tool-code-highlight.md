@@ -70,3 +70,12 @@ npm run dev
 ---
 
 原文：<https://www.passnat.com/posts/slidev-markdown-presentation-tool-code-highlight>
+
+
+## 相关文章
+
+- [开箱即用 Markdown 笔记应用，多库协作实时编辑，NAS 极简部署 Many Notes 内网穿透远程访问](many-notes-markdown-notebook-collaborative-editing-nas-deployment.md)
+- [个人综合服务平台UniBoard Docker极简部署，云笔记短链接文件分享一站式解决方案](unibboard-docker-deployment-personal-service-platform-cloud-notes-shortlinks-file-sharing.md)
+- [私人知识库无限制 Logseq 开源笔记 NAS 部署 内网穿透远程访问管理](private-knowledge-base-unlimited-logseq-opensource-notes-nas-deployment-intranet-penetration-remote-access-management.md)
+- [WeekToDo开源周计划管理应用，极简任务管理，本地部署隐私保护，Docker一键启动NAS自建。](week-todo-open-source-task-management-local-deployment-docker-nas.md)
+- [思绪思维导图：NAS Docker 部署 + 内网穿透](mindmap-web-app-lightweight-opensource-tool-multiple-structure-types-export-formats-nas-docker-deployment.md)

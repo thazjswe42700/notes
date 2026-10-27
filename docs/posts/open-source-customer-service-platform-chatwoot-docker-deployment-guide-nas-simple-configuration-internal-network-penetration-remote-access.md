@@ -84,3 +84,12 @@ MAILER\_SENDER\_EMAIL: 发件人邮箱地址
 ---
 
 原文：<https://www.passnat.com/posts/open-source-customer-service-platform-chatwoot-docker-deployment-guide-nas-simple-configuration-internal-network-penetration-remote-access>
+
+
+## 相关文章
+
+- [开源日程管理系统Cal.com自托管部署指南，NAS极简配置内网穿透远程访问](open-source-calendar-management-system-cal-com-self-hosted-deployment-guide-nas-simple-configuration-intranet-penetration-remote-access.md)
+- [私有部署开源聊天应用VoceChat，NAS轻松搭建安全私密聊天系统，内网穿透远程访问](vocechat-private-deployment-nas-internal-network-penetration.md)
+- [开源AI搜索平台Search4All部署指南 NAS服务器Docker快速安装内网穿透远程访问](search4all-nas-docker-deployment-guide-intranet-penetration-remote-access.md)
+- [Scraperr开源网页爬虫工具，无代码可视化界面自托管部署，NAS极简配置内网穿透远程访问](scraperr-open-source-web-crawler-tool-no-code-visual-interface-self-hosted-deployment-nas-simple-configuration-intranet-penetration-remote-access.md)
+- [自托管私密笔记应用Notea，Docker极简部署，云存储灵活配置，内网穿透远程访问](self-hosted-private-notes-notea-docker-deployment-cloud-storage-remote-access.md)

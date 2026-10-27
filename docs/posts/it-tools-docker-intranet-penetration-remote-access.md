@@ -93,3 +93,12 @@ it-tools 属于那种装完就一直在那儿、用不着维护的应用：一�
 ---
 
 原文：<https://www.passnat.com/posts/it-tools-docker-intranet-penetration-remote-access>
+
+
+## 相关文章
+
+- [Kiwix Tools离线知识库NAS部署指南，Docker快速搭建私人维基百科服务器](kiwix-tools-offline-nas-deployment-docker-wikipedia.md)
+- [自建 Gitea 私有 Git 仓库：飞牛 NAS Docker 部署自己家的 GitHub，内网穿透在外面也能开](gitea-self-hosted-private-git-server-nas-docker-deployment-intranet-penetration.md)
+- [开源低代码工具ToolJet快速部署指南，NAS极简搭建内部应用开发平台](open-source-lowcode-tooljet-quick-deployment-guide-nas-simple-setup-internal-app-development-platform.md)
+- [Cogito个人知识库系统自建指南，NAS极简部署智能笔记管理工具，支持内网穿透远程访问](1-seo-slug-aa-bb-cc2-cogitoseoseo-slug------slug.md)
+- [开源IT运维管理平台iTop Docker容器化部署指南，快速搭建企业级IT资产管理系统](open-source-itop-docker-deployment-guide-enterprise-it-asset-management.md)

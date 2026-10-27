@@ -133,3 +133,12 @@ TYPESENSE\_HOST - Typesense 服务器地址，默认值：typesense
 ---
 
 原文：<https://www.passnat.com/posts/open-source-ebook-library-management-system-biblioteca-complete-deployment-guide-nas-one-click-install-docker-compose-configuration>
+
+
+## 相关文章
+
+- [开源个人关系管理系统Monica私密部署指南，NAS一键Docker快速安装配置教程](open-source-personal-crm-monica-private-deployment-guide-nas-docker-quick-install.md)
+- [开源仓库管理系统GreaterWMS Docker部署教程 NAS极简搭建完整指南](open-source-warehouse-management-system-greaterwms-docker-deployment-tutorial-nas-simple-setup-complete-guide.md)
+- [自托管个人收藏管理系统Koillection，NAS私有部署Docker快速上手指南](koillection-nas-docker-deployment-guide.md)
+- [Calibre-Web 自建电子书库：飞牛 NAS Docker Compose 部署，内网穿透在外面也能翻自己的书](calibre-web-self-hosted-ebook-library-nas-docker-deployment-intranet-penetration.md)
+- [OpenClinica开源临床数据管理系统Docker部署指南，NAS内网穿透远程访问完整教程](openclinica-docker-deployment-nas-intranet-penetration-remote-access-guide.md)

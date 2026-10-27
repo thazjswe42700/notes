@@ -85,3 +85,12 @@ environment 里：PAPERLESS\_ADMIN\_USER 和 PAPERLESS\_ADMIN\_PASSWORD 是首�
 ---
 
 原文：<https://www.passnat.com/posts/paperless-ngx-nas-document-management-ocr-docker-deployment-intranet-penetration>
+
+
+## 相关文章
+
+- [Rustpad 协同编辑器：NAS Docker 部署 + 内网穿透](rustpad-nas-docker-collaborative-code-editor-intranet-penetration.md)
+- [Isso 评论区 NAS Docker 部署 + 内网穿透](isso-nas-docker-self-hosted-comments-intranet-penetration.md)
+- [LinkStack 自建个人名片页：NAS Docker 部署 + 公网访问完整步骤](linkstack-nas-docker-personal-link-page.md)
+- [极简命令行笔记本 Dnote 自建部署：Docker 快速上手，内网穿透远程访问笔记库](dnote-self-hosted-docker-deployment-internal-penetration-remote-access.md)
+- [自建开源协作编辑平台Etherpad，NAS极简部署，数据完全掌控，内网穿透远程访问](etherpad-nas-deployment-guide.md)

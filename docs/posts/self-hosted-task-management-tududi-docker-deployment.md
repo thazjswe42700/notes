@@ -134,3 +134,12 @@ tududi 支持 Telegram 集成，可以通过 Telegram 机器人快速创建任�
 ---
 
 原文：<https://www.passnat.com/posts/self-hosted-task-management-tududi-docker-deployment>
+
+
+## 相关文章
+
+- [自动签到脚本DailyCheckIn Docker部署指南，支持NAS群晖青龙面板内网穿透远程管理](auto-checkin-script-dailycheckin-docker-deployment-nas-synology-qinglong-panel-intranet-penetration-remote-management.md)
+- [NAS搭建PanSou网盘资源搜索引擎完整教程：TG频道54插件并发搜索Docker快速部署内网穿透远程访问](pansoutg54nasdocker.md)
+- [私密日记极简部署，纯文本记录无数据库，Hibiscus.txt Docker内网穿透随处访问](hibiscus-txt-private-diary-docker-deployment.md)
+- [SideQuests 任务管理系统 Docker 一键部署，NAS 极简配置内网穿透远程访问任务](sidequests-docker-nas-deployment-intranet-penetration.md)
+- [个人财务管理系统BudgetBee，Docker一键部署，NAS极简配置，多账户记账工具](budget-bee-docker-deployment-nas-multi-account-accounting.md)

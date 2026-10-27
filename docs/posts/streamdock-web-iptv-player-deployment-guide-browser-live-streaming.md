@@ -96,3 +96,12 @@ M3U\_URL（可选）：IPTV 播放列表的地址。如果你有自己的 IPTV �
 ---
 
 原文：<https://www.passnat.com/posts/streamdock-web-iptv-player-deployment-guide-browser-live-streaming>
+
+
+## 相关文章
+
+- [IPTV m3u直播源聚合工具，本地部署智能检测优化，NAS内网快速搭建稳定播放列表](iptv-m3u-live-source-aggregation-tool-local-deployment-smart-detection-optimization-nas-intranet-fast-setup-stable-playlist.md)
+- [自建OmniBox影视综合站：一站式观影平台部署指南，NAS一键启动Docker快速搭建多源聚合系统，内网穿透远程访问](omniboxnasdocker.md)
+- [自建IPTV直播平台无需公网，Docker快速部署秒播体验，内网穿透随处访问管理](self-hosted-iptv-live-streaming-platform-docker-deployment-no-public-ip-fast-playback-internal-network-penetration.md)
+- [自动聚合优质IPTV直播源，支持NAS极简部署与内网穿透远程访问](auto-aggregate-quality-iptv-live-sources-nas-simple-deployment-intranet-penetration-remote-access.md)
+- [Webamp网页版Winamp音乐播放器Docker部署完整指南，NAS一键启动享受怀旧音乐体验](webamp-winamp-docker-nas-deployment-guide.md)

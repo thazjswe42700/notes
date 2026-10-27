@@ -121,3 +121,12 @@ A：确保前端静态资源已正确加载。清除浏览器缓存后重新访�
 ---
 
 原文：<https://www.passnat.com/posts/ruoyi-flowable-docker-deployment-guide-enterprise-workflow-engine>
+
+
+## 相关文章
+
+- [Novel-Plus 开源小说CMS系统 Docker一键部署 AI写作助手 内网穿透远程访问](novel-plus-open-source-cms-docker-deployment-ai-writing-assistant-intranet-penetration.md)
+- [开源文件预览服务kkFileView Docker部署完整指南，支持百余种格式在线查看](open-source-file-preview-kkfileview-docker-deployment-guide.md)
+- [个人音乐流媒体服务器Airsonic-Advanced部署教程，NAS内网穿透远程访问音乐库](airsonic-advanced-nas-deployment-guide-remote-music-streaming.md)
+- [无代码可视化爬虫平台 Spider-Flow，流程图定义任务无需编程，NAS 一键部署内网穿透远程访问](no-code-web-scraper-spider-flow-flowchart-nas-deployment.md)
+- [自托管日常任务笔记管理器DailyNotes，Markdown编辑加密存储，Docker一键部署](daily-notes-self-hosted-markdown-encrypted-storage-docker.md)

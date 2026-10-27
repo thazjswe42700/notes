@@ -104,3 +104,12 @@ http://你的NAS_IP:9999
 ---
 
 原文：<https://www.passnat.com/posts/gopeed-nas-deployment-guide-http-bt-download-remote-access>
+
+
+## 相关文章
+
+- [RetroArch复古游戏模拟器前端，支持NES、SNES、PS等多平台，NAS Docker极速部署，内网穿透远程畅玩经典游戏。](retroarch-nes-snes-ps-nas-docker-emulator.md)
+- [私有部署开源聊天应用VoceChat，NAS轻松搭建安全私密聊天系统，内网穿透远程访问](vocechat-private-deployment-nas-internal-network-penetration.md)
+- [免费私有相册系统Lomorage，Docker快速部署NAS，内网穿透远程访问家庭影库](lomorage-free-private-photo-gallery-docker-nas-deployment-remote-access.md)
+- [Standard Notes 私密笔记自建 - 端到端加密开源方案，NAS 极简部署指南](standard-notes-private-notes-self-hosted-end-to-end-encryption-open-source-nas-simple-deployment-guide.md)
+- [阿里云盘CLI命令行工具NAS部署指南，本地文件云端备份同步方案详解](aliyun-pan-cli-nas-deployment-guide-local-cloud-backup-sync-solution.md)

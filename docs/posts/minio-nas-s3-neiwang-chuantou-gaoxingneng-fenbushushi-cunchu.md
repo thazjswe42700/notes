@@ -72,3 +72,12 @@ MINIO\_CONSOLE\_ADDRESS：Web 控制台地址（默认：:9001）
 ---
 
 原文：<https://www.passnat.com/posts/minio-nas-s3-neiwang-chuantou-gaoxingneng-fenbushushi-cunchu>
+
+
+## 相关文章
+
+- [自托管私密笔记应用Notea，Docker极简部署，云存储灵活配置，内网穿透远程访问](self-hosted-private-notes-notea-docker-deployment-cloud-storage-remote-access.md)
+- [免费私有相册系统Lomorage，Docker快速部署NAS，内网穿透远程访问家庭影库](lomorage-free-private-photo-gallery-docker-nas-deployment-remote-access.md)
+- [Odoo开源ERP系统完整部署指南，企业管理一站式解决方案，内网穿透远程访问](odoo-erp-deployment-guide-enterprise-management-solution.md)
+- [开源物联网平台ThingsBoard Docker部署指南，NAS极简搭建企业级IoT解决方案](thingsboard-docker-deployment-guide-nas-enterprise-iot.md)
+- [InfluxDB时序数据库Docker部署指南，NAS内网穿透远程访问完整方案](influxdb-timeseries-docker-deployment-nas-internal-penetration-remote-access.md)

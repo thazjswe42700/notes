@@ -60,3 +60,12 @@ Odoo 需要持久化存储数据库和附件文件。建议创建以下目录映
 ---
 
 原文：<https://www.passnat.com/posts/odoo-erp-deployment-guide-enterprise-management-solution>
+
+
+## 相关文章
+
+- [开源仓库管理系统GreaterWMS Docker部署教程 NAS极简搭建完整指南](open-source-warehouse-management-system-greaterwms-docker-deployment-tutorial-nas-simple-setup-complete-guide.md)
+- [Redmine开源项目管理系统Docker部署指南，NAS快速安装配置，内网穿透远程访问完整教程](redmine-docker-deployment-nas-installation-intranet-penetration-remote-access.md)
+- [开源个人数据管理框架Eidos本地部署指南，SQLite私密数据库离线使用，NAS内网穿透远程访问完整教程](eidos-open-source-personal-data-management-local-deployment-guide-sqlite-private-database-offline-usage-nas-intranet-penetration-remote-access-complete-tutorial.md)
+- [企业IT运维管理系统CAT一键部署方案，Docker容器快速启动NAS设备应用](enterprise-it-operations-management-system-cat-one-click-deployment-docker-container-nas.md)
+- [Cherry私有视频库管理系统｜Docker快速部署｜NAS内网穿透远程访问影视库](cherry-private-video-library-docker-nas-remote-access.md)

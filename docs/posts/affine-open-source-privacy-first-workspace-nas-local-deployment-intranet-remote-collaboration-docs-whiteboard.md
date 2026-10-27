@@ -66,3 +66,12 @@ http://你的设备IP:3000
 ---
 
 原文：<https://www.passnat.com/posts/affine-open-source-privacy-first-workspace-nas-local-deployment-intranet-remote-collaboration-docs-whiteboard>
+
+
+## 相关文章
+
+- [开源个人数据管理框架Eidos本地部署指南，SQLite私密数据库离线使用，NAS内网穿透远程访问完整教程](eidos-open-source-personal-data-management-local-deployment-guide-sqlite-private-database-offline-usage-nas-intranet-penetration-remote-access-complete-tutorial.md)
+- [本地知识库HamsterBase Docker部署指南，NAS私密收集网页资源，内网穿透远程访问知识管理系统](hamsterbase-docker-deployment-nas-private-knowledge-management-remote-access.md)
+- [NotNav导航网站Notion数据库驱动，Next.js打造响应式设计支持内外网切换](notnav-notion-database-nextjs-responsive-design.md)
+- [开源自托管项目管理工具Focalboard部署指南，NAS内网穿透远程访问完整教程](focalboard-open-source-self-hosted-project-management-deployment-guide-nas-internal-penetration-remote-access-tutorial.md)
+- [自托管私密笔记应用Notea，Docker极简部署，云存储灵活配置，内网穿透远程访问](self-hosted-private-notes-notea-docker-deployment-cloud-storage-remote-access.md)

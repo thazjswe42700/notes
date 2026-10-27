@@ -117,3 +117,12 @@ docker exec -user steam palworld-dedicated-server backup clean 3
 ---
 
 原文：<https://www.passnat.com/posts/palworld-docker-nas-private-server-deployment>
+
+
+## 相关文章
+
+- [家庭私人照片管理系统PhotoStructure，NAS一键部署，内网穿透远程访问你的回忆](photostructure-nas-private-photo-management-remote-access.md)
+- [自建健身管理系统wger完整部署指南，Docker Compose一键启动训练营养追踪平台](fitness-management-system-wger-complete-deployment-guide-docker-compose-one-click-launch-training-nutrition-tracking-platform.md)
+- [Webtop：NAS 上的网页桌面，Docker 部署 + 内网穿透](webtop-nas-browser-linux-desktop-docker.md)
+- [WPS Office 浏览器在线办公：NAS Docker 部署 + 内网穿透](wps-office-nas-docker-browser-online-office-intranet-penetration.md)
+- [无状态密码管理器Heimdallr，一密掌控所有账户，NAS本地部署零风险，内网穿透远程访问无忧](heimdallr-stateless-password-manager-nas-local-deployment.md)

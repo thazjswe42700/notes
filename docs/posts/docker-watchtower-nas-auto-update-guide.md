@@ -97,3 +97,12 @@ Watchtower 会在后台持续监控你的容器
 ---
 
 原文：<https://www.passnat.com/posts/docker-watchtower-nas-auto-update-guide>
+
+
+## 相关文章
+
+- [docker-autocompose Docker容器自动生成compose配置文件工具，一键导出容器环境设置](docker-autocompose-container-compose-generator.md)
+- [WUD Docker容器镜像更新监控工具，NAS一键部署，自动检测镜像版本，内网穿透远程管理](wud-docker-container-image-update-monitoring-tool-nas-one-click-deployment-automatic-version-detection-intranet-penetration-remote-management.md)
+- [容器管理神器Yacht一键部署指南，Docker应用模板化管理简单易用，支持内网穿透远程访问管理](yacht-docker-container-management-deployment-guide.md)
+- [DopplerTask开源自动化平台Docker快速部署指南，NAS轻松搭建工作流自动化系统](doppler-task-docker-nas-workflow-automation-guide.md)
+- [Yacht容器管理系统一键部署指南，Docker应用模板快速启动，NAS自建服务完整教程](yacht-container-management-one-click-deployment-guide-docker-application-templates-quick-start-nas-self-built-services-complete-tutorial.md)

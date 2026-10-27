@@ -61,3 +61,12 @@ REDMINE\_DB\_PASSWORD | 数据库密码 | 无
 ---
 
 原文：<https://www.passnat.com/posts/redmine-docker-deployment-nas-installation-intranet-penetration-remote-access>
+
+
+## 相关文章
+
+- [无数据库Wiki知识库系统，NAS极简部署DokuWiki，内网穿透远程访问个人文档平台](dokuwiki-nas-intranet-penetration-remote-access.md)
+- [Wiki.js 知识库：NAS Docker 部署 + 内网穿透](wikijs-nas-docker-team-knowledge-base-intranet-penetration.md)
+- [个人知识库TiddlyWiki5 Docker极简部署NAS无公网内网穿透远程访问](personal-knowledge-base-tiddlywiki5-docker-deployment-nas-intranet-tunneling-remote-access.md)
+- [开源自托管项目管理工具Focalboard部署指南，NAS内网穿透远程访问完整教程](focalboard-open-source-self-hosted-project-management-deployment-guide-nas-internal-penetration-remote-access-tutorial.md)
+- [MinDoc轻量级文档管理系统Docker极简部署，Golang高性能跨平台支持，内网穿透远程安全访问](mindoc-docker-deployment-golang-intranet-penetration.md)

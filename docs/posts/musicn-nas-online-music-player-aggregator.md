@@ -131,3 +131,12 @@ docker-compose up -d
 ---
 
 原文：<https://www.passnat.com/posts/musicn-nas-online-music-player-aggregator>
+
+
+## 相关文章
+
+- [免费在线虚拟钢琴演奏平台 AutoPiano NAS 极简部署 内网穿透远程弹奏](free-online-virtual-piano-autopiano-nas-simple-deployment-intranet-penetration-remote-playing.md)
+- [在线AI智能抠图工具，支持Web和API接口，NAS一键部署，内网穿透远程访问使用](ai-intelligent-image-matting-web-api-nas-deployment.md)
+- [DPanel Docker可视化管理面板一键部署，内网穿透远程访问容器，极简操作无需命令行](dpanel-docker-visual-management-panel-one-click-deployment-intranet-penetration-remote-access-containers-simple-operation-no-command-line.md)
+- [自托管即时通讯平台Stoat完整部署指南，内网穿透远程访问无公网限制](self-hosted-stoat-instant-messaging-deployment-guide-intranet-penetration-remote-access-no-public-ip.md)
+- [小爱音箱无限音乐播放器XiaoMusic，Docker极简部署内网穿透远程访问](xiaomi-xiaomusic-docker-lan-remote-access.md)

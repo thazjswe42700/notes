@@ -139,3 +139,8 @@ volumes:
 ---
 
 原文：<https://www.passnat.com/posts/self-hosted-firefly-iii-docker-nas-internal-penetration-remote-access>
+
+
+## 相关文章
+
+- [OpenBudgeteer 自建家庭预算：NAS Docker 部署 + 桶预算 + 报表](openbudgeteer-nas-docker-household-bucket-budget.md)

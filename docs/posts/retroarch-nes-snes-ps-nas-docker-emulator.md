@@ -90,3 +90,12 @@ ROM 文件管理：将你的游戏 ROM 文件放在映射的 /roms 目录中，R
 ---
 
 原文：<https://www.passnat.com/posts/retroarch-nes-snes-ps-nas-docker-emulator>
+
+
+## 相关文章
+
+- [Gopeed高速下载器NAS部署指南，跨平台支持HTTP与BT下载，内网穿透远程访问](gopeed-nas-deployment-guide-http-bt-download-remote-access.md)
+- [私有部署开源聊天应用VoceChat，NAS轻松搭建安全私密聊天系统，内网穿透远程访问](vocechat-private-deployment-nas-internal-network-penetration.md)
+- [Standard Notes 私密笔记自建 - 端到端加密开源方案，NAS 极简部署指南](standard-notes-private-notes-self-hosted-end-to-end-encryption-open-source-nas-simple-deployment-guide.md)
+- [免费私有相册系统Lomorage，Docker快速部署NAS，内网穿透远程访问家庭影库](lomorage-free-private-photo-gallery-docker-nas-deployment-remote-access.md)
+- [装忙神器Genact：Rust编写跨平台终端动画，NAS一键部署模拟工作场景](genact-rust-terminal-animation-nas-deployment.md)

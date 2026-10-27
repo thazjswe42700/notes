@@ -71,3 +71,12 @@ Kiwix 自己没有账号系统，所以开放到公网之前，务必给隧道�
 ---
 
 原文：<https://www.passnat.com/posts/kiwix-tools-offline-nas-deployment-docker-wikipedia>
+
+
+## 相关文章
+
+- [自建开发者工具箱 it-tools：飞牛 NAS Docker 部署，86 个小工具一页全有，配内网穿透在外面也能用](it-tools-docker-intranet-penetration-remote-access.md)
+- [私有ntfy推送服务NAS极简部署，内网穿透外网实时通知接收方案](private-ntfy-push-service-nas-minimal-deployment-intranet-penetration-external-network-real-time-notification-solution.md)
+- [MicroBin 临时分享：NAS Docker 部署 + 内网穿透](microbin-lightweight-self-hosted-clipboard-docker-deployment-intranet-penetration.md)
+- [离线OCR识别工具TrWebOCR，NAS一键部署，内网穿透远程访问，支持中文识别](tr-web-ocr-offline-recognition-nas-deployment-intranet-penetration-chinese-support.md)
+- [基于Django框架的私人词典库系统，支持mdx和zim格式，局域网内轻松部署查询工具](private-dictionary-system-django-mdx-zim-local-network-deployment.md)

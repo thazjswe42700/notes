@@ -70,3 +70,12 @@ AUTH\_EXPIRE：会话过期时间，默认 7d（可设置为 m/h/d/M 后缀）
 ---
 
 原文：<https://www.passnat.com/posts/exercise-diary-home-fitness-tracker-github-style-visualization-go-nas-deployment>
+
+
+## 相关文章
+
+- [PicX免费开源图床工具，GitHub图片托管管理，在线即用无需安装，支持批量上传链接转换](picx-free-open-source-image-hosting-github-batch-upload.md)
+- [轻量级Markdown笔记应用Note Mark，Docker极简部署NAS，支持内网穿透远程访问笔记](note-mark-markdown-docker-nas-intranet-penetration.md)
+- [自建 Gitea 私有 Git 仓库：飞牛 NAS Docker 部署自己家的 GitHub，内网穿透在外面也能开](gitea-self-hosted-private-git-server-nas-docker-deployment-intranet-penetration.md)
+- [ExerciseDiary 健身打卡：NAS Docker 部署 + 内网穿透](exercisediary-nas-docker-fitness-checkin-calendar-intranet-penetration.md)
+- [轻量级全文搜索引擎ZincSearch快速部署指南，NAS极简配置Docker一键启动](zinc-search-nas-docker-deployment-guide.md)

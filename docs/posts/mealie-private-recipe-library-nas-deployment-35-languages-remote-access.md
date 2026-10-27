@@ -80,3 +80,12 @@ ALLOW\_SIGNUP 设为 false，关闭开放注册。BASE\_URL 在本期保持 http
 ---
 
 原文：<https://www.passnat.com/posts/mealie-private-recipe-library-nas-deployment-35-languages-remote-access>
+
+
+## 相关文章
+
+- [Navidrome 飞牛 NAS 部署与公网听歌](navidrome-docker-private-music-server.md)
+- [Homebox 飞牛 NAS 部署与公网查物品档案](home-asset-management-system-nas-deployment.md)
+- [Grocy 飞牛 NAS 部署与公网查库存](grocy-self-hosted-nas-deployment-internal-network-penetration-remote-access-food-inventory.md)
+- [qBittorrent 飞牛 NAS 部署与远程下载](qbittorrent-nas-remote-bt-downloader-deploy-intranet-penetration.md)
+- [Jellyfin 家庭影院：飞牛 NAS Docker 部署 + 内网穿透，出门手机接着看](jellyfin-nas-media-server-private-cinema.md)

@@ -84,3 +84,12 @@ docker run --rm -p 8080:80 -d hlsiira/atheos
 ---
 
 原文：<https://www.passnat.com/posts/atheos-lightweight-web-ide-docker-nas-deployment-guide>
+
+
+## 相关文章
+
+- [开源团队开发工具Team IDE一键Docker部署指南，多数据库中间件管理集成方案](open-source-team-ide-one-click-docker-deployment-guide-multi-database-middleware-management-integration.md)
+- [轻量级工作流引擎Dagu无代码部署，NAS一键启动内网穿透远程管理任务](dagu-lightweight-workflow-engine-nas-remote-management-no-code.md)
+- [code-server 自建网页版 VS Code：飞牛 NAS Docker 部署远程开发环境，内网穿透出门也能写代码](codeserver.md)
+- [轻量级全文搜索引擎ZincSearch快速部署指南，NAS极简配置Docker一键启动](zinc-search-nas-docker-deployment-guide.md)
+- [开源Rust音乐服务器Diosic极简部署，NAS轻量级流媒体解决方案](diosic-rust-music-server-nas-deployment.md)

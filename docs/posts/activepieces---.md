@@ -134,3 +134,12 @@ http://你的服务器IP:8080
 ---
 
 原文：<https://www.passnat.com/posts/activepieces--->
+
+
+## 相关文章
+
+- [开源AI搜索平台Search4All部署指南 NAS服务器Docker快速安装内网穿透远程访问](search4all-nas-docker-deployment-guide-intranet-penetration-remote-access.md)
+- [开源AI工作空间AIaW：跨平台客户端，集成多家大模型，NAS本地部署内网穿透远程访问](aiaw-open-source-ai-workspace-cross-platform-client-multi-model-integration-nas-local-deployment-intranet-penetration-remote-access.md)
+- [开源自主翻译API LibreTranslate Docker部署指南 NAS一键搭建私人翻译服务](libre-translate-docker-nas-deployment-guide.md)
+- [Open WebUI 自建 AI 对话站：飞牛 NAS Docker 部署接云端模型不用显卡，内网穿透出门手机也能聊](open-webui-self-hosted-private-ai-chat-platform-docker-simple-deployment-offline-privacy.md)
+- [开源网站分析平台Matomo自建部署教程 NAS Docker快速安装配置指南](matomo-open-source-analytics-platform-nas-docker-deployment-guide.md)

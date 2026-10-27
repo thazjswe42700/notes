@@ -76,3 +76,12 @@ mtab 是容器的名称，可以自定义
 ---
 
 原文：<https://www.passnat.com/posts/mtab-bookmark-manager-private-deployment-guide-cross-platform-sync-no-ads-intranet-penetration-remote-access>
+
+
+## 相关文章
+
+- [自建私人书签管理库 一处部署随处访问，OneNav Docker极简快速部署指南](onenav-docker-bookmark-manager-deployment-guide.md)
+- [自建neko远程浏览器：飞牛NAS Docker部署+内网穿透外网访问](neko-remote-browser-nas-docker-deployment-intranet-penetration-external-access.md)
+- [Cronicle Edge 定时任务：NAS Docker 部署 + 内网穿透](cronicle-edge-nas-docker-scheduled-tasks-web-ui-job-logs-intranet-penetration.md)
+- [自托管书签同步工具Elysian，NAS私密备份浏览器书签，内网穿透远程访问同步](elysian-self-hosted-bookmark-sync-nas-backup-browser-bookmarks-intranet-penetration-remote-access.md)
+- [轻量级书签管理工具Shiori，NAS一键部署，支持内网穿透远程访问书签](lightweight-bookmark-manager-shiori-nas-one-click-deployment-intranet-penetration-remote-access.md)

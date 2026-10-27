@@ -50,3 +50,12 @@ shouchenicu/fastsend:0.6.0
 ---
 
 原文：<https://www.passnat.com/posts/fastend-p2p-file-transfer-webrtc-nas-docker>
+
+
+## 相关文章
+
+- [功能强大IP诊断工具MyIP Docker部署指南内网穿透远程访问配置](powerful-ip-diagnostic-tool-myip-docker-deployment-guide-intranet-penetration-remote-access-configuration.md)
+- [家常菜谱聚合平台来做菜，材料有限也能做美食，支持离线PWA，NAS一键Docker部署](home-cooking-recipes-pwa-nas-docker-deployment.md)
+- [自托管联邦即时通讯Databag部署指南，树莓派轻量级私密通讯解决方案教程](self-hosted-databag-federated-messaging-deployment-guide-raspberry-pi-lightweight-private-communication.md)
+- [浏览器WebRTC视频通话应用Call-Me，NAS一键部署，支持屏幕共享与内网穿透远程通话](browser-webrtc-video-call-app-call-me-nas-one-click-deployment-screen-sharing-intranet-penetration-remote-calling.md)
+- [自托管私人相册HomeGallery，AI智能识别，NAS极简部署，内网穿透远程访问](home-gallery-private-photos-ai-recognition-nas-deployment-remote-access.md)

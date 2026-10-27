@@ -143,3 +143,9 @@ volumes:
 ---
 
 原文：<https://www.passnat.com/posts/sure-personal-finance-nas-docker-accounts-cashflow-intranet-penetration>
+
+
+## 相关文章
+
+- [个人财务管理系统BudgetBee，Docker一键部署，NAS极简配置，多账户记账工具](budget-bee-docker-deployment-nas-multi-account-accounting.md)
+- [私有Beancount记账系统Docker快速部署指南，NAS轻松搭建个人财务管理平台](private-beancount-accounting-docker-deployment-guide-nas-personal-finance-management.md)

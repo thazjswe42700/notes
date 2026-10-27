@@ -125,3 +125,12 @@ DbGate 默认是没有登录这一关的 —— 不填 LOGIN 和 PASSWORD 的话
 ---
 
 原文：<https://www.passnat.com/posts/dbgate-database-management-tool-mysql-postgresql-mongodb-nas-docker-deployment>
+
+
+## 相关文章
+
+- [浏览器免费数据库设计工具DrawDB，无需账户在线绘制ER图生成SQL脚本](browser-free-database-design-tool-drawdb-er-diagram-sql-script.md)
+- [Mathesar 数据库变网页：NAS Docker 部署 + 内网穿透](mathesar-nas-docker-database-web-table-family-inventory-intranet-penetration.md)
+- [自然语言SQL对话工具，AI驱动数据库客户端，支持多数据库NAS快速部署](natural-language-sql-chat-ai-database-client-multi-database-nas-deployment.md)
+- [SQLite Web数据库管理工具极简部署指南 NAS内网穿透在线查询编辑](sqlite-web-database-management-tool-minimal-deployment-guide-nas-intranet-penetration-online-query-editing.md)
+- [Directus 开源数据管理平台 Docker 快速部署，NAS 自建内容管理系统无公网穿透远程访问！](directus-docker-nas-cms-remote-access.md)

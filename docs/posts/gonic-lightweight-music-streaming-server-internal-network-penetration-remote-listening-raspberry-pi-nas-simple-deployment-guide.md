@@ -121,3 +121,12 @@ http://你的NAS_IP:4747
 ---
 
 原文：<https://www.passnat.com/posts/gonic-lightweight-music-streaming-server-internal-network-penetration-remote-listening-raspberry-pi-nas-simple-deployment-guide>
+
+
+## 相关文章
+
+- [自建私人音乐库随处畅享，轻量级LMS服务器无公网也能远程访问音乐](private-music-library-lms-server-remote-access.md)
+- [自建私人有声书库，无限音频随处听，Booksonic Air 极简部署流媒体服务](booksonic-air-private-audiobook-library-streaming-service.md)
+- [自建私人音乐统计库 Maloja Docker 一键部署 NAS 内网穿透远程访问](self-hosted-music-stats-maloja-docker-nas-remote-access.md)
+- [开源低代码平台Appsmith本地部署指南，NAS极简安装Docker Compose，无公网内网穿透远程访问](appsmith-nas-docker-compose-local-deployment-guide.md)
+- [在线AI智能抠图工具，支持Web和API接口，NAS一键部署，内网穿透远程访问使用](ai-intelligent-image-matting-web-api-nas-deployment.md)

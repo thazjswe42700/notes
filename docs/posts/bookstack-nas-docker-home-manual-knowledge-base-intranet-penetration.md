@@ -121,3 +121,12 @@ docker exec -it bookstack php /app/www/artisan bookstack:create-admin --email=yo
 ---
 
 原文：<https://www.passnat.com/posts/bookstack-nas-docker-home-manual-knowledge-base-intranet-penetration>
+
+
+## 相关文章
+
+- [Lychee 自建私人相册：飞牛 NAS Docker 部署 + 内网穿透外网访问](lychee-nas-self-hosted-photo-album-share-link-password.md)
+- [PairDrop 自建隔空投送：飞牛 NAS Docker 部署 + 内网穿透跨设备传文件](pairdrop-cross-device-file-transfer-nas-docker-deployment-intranet-penetration.md)
+- [自架推送服务平台PushDeer，NAS极简部署，支持内网穿透远程推送，多设备同步私密消息](self-hosted-push-notification-service-pushdeer-nas-simple-deployment-intranet-penetration-remote-push-multi-device-sync-private-messages.md)
+- [LinkStack 自建个人名片页：NAS Docker 部署 + 公网访问完整步骤](linkstack-nas-docker-personal-link-page.md)
+- [StackEdit开源Markdown编辑器完整部署指南，Docker一键启动支持内网穿透远程访问](stackedit-docker-deployment-guide-internal-penetration-remote-access.md)

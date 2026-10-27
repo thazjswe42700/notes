@@ -83,3 +83,12 @@ volumes:
 ---
 
 原文：<https://www.passnat.com/posts/exercisediary-nas-docker-fitness-checkin-calendar-intranet-penetration>
+
+
+## 相关文章
+
+- [居家健身记录神器，GitHub风格可视化展示，Go语言轻量级应用，NAS一键部署Exercise Diary](exercise-diary-home-fitness-tracker-github-style-visualization-go-nas-deployment.md)
+- [RStudio 数据分析：NAS Docker 部署 + 内网穿透](rstudio-nas-docker-r-data-analysis-intranet-penetration.md)
+- [Swagger Editor：NAS Docker 部署 + 内网穿透](swagger-editor-nas-docker-openapi-api-docs-intranet-penetration.md)
+- [Moodist 环境音效：NAS Docker 部署 + 内网穿透](self-hosted-ambient-sound-platform-moodist-75-curated-sounds-meditation-privacy-first-open-source-free.md)
+- [Grist 家庭台账：NAS Docker 部署 + 内网穿透](grist-nas-docker-linked-records-family-ledger-intranet-penetration.md)

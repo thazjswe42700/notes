@@ -76,3 +76,12 @@ NODE\_ENV：运行环境，默认值为 'production'（生产环境）
 ---
 
 原文：<https://www.passnat.com/posts/lightweight-encrypted-notes-nas-one-click-deploy-notepad-password-login>
+
+
+## 相关文章
+
+- [端到端加密笔记分享，NAS 极简部署 Enclosed，零知识架构客户端加密，内网穿透外网访问](enclosed-end-to-end-encrypted-notes-nas-deployment-zero-knowledge-architecture.md)
+- [极简命令行笔记本 Dnote 自建部署：Docker 快速上手，内网穿透远程访问笔记库](dnote-self-hosted-docker-deployment-internal-penetration-remote-access.md)
+- [自托管私密笔记应用Notea，Docker极简部署，云存储灵活配置，内网穿透远程访问](self-hosted-private-notes-notea-docker-deployment-cloud-storage-remote-access.md)
+- [轻量级Markdown笔记应用Note Mark，Docker极简部署NAS，支持内网穿透远程访问笔记](note-mark-markdown-docker-nas-intranet-penetration.md)
+- [自托管笔记书签管理Benotes Docker部署指南，NAS轻松搭建私有知识库](self-hosted-notes-bookmarks-benotes-docker-nas-private-knowledge-base.md)

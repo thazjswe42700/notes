@@ -107,3 +107,12 @@ services:
 ---
 
 原文：<https://www.passnat.com/posts/lute-nas-docker-foreign-language-reading-vocabulary>
+
+
+## 相关文章
+
+- [OpenGist 自建代码片段库：NAS Docker 部署 + 修订差异怎么看](opengist-nas-docker-snippet-share-revision-history.md)
+- [DocuSeal 自建电子签署：NAS Docker 部署 + 签署链接怎么发](docuseal-nas-docker-e-signature-contract.md)
+- [OpenBudgeteer 自建家庭预算：NAS Docker 部署 + 桶预算 + 报表](openbudgeteer-nas-docker-household-bucket-budget.md)
+- [LinkStack 自建个人名片页：NAS Docker 部署 + 公网访问完整步骤](linkstack-nas-docker-personal-link-page.md)
+- [Scribble.rs 自建你画我猜：NAS Docker 部署 + 朋友点链接进房](scribble-rs-nas-docker-draw-and-guess-game.md)

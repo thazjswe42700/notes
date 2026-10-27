@@ -84,3 +84,12 @@ MEMCACHED\_NODES: 缓存节点配置（默认值：memcached:11211）
 ---
 
 原文：<https://www.passnat.com/posts/open-source-ticketing-system-zammad-quick-deployment-guide-nas-intranet-penetration-remote-access>
+
+
+## 相关文章
+
+- [本地部署AI大模型Ollama，离线运行Gemma Llama DeepSeek，支持内网穿透远程访问](local-deploy-ai-ollama-offline-gemma-llama-deepseek-intranet-tunneling.md)
+- [Redmine开源项目管理系统Docker部署指南，NAS快速安装配置，内网穿透远程访问完整教程](redmine-docker-deployment-nas-installation-intranet-penetration-remote-access.md)
+- [开源自建客服平台Chatwoot Docker部署指南，NAS极简配置内网穿透远程访问](open-source-customer-service-platform-chatwoot-docker-deployment-guide-nas-simple-configuration-internal-network-penetration-remote-access.md)
+- [开源密码管理器Passbolt部署指南，NAS极简安装内网穿透远程访问](passbolt-nas-deployment-guide-intranet-penetration-remote-access.md)
+- [企业IT运维管理系统CAT一键部署方案，Docker容器快速启动NAS设备应用](enterprise-it-operations-management-system-cat-one-click-deployment-docker-container-nas.md)

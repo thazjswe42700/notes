@@ -66,3 +66,12 @@ Tellor 是一款极简主义的单用户看板待办事项应用，它是 Trello
 ---
 
 原文：<https://www.passnat.com/posts/tellor-lightweight-task-board-self-hosted-deployment-docker-installation-guide>
+
+
+## 相关文章
+
+- [开源MediaWiki本地部署教程，Docker快速搭建个人维基百科系统，内网穿透远程访问](open-source-mediawiki-local-deployment-docker-personal-wiki-intranet-penetration.md)
+- [自建个人导航页面服务器实时监控工具，Docker快速部署Jump内网穿透远程访问](personal-navigation-server-monitoring-docker-jump-intranet-penetration.md)
+- [自建短链接服务YOURLS Docker部署教程，NAS一键搭建私有短链系统](self-hosted-yourls-docker-deployment-guide-nas-private-short-link-system.md)
+- [自建RSS阅读聚合中心，内网穿透远程订阅，Selfoss极简Docker部署完全指南](self-hosted-rss-reader-selfoss-docker-deployment-guide.md)
+- [企业IT运维管理系统CAT一键部署方案，Docker容器快速启动NAS设备应用](enterprise-it-operations-management-system-cat-one-click-deployment-docker-container-nas.md)

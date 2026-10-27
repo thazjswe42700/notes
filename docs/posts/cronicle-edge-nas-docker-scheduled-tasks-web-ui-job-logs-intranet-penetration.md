@@ -105,3 +105,12 @@ echo "整理完成，归档到 $(date +%Y-%m-%d)"
 ---
 
 原文：<https://www.passnat.com/posts/cronicle-edge-nas-docker-scheduled-tasks-web-ui-job-logs-intranet-penetration>
+
+
+## 相关文章
+
+- [开源命令行可视化工具OliveTin，NAS一键部署，内网穿透远程访问，无公网也能随时执行](olivetin-nas-open-source-cli-visualization-tool-intranet-penetration-remote-access.md)
+- [自建私人书签管理库 一处部署随处访问，OneNav Docker极简快速部署指南](onenav-docker-bookmark-manager-deployment-guide.md)
+- [轻量级工作流引擎Dagu无代码部署，NAS一键启动内网穿透远程管理任务](dagu-lightweight-workflow-engine-nas-remote-management-no-code.md)
+- [mTab书签管理工具私有部署指南，跨平台同步无广告，内网穿透远程访问](mtab-bookmark-manager-private-deployment-guide-cross-platform-sync-no-ads-intranet-penetration-remote-access.md)
+- [高性能Rust端口扫描工具RustScan快速部署指南，3秒全端口扫描内网穿透远程访问](rust-scan-high-performance-port-scanner-quick-deployment-guide.md)

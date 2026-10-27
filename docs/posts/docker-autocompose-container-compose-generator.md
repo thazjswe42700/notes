@@ -76,3 +76,12 @@ docker run --rm -v /var/run/docker.sock:/var/run/docker.sock ghcr.io/red5d/docke
 ---
 
 原文：<https://www.passnat.com/posts/docker-autocompose-container-compose-generator>
+
+
+## 相关文章
+
+- [功能丰富的音乐播放器SPlayer部署指南，Vue3开发支持网页和客户端双端，集成网易云API随时享受高品质音乐体验](splayer-music-player-vue3-deployment-guide-netease-cloud-api.md)
+- [Docker容器自动更新工具Watchtower部署指南，NAS一键启用容器自动检测升级功能](docker-watchtower-nas-auto-update-guide.md)
+- [无需命令行Docker可视化管理工具，DockerUI网页界面轻松管理容器与镜像，支持NAS内网穿透部署](docker-ui-web-management-container-image-nas-intranet-penetration.md)
+- [WUD Docker容器镜像更新监控工具，NAS一键部署，自动检测镜像版本，内网穿透远程管理](wud-docker-container-image-update-monitoring-tool-nas-one-click-deployment-automatic-version-detection-intranet-penetration-remote-management.md)
+- [容器管理神器Yacht一键部署指南，Docker应用模板化管理简单易用，支持内网穿透远程访问管理](yacht-docker-container-management-deployment-guide.md)

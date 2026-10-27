@@ -88,3 +88,12 @@ LANGUAGE：界面语言设置
 ---
 
 原文：<https://www.passnat.com/posts/agendav-nas-deployment-guide-calendar-scheduling>
+
+
+## 相关文章
+
+- [自建短链接服务YOURLS Docker部署教程，NAS一键搭建私有短链系统](self-hosted-yourls-docker-deployment-guide-nas-private-short-link-system.md)
+- [自建私人日历通讯录服务器Baïkal，Docker极简部署，完全私密掌控，内网穿透远程访问。](baical-docker-private-calendar-contacts-server.md)
+- [开源MediaWiki本地部署教程，Docker快速搭建个人维基百科系统，内网穿透远程访问](open-source-mediawiki-local-deployment-docker-personal-wiki-intranet-penetration.md)
+- [自建个人导航页面服务器实时监控工具，Docker快速部署Jump内网穿透远程访问](personal-navigation-server-monitoring-docker-jump-intranet-penetration.md)
+- [自建RSS阅读聚合中心，内网穿透远程订阅，Selfoss极简Docker部署完全指南](self-hosted-rss-reader-selfoss-docker-deployment-guide.md)

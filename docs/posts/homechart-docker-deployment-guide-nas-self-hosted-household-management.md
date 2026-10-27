@@ -119,3 +119,12 @@ Homechart 的部署非常简洁高效，特别是通过 Docker Compose，你可�
 ---
 
 原文：<https://www.passnat.com/posts/homechart-docker-deployment-guide-nas-self-hosted-household-management>
+
+
+## 相关文章
+
+- [自建私人网盘PicHome Docker快速部署，NAS一键启动智能媒体管理系统](pichome-docker-nas-private-cloud-storage-deployment.md)
+- [AdGuard Home 飞牛 NAS 部署与公网管理](adguard-home-docker-ad-blocking-dns.md)
+- [开源日程管理系统Cal.com自托管部署指南，NAS极简配置内网穿透远程访问](open-source-calendar-management-system-cal-com-self-hosted-deployment-guide-nas-simple-configuration-intranet-penetration-remote-access.md)
+- [容器管理神器Yacht一键部署指南，Docker应用模板化管理简单易用，支持内网穿透远程访问管理](yacht-docker-container-management-deployment-guide.md)
+- [开源自托管项目管理工具Focalboard部署指南，NAS内网穿透远程访问完整教程](focalboard-open-source-self-hosted-project-management-deployment-guide-nas-internal-penetration-remote-access-tutorial.md)

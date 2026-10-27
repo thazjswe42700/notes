@@ -99,3 +99,12 @@ NODE\_ENV | 运行环境 | production | 否
 ---
 
 原文：<https://www.passnat.com/posts/teemii-comic-reader-nas-deployment>
+
+
+## 相关文章
+
+- [自托管漫画服务器Mango，私密在线阅读平台，支持多格式漫画，NAS一键部署](mango-self-hosted-comic-server-nas-deployment.md)
+- [开源RSS阅读器一键部署，聚合订阅内容无限浏览，NAS自建私人阅读平台内网穿透远程访问](open-source-rss-reader-one-click-deploy-aggregate-subscriptions-unlimited-browsing-nas-self-hosted-private-reading-platform-intranet-penetration-remote-access.md)
+- [聚合三大平台海量音乐，NAS 极简部署 Musicn 音乐库，一键启动在线播放下载](musicn-nas-online-music-player-aggregator.md)
+- [自建车辆管理系统Hammond NAS极简部署，多用户多车追踪燃油费用记录平台](vehicle-management-hammond-nas-deployment-multi-user-fuel-tracking.md)
+- [青蛇探针服务器监控系统，Docker一键部署实时可视化面板，支持远程SSH管理](qing-she-tan-zhen-fu-wu-qi-jian-kong-xi-tong-docker-yi-jian-bu-shu-shi-shi-ke-shi-hua-mian-ban-zhi-chi-yuan-cheng-ssh-guan-li.md)

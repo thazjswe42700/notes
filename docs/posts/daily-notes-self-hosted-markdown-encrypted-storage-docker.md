@@ -92,3 +92,12 @@ Markdown 编辑：支持 Github Flavored Markdown 格式，让你用熟悉的方
 ---
 
 原文：<https://www.passnat.com/posts/daily-notes-self-hosted-markdown-encrypted-storage-docker>
+
+
+## 相关文章
+
+- [轻量级Markdown笔记应用NoteFlow，本地部署无需数据库，支持内网穿透远程访问笔记管理系统](noteflow-lightweight-markdown-note-app-local-deployment-no-database-intranet-penetration-remote-access.md)
+- [PDF文件扫描效果转换器，本地浏览器处理无隐私泄露，支持离线PWA应用，NAS Docker快速部署。](pdf-scan-converter-local-browser-offline-pwa-nas-docker.md)
+- [Note Mark 笔记：NAS Docker 部署 + 内网穿透](note-mark-nas-docker-markdown-notes-search-intranet-penetration.md)
+- [自托管笔记书签管理Benotes Docker部署指南，NAS轻松搭建私有知识库](self-hosted-notes-bookmarks-benotes-docker-nas-private-knowledge-base.md)
+- [自托管笔记应用Flatnotes极简部署，无数据库Markdown笔记库远程访问方案](flatnotes-self-hosted-markdown-notes-deployment.md)

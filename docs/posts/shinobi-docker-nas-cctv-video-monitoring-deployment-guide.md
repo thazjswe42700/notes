@@ -112,3 +112,12 @@ http://NAS_IP:8080
 ---
 
 原文：<https://www.passnat.com/posts/shinobi-docker-nas-cctv-video-monitoring-deployment-guide>
+
+
+## 相关文章
+
+- [NodeBB现代论坛社区系统Docker部署指南，NAS一键安装配置实时互动讨论社区平台](nodebb-docker-nas-deployment-guide.md)
+- [青蛇探针服务器监控系统，Docker一键部署实时可视化面板，支持远程SSH管理](qing-she-tan-zhen-fu-wu-qi-jian-kong-xi-tong-docker-yi-jian-bu-shu-shi-shi-ke-shi-hua-mian-ban-zhi-chi-yuan-cheng-ssh-guan-li.md)
+- [开源私有视频会议系统Nettu Meet，Docker一键部署，支持屏幕共享和内网穿透远程访问](open-source-nettu-meet-video-conference-docker-deployment.md)
+- [聚合三大平台海量音乐，NAS 极简部署 Musicn 音乐库，一键启动在线播放下载](musicn-nas-online-music-player-aggregator.md)
+- [沉浸式虚拟办公平台 SkyOffice，NAS Docker 极简部署，远程团队协作新体验](skyoffice-nas-docker-remote-team-collaboration.md)

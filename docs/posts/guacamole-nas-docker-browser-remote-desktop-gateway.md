@@ -118,3 +118,12 @@ Windows 那边要打开「远程桌面」开关，账号要有密码。保存之
 ---
 
 原文：<https://www.passnat.com/posts/guacamole-nas-docker-browser-remote-desktop-gateway>
+
+
+## 相关文章
+
+- [Docker容器运行Windows系统 KVM加速极速部署 支持远程RDP连接访问](docker-windows-kvm-remote-rdp.md)
+- [自建neko远程浏览器：飞牛NAS Docker部署+内网穿透外网访问](neko-remote-browser-nas-docker-deployment-intranet-penetration-external-access.md)
+- [浏览器虚拟桌面系统daedalOS Docker快速部署 NAS内网穿透远程访问](browser-virtual-desktop-system-daedalos-docker-quick-deployment-nas-intranet-penetration-remote-access.md)
+- [Webtop：NAS 上的网页桌面，Docker 部署 + 内网穿透](webtop-nas-browser-linux-desktop-docker.md)
+- [Lute 自建外语阅读工具：NAS Docker 部署 + 生词状态怎么用](lute-nas-docker-foreign-language-reading-vocabulary.md)

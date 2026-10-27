@@ -139,3 +139,12 @@ Standard Notes 为你提供了一个完全私密、安全可靠的笔记解决�
 ---
 
 原文：<https://www.passnat.com/posts/standard-notes-private-notes-self-hosted-end-to-end-encryption-open-source-nas-simple-deployment-guide>
+
+
+## 相关文章
+
+- [免费私有相册系统Lomorage，Docker快速部署NAS，内网穿透远程访问家庭影库](lomorage-free-private-photo-gallery-docker-nas-deployment-remote-access.md)
+- [开源AI工作空间AIaW：跨平台客户端，集成多家大模型，NAS本地部署内网穿透远程访问](aiaw-open-source-ai-workspace-cross-platform-client-multi-model-integration-nas-local-deployment-intranet-penetration-remote-access.md)
+- [WeekToDo开源周计划管理应用，极简任务管理，本地部署隐私保护，Docker一键启动NAS自建。](week-todo-open-source-task-management-local-deployment-docker-nas.md)
+- [自建私人有声书库，无限音频随处听，Booksonic Air 极简部署流媒体服务](booksonic-air-private-audiobook-library-streaming-service.md)
+- [自架推送服务平台PushDeer，NAS极简部署，支持内网穿透远程推送，多设备同步私密消息](self-hosted-push-notification-service-pushdeer-nas-simple-deployment-intranet-penetration-remote-push-multi-device-sync-private-messages.md)

@@ -77,3 +77,12 @@ http://你的NAS_IP:8080
 ---
 
 原文：<https://www.passnat.com/posts/auto-aggregate-quality-iptv-live-sources-nas-simple-deployment-intranet-penetration-remote-access>
+
+
+## 相关文章
+
+- [自建IPTV直播平台无需公网，Docker快速部署秒播体验，内网穿透随处访问管理](self-hosted-iptv-live-streaming-platform-docker-deployment-no-public-ip-fast-playback-internal-network-penetration.md)
+- [IPTV m3u直播源聚合工具，本地部署智能检测优化，NAS内网快速搭建稳定播放列表](iptv-m3u-live-source-aggregation-tool-local-deployment-smart-detection-optimization-nas-intranet-fast-setup-stable-playlist.md)
+- [自建OmniBox影视综合站：一站式观影平台部署指南，NAS一键启动Docker快速搭建多源聚合系统，内网穿透远程访问](omniboxnasdocker.md)
+- [网页版IPTV播放器Streamdock简易部署指南，无客户端浏览器直播观看体验](streamdock-web-iptv-player-deployment-guide-browser-live-streaming.md)
+- [功能强大IP诊断工具MyIP Docker部署指南内网穿透远程访问配置](powerful-ip-diagnostic-tool-myip-docker-deployment-guide-intranet-penetration-remote-access-configuration.md)

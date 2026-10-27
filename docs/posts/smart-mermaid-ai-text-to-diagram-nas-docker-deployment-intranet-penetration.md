@@ -83,3 +83,12 @@ Smart Mermaid 自己不带模型，「把中文翻译成 Mermaid 语法」这一
 ---
 
 原文：<https://www.passnat.com/posts/smart-mermaid-ai-text-to-diagram-nas-docker-deployment-intranet-penetration>
+
+
+## 相关文章
+
+- [Homarr 自建服务导航页：飞牛 NAS Docker 部署 + 内网穿透外网访问](homarr-self-hosted-dashboard-nas-docker-deployment-intranet-penetration.md)
+- [简单图床 EasyImages 自建：飞牛 NAS Docker 部署 + 内网穿透外网访问](easyimage-self-hosted-image-hosting-nas-docker-deployment-intranet-penetration.md)
+- [DailyTxT 加密日记：飞牛 NAS Docker 部署 + 内网穿透外网访问](private-diary-encryption-nas-local-deployment-dailytxt-intranet-penetration-remote-access.md)
+- [Mattermost 团队聊天：NAS Docker 部署 + 内网穿透](mattermost-team-chat-nas-docker-intranet-penetration.md)
+- [开源AI工作空间AIaW：跨平台客户端，集成多家大模型，NAS本地部署内网穿透远程访问](aiaw-open-source-ai-workspace-cross-platform-client-multi-model-integration-nas-local-deployment-intranet-penetration-remote-access.md)

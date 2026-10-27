@@ -125,3 +125,12 @@ services:
 ---
 
 原文：<https://www.passnat.com/posts/koillection-nas-docker-collection-catalog-loans>
+
+
+## 相关文章
+
+- [自托管个人收藏管理系统Koillection，NAS私有部署Docker快速上手指南](koillection-nas-docker-deployment-guide.md)
+- [Lute 自建外语阅读工具：NAS Docker 部署 + 生词状态怎么用](lute-nas-docker-foreign-language-reading-vocabulary.md)
+- [Donetick 自建家务清单：NAS Docker 部署 + 全家分工 + 积分](donetick-nas-docker-family-chore-list-points.md)
+- [DocuSeal 自建电子签署：NAS Docker 部署 + 签署链接怎么发](docuseal-nas-docker-e-signature-contract.md)
+- [OpenGist 自建代码片段库：NAS Docker 部署 + 修订差异怎么看](opengist-nas-docker-snippet-share-revision-history.md)

@@ -106,3 +106,12 @@ Novel-Plus 是一套完整、专业的文学内容平台解决方案。通过 Do
 ---
 
 原文：<https://www.passnat.com/posts/novel-plus-open-source-cms-docker-deployment-ai-writing-assistant-intranet-penetration>
+
+
+## 相关文章
+
+- [RuoYi-Flowable开源工作流管理平台Docker快速部署指南，企业级流程引擎解决方案](ruoyi-flowable-docker-deployment-guide-enterprise-workflow-engine.md)
+- [个人音乐流媒体服务器Airsonic-Advanced部署教程，NAS内网穿透远程访问音乐库](airsonic-advanced-nas-deployment-guide-remote-music-streaming.md)
+- [开源文件预览服务kkFileView Docker部署完整指南，支持百余种格式在线查看](open-source-file-preview-kkfileview-docker-deployment-guide.md)
+- [Grav 建站：NAS 上 Docker 部署文件型 CMS + 内网穿透](private-grav-blog-nas-docker-deployment-intranet-tunneling.md)
+- [Directus 开源数据管理平台 Docker 快速部署，NAS 自建内容管理系统无公网穿透远程访问！](directus-docker-nas-cms-remote-access.md)

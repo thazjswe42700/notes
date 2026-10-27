@@ -60,3 +60,12 @@ READ\_BUFFER\_SIZE：读取缓冲区大小，默认为 10MB（10485760 字节）
 ---
 
 原文：<https://www.passnat.com/posts/aliyun-drive-fuse-mount-nas-private-cinema-remote-viewing>
+
+
+## 相关文章
+
+- [Jellyseerr开源影视请求管理系统，NAS一键部署Jellyfin媒体库，内网穿透远程访问审批影视资源](jellyseerr-nas-jellyfin-media-request-approval-system.md)
+- [Jellyfin 家庭影院：飞牛 NAS Docker 部署 + 内网穿透，出门手机接着看](jellyfin-nas-media-server-private-cinema.md)
+- [自建音乐库跨平台播放器Feishin完整部署指南，内网穿透远程访问方案](feishin-music-player-deploy-guide-lan-tunneling.md)
+- [远程同步观影神器SyncTV，NAS一键部署，与全球好友实时同步看电影直播](sync-tv-remote-synchronized-movie-watching-nas-one-click-deployment-real-time-global-friends.md)
+- [自托管Kyoo影视库服务器，智能识别无需配置，内网穿透远程访问，一次部署永久使用](self-hosted-kyoo-streaming-server-intelligent-recognition-setup-free-internal-network-traversal-remote-access-one-time-deployment-permanent-use.md)

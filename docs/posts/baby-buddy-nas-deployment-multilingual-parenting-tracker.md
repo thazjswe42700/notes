@@ -90,3 +90,12 @@ Baby Buddy 的出厂账号密码是 admin / admin —— **这行字就公开写
 ---
 
 原文：<https://www.passnat.com/posts/baby-buddy-nas-deployment-multilingual-parenting-tracker>
+
+
+## 相关文章
+
+- [Wallabag 稍后读：飞牛 NAS Docker 部署 + 内网穿透外网访问](wallabag-docker-deploy-nas-internal-penetration-remote-access.md)
+- [Homarr 自建服务导航页：飞牛 NAS Docker 部署 + 内网穿透外网访问](homarr-self-hosted-dashboard-nas-docker-deployment-intranet-penetration.md)
+- [哪吒监控自建服务器探针：飞牛 NAS Docker 部署 + 内网穿透外网访问](nezha-server-monitoring-nas-docker-deployment-intranet-penetration.md)
+- [Homepage 自建 NAS 导航首页：飞牛 Docker 部署 + 内网穿透外网访问](homepage-nas-service-dashboard-docker-deployment-intranet-penetration.md)
+- [Moments 自建朋友圈：飞牛 NAS Docker 部署 + 内网穿透外网访问](moments-self-hosted-private-timeline-nas-docker-deployment-intranet-penetration.md)

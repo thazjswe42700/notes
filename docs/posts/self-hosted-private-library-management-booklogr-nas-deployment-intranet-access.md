@@ -98,3 +98,12 @@ BookLogr 让书籍管理变得简单高效。通过 Docker Compose 的一键部�
 ---
 
 原文：<https://www.passnat.com/posts/self-hosted-private-library-management-booklogr-nas-deployment-intranet-access>
+
+
+## 相关文章
+
+- [自托管任务管理系统tududi Docker极简部署 本地数据完全私密可控](self-hosted-task-management-tududi-docker-deployment.md)
+- [自托管车辆保养追踪系统，本地部署LubeLogger，维护记录油耗管理随时查看](self-hosted-vehicle-maintenance-tracker-lubelogger-local-deployment.md)
+- [OpenClinica开源临床数据管理系统Docker部署指南，NAS内网穿透远程访问完整教程](openclinica-docker-deployment-nas-intranet-penetration-remote-access-guide.md)
+- [自托管个人收藏管理系统Koillection，NAS私有部署Docker快速上手指南](koillection-nas-docker-deployment-guide.md)
+- [Cogito个人知识库系统自建指南，NAS极简部署智能笔记管理工具，支持内网穿透远程访问](1-seo-slug-aa-bb-cc2-cogitoseoseo-slug------slug.md)

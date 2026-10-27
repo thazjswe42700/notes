@@ -110,3 +110,12 @@ Circled.me 的完整功能需要通过官方移动应用来体验，包括照片
 ---
 
 原文：<https://www.passnat.com/posts/circled-me-private-community-server-simple-deployment-guide-nas-one-click-startup-no-public-network-penetration>
+
+
+## 相关文章
+
+- [自建私密文件转换服务器Morphos，支持图片文档电子书格式互转，Docker一键部署NAS](private-file-conversion-server-morphos-image-document-ebook-docker-nas.md)
+- [跨平台音乐服务器Lyrion Music Server部署指南，NAS音乐流媒体服务器快速安装教程](lyrion-music-server-nas-deployment-guide.md)
+- [code-server 自建网页版 VS Code：飞牛 NAS Docker 部署远程开发环境，内网穿透出门也能写代码](codeserver.md)
+- [自建私人音乐库服务器，Auddly Music Server 极简部署，内网穿透远程访问享受高品质音乐](self-hosted-private-music-server-auddly-music-server-minimal-deployment-internal-network-penetration-remote-access-high-quality-music.md)
+- [Rocker R语言容器镜像部署指南，RStudio远程开发环境搭建，Docker版本化管理方案](rocker-r-language-container-image-deployment-rstudio-remote-development-docker-version-management.md)

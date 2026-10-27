@@ -125,3 +125,12 @@ docker exec my-itop /setup-itop-cron.sh Cron Pa$5w0rD
 ---
 
 原文：<https://www.passnat.com/posts/open-source-itop-docker-deployment-guide-enterprise-it-asset-management>
+
+
+## 相关文章
+
+- [企业IT运维管理系统CAT一键部署方案，Docker容器快速启动NAS设备应用](enterprise-it-operations-management-system-cat-one-click-deployment-docker-container-nas.md)
+- [自建 Gitea 私有 Git 仓库：飞牛 NAS Docker 部署自己家的 GitHub，内网穿透在外面也能开](gitea-self-hosted-private-git-server-nas-docker-deployment-intranet-penetration.md)
+- [轻量级Git容器镜像Alpine Docker，资源受限环境极简部署，无需安装Git直接运行](lightweight-git-alpine-docker-minimal-deployment-resource-constrained.md)
+- [Redmine开源项目管理系统Docker部署指南，NAS快速安装配置，内网穿透远程访问完整教程](redmine-docker-deployment-nas-installation-intranet-penetration-remote-access.md)
+- [RuoYi-Flowable开源工作流管理平台Docker快速部署指南，企业级流程引擎解决方案](ruoyi-flowable-docker-deployment-guide-enterprise-workflow-engine.md)

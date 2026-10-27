@@ -85,3 +85,12 @@ ACCESS\_CODE\_LIST 是访问码，这一行最好不要留空。这个应用的 
 ---
 
 原文：<https://www.passnat.com/posts/ai-flowchart-next-ai-draw-io-nas-docker-deployment-intranet-penetration>
+
+
+## 相关文章
+
+- [飞牛 NAS 部署 drawio 流程图工具：浏览器画图、保存图稿并导出 PNG](drawio-nas-flowchart-docker-guide.md)
+- [浏览器里直接 SSH 到 NAS：飞牛 Docker 自建 Next Terminal + 内网穿透远程运维](next-terminal-fnos-docker-passnat.md)
+- [Excalidraw 白板：NAS Docker 部署 + 内网穿透](excalidraw-nas-docker-whiteboard-diagrams-intranet-penetration.md)
+- [开源AI工作空间AIaW：跨平台客户端，集成多家大模型，NAS本地部署内网穿透远程访问](aiaw-open-source-ai-workspace-cross-platform-client-multi-model-integration-nas-local-deployment-intranet-penetration-remote-access.md)
+- [自建 Smart Mermaid：飞牛 NAS Docker 部署 + 内网穿透外网访问](smart-mermaid-ai-text-to-diagram-nas-docker-deployment-intranet-penetration.md)

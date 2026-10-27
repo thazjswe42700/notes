@@ -75,3 +75,12 @@ Firefox 用户：在 Firefox 附加组件中搜索并安装 Yaade 扩展
 ---
 
 原文：<https://www.passnat.com/posts/yaade-open-source-api-development-docker-deployment-guide>
+
+
+## 相关文章
+
+- [浏览器WebRTC视频通话应用Call-Me，NAS一键部署，支持屏幕共享与内网穿透远程通话](browser-webrtc-video-call-app-call-me-nas-one-click-deployment-screen-sharing-intranet-penetration-remote-calling.md)
+- [自托管短链接服务Snapp，私密数据掌控无忧，NAS极简部署零烦恼，内网穿透远程访问](self-hosted-url-shortener-snapp-private-data-nas-deployment-intranet-penetration.md)
+- [私密日记极简部署，纯文本记录无数据库，Hibiscus.txt Docker内网穿透随处访问](hibiscus-txt-private-diary-docker-deployment.md)
+- [自建图片社区平台Szurubooru，Docker极简部署NAS，内网穿透远程访问图片库](szurubooru-docker-nas-deployment-intranet-penetration-remote-access-image-library.md)
+- [Markopolis自托管Markdown笔记发布平台，完全开源无限制，NAS极简部署即可用，支持内网穿透远程访问](markopolis-self-hosted-markdown-notes-publishing-platform-open-source-nas-deployment.md)

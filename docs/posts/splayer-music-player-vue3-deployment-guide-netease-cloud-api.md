@@ -117,3 +117,12 @@ docker-compose up -d
 ---
 
 原文：<https://www.passnat.com/posts/splayer-music-player-vue3-deployment-guide-netease-cloud-api>
+
+
+## 相关文章
+
+- [docker-autocompose Docker容器自动生成compose配置文件工具，一键导出容器环境设置](docker-autocompose-container-compose-generator.md)
+- [开源低代码平台Appsmith本地部署指南，NAS极简安装Docker Compose，无公网内网穿透远程访问](appsmith-nas-docker-compose-local-deployment-guide.md)
+- [在线AI智能抠图工具，支持Web和API接口，NAS一键部署，内网穿透远程访问使用](ai-intelligent-image-matting-web-api-nas-deployment.md)
+- [轻量级音乐流媒体服务器Gonic，内网穿透远程听歌，树莓派NAS极简部署指南](gonic-lightweight-music-streaming-server-internal-network-penetration-remote-listening-raspberry-pi-nas-simple-deployment-guide.md)
+- [网页广播播放器PawTunes部署教程 Docker一键启动NAS内网穿透远程访问](pawtubes-docker-nas-remote-access-setup.md)

@@ -98,3 +98,12 @@ Halo 装在 NAS 上属于那种一次装好、之后只管写的应用：一个�
 ---
 
 原文：<https://www.passnat.com/posts/halo-kaikuai-bushu-zhinian-docker-yijian-qidong-nas-zijian-wangzhan-wuyxu-gongwang>
+
+
+## 相关文章
+
+- [翻数据库不用再开客户端：飞牛 NAS 用一个容器装 DbGate，浏览器里开表写 SQL，配内网穿透在外面也能连](dbgate-database-management-tool-mysql-postgresql-mongodb-nas-docker-deployment.md)
+- [宽带有没有缩水：飞牛 NAS 用一个容器装 MySpeed，它自己按点测速记账，配内网穿透在外面也能看](nas-broadband-speed-test-logger-docker-myspeed-intranet-penetration-remote-monitor.md)
+- [自建网盘 Cloudreve：飞牛 NAS 一个容器就能装，文件传上去右键甩个链接，配内网穿透在外面也能收发](nas-self-hosted-cloud-storage-docker-cloudreve-intranet-penetration-remote-file-share.md)
+- [自建在线表格 NocoDB：飞牛 NAS Docker 部署，Airtable 的开源替代，配内网穿透在外面也能打开自己的表](nocodb-one-click-deploy-airtable-open-source-alternative-nas-local-database-management.md)
+- [Portainer容器管理面板部署指南，飞牛NAS用Docker搭建可视化面板，配内网穿透在外面也能管容器](portainer-nas-docker-container-management-panel-deployment-guide.md)

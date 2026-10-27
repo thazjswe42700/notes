@@ -75,3 +75,12 @@ http://你的NAS地址:8080
 ---
 
 原文：<https://www.passnat.com/posts/self-hosted-yourls-docker-deployment-guide-nas-private-short-link-system>
+
+
+## 相关文章
+
+- [开源MediaWiki本地部署教程，Docker快速搭建个人维基百科系统，内网穿透远程访问](open-source-mediawiki-local-deployment-docker-personal-wiki-intranet-penetration.md)
+- [自建个人导航页面服务器实时监控工具，Docker快速部署Jump内网穿透远程访问](personal-navigation-server-monitoring-docker-jump-intranet-penetration.md)
+- [自建RSS阅读聚合中心，内网穿透远程订阅，Selfoss极简Docker部署完全指南](self-hosted-rss-reader-selfoss-docker-deployment-guide.md)
+- [PHP动态二维码生成系统部署指南，Docker一键启动内网穿透远程访问管理平台](php-dynamic-qr-code-generator-docker-deployment-guide.md)
+- [AgenDAV 网页日历客户端 NAS 自建部署指南，内网穿透远程访问日程管理系统](agendav-nas-deployment-guide-calendar-scheduling.md)

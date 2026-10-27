@@ -74,3 +74,12 @@ ironsmile/euterpe:latest
 ---
 
 原文：<https://www.passnat.com/posts/go-lightweight-music-server-euterpe-nas-one-click-deployment-intranet-penetration>
+
+
+## 相关文章
+
+- [在线音乐标签编辑器 Web版 支持FLAC MP3 M4A 远程NAS音乐管理 内网穿透](online-music-tag-editor-web-flac-mp3-m4a-nas-intranet-penetration.md)
+- [个人音乐流媒体服务器Airsonic-Advanced部署教程，NAS内网穿透远程访问音乐库](airsonic-advanced-nas-deployment-guide-remote-music-streaming.md)
+- [聚合三大平台海量音乐，NAS 极简部署 Musicn 音乐库，一键启动在线播放下载](musicn-nas-online-music-player-aggregator.md)
+- [免费在线虚拟钢琴演奏平台 AutoPiano NAS 极简部署 内网穿透远程弹奏](free-online-virtual-piano-autopiano-nas-simple-deployment-intranet-penetration-remote-playing.md)
+- [在线AI智能抠图工具，支持Web和API接口，NAS一键部署，内网穿透远程访问使用](ai-intelligent-image-matting-web-api-nas-deployment.md)
